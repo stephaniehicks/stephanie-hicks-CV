@@ -16,6 +16,7 @@
 \item[\fcolorbox{white}{grey}{\color{white} \tiny \arabic{enumi}}]
 }
 
+
 \definecolor{grey}{gray}{0.35}
 \definecolor{darkblue}{rgb}{0.0,0.0,0.75}
 \hypersetup{colorlinks,breaklinks,
@@ -238,6 +239,7 @@ Nature Communications, Nature Methods, Nature Biotechnology,
 
 \mydot{-0.1em}
 
+\item Editorial Board member, \href{https://genomebiology.biomedcentral.com/about/editorial-board}{\textit{Genome Biology}} (2020 -- present). 
 \item Associate Editor, \href{https://www.bioverlay.org}{\textit{biOverlay}} (2018 -- 2020).
 
 \ee
@@ -289,7 +291,7 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 \subsection*{Awards}
 
 \mydot{-0.1em}
-\item 2020 ASA \href{https://community.amstat.org/tshs/awards/younginvestigatoraward}{Teaching in the Health Sciences Young Investigator Award}.
+\item American Statistical Association (ASA) \href{https://community.amstat.org/tshs/awards/younginvestigatoraward}{Teaching in the Health Sciences Young Investigator Award} (2020).
 \item Bloomberg American Health Initiative \href{https://americanhealth.jhu.edu/open-case-studies}{High Impact Project} Award (2019).
 \item Research Grant, NIH/NHGRI K99/R00 Pathway to Independence Award (2017 -- 2021). 
 \item Travel award, \href{https://cwstat.org}{Caucus for Women in Statistics (CWS)} (2017).
@@ -302,7 +304,7 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 \item Pre-doctoral Fellowship, NIH/NCI T32 Predoctoral Training Program in Biostatistics, Rice University (2009 -- 2011).
 \item LSU Austin Chapter Scholarship Award (2007).
 \item Undergraduate scholarship, LA-STEM Research Scholars, LSU (2005 -- 2007).
-\item Undergraduate scholarship, HMMI Professors Program, LSU (2004 -- 2005).
+\item Undergraduate scholarship, HHMI Professors Program, LSU (2004 -- 2005).
 \item TOPS Tuition Award, LSU (2003 -- 2007).
 
 \ee
@@ -319,23 +321,28 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 
 
 
-\subsection*{PUBLICATIONS \ {\tiny \em  The white numbers indicate first or senior author manuscripts. The $^*$ indicates a mentored student or post-doctoral fellow}}
+\subsection*{PUBLICATIONS \ {\tiny \em  The white numbers indicate first or senior author manuscripts. The $^*$ indicates a mentored student or post-doctoral fellow. The $\dagger$ and $\ddagger$ indicates co-first and co-last author, respectively.}}
 
 \smallskip
 
 \subsection*{Journal Articles (Peer-Reviewed and Published)}
 
 <<google-scholar-cites, echo=FALSE>>=
-pubs <- read.csv("pubs.csv")
+pubs <- read.csv("scripts/gscholar/pubs.csv")
 @
 
 \myben{0.4em}
 
-\mine % May 27
-{\bf Hicks SC}, Liu R$^{*}$, Ni Y, Purdom E, Risso D (2020). mbkmeans: fast clustering for single cell data using mini-batch $k$-means. (2020). \dg{Accepted in {\it PLOS Computational Biology} and currently available on {\it bioRxiv} at \url{https://doi.org/10.1101/2020.05.27.119438}}. % \gs{$\Sexpr{pubs[pubs[,8] == "CHSYGLWDkRkC",5]}$}.
-\item % Feb 28 
-Maynard KR, Collado-Torres L, Weber LM$^{*}$, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, {\bf Hicks SC}, Martinowich K, Jaffe AE (2020). Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex. \dg{Accepted in {\it Nature Neuroscience} and currently available on {\it bioRxiv} at \url{https://doi.org/10.1101/2020.02.28.969931}}. \gs{$\Sexpr{pubs[pubs[,8] == "NhqRSupF_l8C",5]}$}.
-\mine % Jan 30
+
+\item 
+Maynard KR$^{\dagger}$, Collado-Torres L$^{\dagger}$, Weber LM$^{*}$, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, {\bf Hicks SC}, Martinowich K$^{\ddagger}$, Jaffe AE$^{\ddagger}$ (2021). Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex. \dg{{\it Nature Neuroscience}. doi: \url{https://doi.org/10.1101/2020.02.28.969931}}. \gs{$\Sexpr{pubs[pubs[,8] == "NhqRSupF_l8C",5]}$}.
+\mine % Jul 26
+Peng RD, {\bf Hicks SC}. (2021). Reproducible Research: A Retrospective. \dg{{\it Annual Review of Public Health}. doi: \url{https://doi.org/10.1146/annurev-publhealth-012420-105110}}.  % \gs{$\Sexpr{pubs[pubs[,8] == "nb7KW1ujOQ8C",5]}$}.
+\mine 
+{\bf Hicks SC}, Liu R$^{*}$, Ni Y, Purdom E, Risso D (2021). mbkmeans: fast clustering for single cell data using mini-batch $k$-means. \dg{{\it PLOS Computational Biology}. {\bf 17}(1):e1008625. Online ahead of print. PMID: 33497379}.  % \gs{$\Sexpr{pubs[pubs[,8] == "CHSYGLWDkRkC",5]}$}.
+\item 
+Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, {\bf Hicks SC}, Robinson MD (2020). TreeSummarizedExperiment: a S4 class for data with hierarchical structure [version 1; peer review: 2 approved, 1 approved with reservations]. \dg{{\it F1000Research}. {\bf 9}: 1246. PMID: 33274053.  PMCID: PMC7684683}. % \gs{$\Sexpr{pubs[pubs[,8] == "Tiz5es2fbqcC",5]}$}.
+\mine 
 Hou W$^{*}$, Ji J, Ji H, {\bf Hicks SC}. (2020). A systematic evaluation of single-cell RNA-sequencing imputation methods. \\ \dg{{\it Genome Biology}. {\bf 21}:218. PMID: 32854757 PMCID: PMC7450705}. \gs{$\Sexpr{pubs[pubs[,8] == "EUQCXRtRnyEC",5]}$}.
 \item 
 Lahnemann D, Koester J, Szczurek E, McCarthy D, {\bf Hicks S}, Robinson MD, Vallejos C, Beerenwinkel N, Campbell K, Mahfouz A, Pinello L, Skums P, Stamatakis A, Stephan-Otto Attolini C, Aparicio S, Baaijens J, Balvert M, de Barbanson B, Cappuccio A, Corleone G, Dutilh B, Florescu M, Guryev V, Holmer R, Jahn K, Lobo TJ, Keizer E, Khatri I, Kiełbasa S, Korbel J, Kozlov A, Kuo T-H, Lelieveldt B, Mandoiu I, Marioni J, Marschall T, Molder F, Niknejad A, Raczkowski L, Reinders M, de Ridder J, Saliba A-E, Somarakis A, Stegle O, Theis F, Yang H, Zelikovsky A, McHardy A, Raphael B, Shah S, Schonhuth S. (2020). Eleven grand challenges in single-cell data science. \dg{{\it Genome Biology}. {\bf 21}:31. PMID: 32033589.  PMCID: PMC7007675.} \gs{$\Sexpr{pubs[pubs[,8] == "b0M2c_1WBrUC",5]}$}.
@@ -346,7 +353,7 @@ Townes FW, {\bf Hicks SC}, Ayree MJ Irizarry RA. (2019). Feature Selection and D
 \mine 
 {\bf Hicks SC}, Irizarry RA. (2019). methylCC: technology-independent estimation of cell type composition using differentially methylated regions. \dg{{\it Genome Biology}. {\bf 20}:261. PMID: 31783894. PMCID: PMC6883691}. \gs{$\Sexpr{pubs[pubs[,8] == "f2IySw72cVMC",5]}$}.
 \mine
-Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, {\bf Hicks SC}. (2019). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. \dg{{\it Genome Biol}. {\bf 20}:118. PMID: 31164141 PMCID: PMC6547503}. \gs{$\Sexpr{pubs[pubs[,8] == "3s1wT3WcHBgC",5]}$}.
+Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, {\bf Hicks SC}. (2019). A Practical Guide to Methods Controlling False Discoveries in Computational Biology. \dg{{\it Genome Biol}. {\bf 20}:118. PMID: 31164141 PMCID: PMC6547503}. \gs{$\Sexpr{pubs[pubs[,8] == "3s1wT3WcHBgC",5]}$}.
 \item Kumar MS, Slud EV, Okrah K, {\bf Hicks SC}, Hannenhalli S, Corrada Bravo H. (2018). Analysis And Correction Of Compositional Bias In Sparse Sequencing Count Data. \dg{{\it BMC Genomics}. {\bf 19}:799. PMID: 30400812. PMCID: PMC6219007}. \gs{$\Sexpr{pubs[pubs[,8] == "35N4QoGY0k4C",5]}$}.
 \mine {\bf Hicks SC}, Irizarry RA. (2018). A Guide to Teaching Data Science. \dg{{\it The American Statistician} {\bf 72}: 382-391. PMCID: PMC6519964}. \gs{$\Sexpr{pubs[pubs[,8] == "RGFaLdJalmkC",5]}$}.
 \mine {\bf Hicks SC}, Townes FW, Teng M, Irizarry RA. (2018). Missing Data and Technical Variability in Single-Cell RNA-Sequencing Experiments. \dg{{\it Biostatistics} {\bf 19}: 562-578. PMID: 29121214. PMCID: PMC6215955}. \gs{$\Sexpr{pubs[pubs[,8] == "BqipwSGYUEgC",5]}$}.
@@ -410,14 +417,12 @@ Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm
 
 \mycon{0.4em}
 
+\mine % Jan 28 
+Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$ (2021). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.01.27.428431}}
 \mine % Nov 7 
 Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2020). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.11.06.371963}}. % \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
-\item % Sept 5
-Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, {\bf Hicks SC}, Robinson MD (2020). TreeSummarizedExperiment: a S4 class for data with hierarchical structure [version 1; peer review: awaiting peer review]. \dg{{\it F1000Research}. {\bf 9}: 1246. doi: \url{https://doi.org/10.12688/f1000research.26669.1}}. % \gs{$\Sexpr{pubs[pubs[,8] == "Tiz5es2fbqcC",5]}$}.
 \item % Oct 8
-Tran MN, Maynard KR, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, {\bf Hicks SC}, Kleinman JE, Hyde TM, Martinowich K, Jaffe A. (2020). Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.10.07.329839}}. %  \gs{$\Sexpr{pubs[pubs[,8] == "u9iWguZQMMsC",5]}$}.
-\mine % Jul 26
-Peng RD, {\bf Hicks SC}. (2020). Reproducible Research: A Retrospective. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2007.12210}}.  % \gs{$\Sexpr{pubs[pubs[,8] == "nb7KW1ujOQ8C",5]}$}.
+Tran MN$^{\dagger}$, Maynard KR$^{\dagger}$, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, {\bf Hicks SC}, Kleinman JE, Hyde TM, Martinowich K$^{\ddagger}$, Jaffe A$^{\ddagger}$. (2020). Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.10.07.329839}}. %  \gs{$\Sexpr{pubs[pubs[,8] == "u9iWguZQMMsC",5]}$}.
 \item % Feb 13
 Wang Y, {\bf Hicks SC}, Hansen KD. (2020). Co-expression analysis is biased by a mean-correlation relationship. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.02.13.944777}}.  \gs{$\Sexpr{pubs[pubs[,8] == "abG-DnoFyZgC",5]}$}.
 \mine % Jul 25
@@ -520,15 +525,21 @@ Wang Y, {\bf Hicks SC}, Hansen KD. (2020). Co-expression analysis is biased by a
 
 \myben{0.4em}
 
+\item 
+{\bf SpatialExperiment} $\blacktriangleright$
+R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. Published in \href{https://doi.org/10.1101/2021.01.27.428431}{Righelli and Weber et al. (2021)}. [\href{http://bioconductor.org/packages/SpatialExperiment}{Available on Bioconductor}]. 
+\item 
+{\bf TreeSummarizedExperiment} $\blacktriangleright$
+R/Bioconductor package to define a S4 class for data with hierarchical structure by extending SingleCellExperiment to include hierarchical information on the rows or columns of the rectangular data. Published in \href{https://doi.org/10.12688/f1000research.26669.1}{Huang et al. (2020)}. [\href{http://bioconductor.org/packages/TreeSummarizedExperiment}{Available on Bioconductor}]. 
 \item
 {\bf mbkmeans} $\blacktriangleright$
-Methodology and R/Bioconductor software package implementing the mini-batch optimization for $k$-means clustering proposed in \href{https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf}{Sculley (2010)} for large datasets including single-cell RNA-sequencing data. The mini batch $k$-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format). Published in \href{https://doi.org/10.1101/2020.05.27.119438}{Hicks et al. (2020)}. [\href{http://bioconductor.org/packages/mbkmeans}{Available on Bioconductor}]. 
+Methodology and R/Bioconductor software package implementing the mini-batch optimization for $k$-means clustering proposed in \href{https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf}{Sculley (2010)} for large datasets including single-cell RNA-sequencing data. The mini batch $k$-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format). Published in \href{https://doi.org/10.1371/journal.pcbi.1008625}{Hicks et al. (2021)}. [\href{http://bioconductor.org/packages/mbkmeans}{Available on Bioconductor}]. 
 \item
 {\bf spQN} $\blacktriangleright$
 Methodology and R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data. Published in \href{https://doi.org/10.1101/2020.02.13.944777}{Wang et al. (2020)}. [\href{http://bioconductor.org/packages/spqn}{Available on Bioconductor}].
 \item
 {\bf methylCC} $\blacktriangleright$
-Methodology and R/Bioconductor software package to estimate the cell composition of whole blood in DNA methylation samples in microarray or sequencing platforms. The methodology and software was developed in collaboration with Rafael Irizarry at Dana-Farber Cancer Institute. Published in \href{https://doi.org/10.1186/s13059-019-1827-8}{Hicks and Irizarry (2019)}. [\href{http://bioconductor.org/packages/benchmarkfdrData2019}{Available on Bioconductor}]. 
+Methodology and R/Bioconductor software package to estimate the cell composition of whole blood in DNA methylation samples in microarray or sequencing platforms. The methodology and software was developed in collaboration with Rafael Irizarry at Dana-Farber Cancer Institute. Published in \href{https://doi.org/10.1186/s13059-019-1827-8}{Hicks and Irizarry (2019)}. [\href{http://bioconductor.org/packages/methylCC}{Available on Bioconductor}]. 
 \item 
 {\bf qsmooth} $\blacktriangleright$
 Methodology and R/Bioconductor software package that implements a generalization of quantile normalization, referred to as smooth quantile normalization (\textbf{qsmooth}), which is based on the assumption that the statistical distribution of each sample should be the same (or have the same distributional shape) within biological groups or conditions. Published in \href{https://doi.org/10.1093/biostatistics/kxx028}{Hicks et al. (2018)}. [\href{http://bioconductor.org/packages/qsmooth}{Available on Bioconductor}]. 
@@ -701,7 +712,7 @@ Part II
 \myben{-0.1em}
 
 \item \dn{Barry}, Brianna. Biochemistry, Cellular, and Molecular Biology program (BCMB) in the Neuroscience department, Johns Hopkins University School of Medicine. (2020). 
-\item \dn{Kuo}, Albert. Doctor of Philosophy, Biostatistics (2019 -- Present) (alternate member).
+\item \dn{Kuo}, Albert. Doctor of Philosophy, Biostatistics (2019 -- Present).
 \item \dn{Nguyen}, Nam-Phong (Matt). Doctor of Philosophy, Human Genetics (2019 -- Present).
 \item \dn{Fang}, Weixiang. Doctor of Philosophy, Biostatistics (2019 -- Present).
 \item \dn{Ji}, Zhicheng. Doctor of Philosophy, Biostatistics (2019 -- Present).
@@ -873,7 +884,7 @@ $\blacktriangleright$ \url{http://meetings.cshl.edu/courses.aspx?course=c-data&y
 \mydot{0.3em}
 
 \item[$\bullet$]
-{\it Integrative cellular deconvolution of human brain RNA sequencing data (NIH/NIMH R01).}\\[0.0em]
+{\it Integrative cellular deconvolution of human brain RNA sequencing data (NIH/NIMH R01MH13183).}\\[0.0em]
 \dn{Dates:} 04/03/2020 -- 04/29/2024.
 \dn{Principal Investigators:} Stephanie C. Hicks, PhD; Kristen Maynard, PhD \\
 \dn{Responsibility:} Co-PI (MPI).
@@ -897,16 +908,16 @@ $\blacktriangleright$ \url{http://meetings.cshl.edu/courses.aspx?course=c-data&y
 \dn{Responsibility:} Co-PI (MPI).
 
 \item
-{\it Characterization of high-grade serous ovarian cancer subtypes via single-cell profiling (NIH/NCI R01).}\\[0.0em]
+{\it Characterization of high-grade serous ovarian cancer subtypes via single-cell profiling (NIH/NCI R01CA237170).}\\[0.0em]
 \dn{Dates:} 05/01/2019 –- 04/30/2023. 
 \dn{Principal Investigators:} Casey Greene, PhD.; Jennifer Doherty, PhD.\\
 \dn{Responsibility:} Co-Investigator.
 
 \item[$\bullet$]
-{\it Statistical Methods for the Normalization and Quantification of Single-Cell RNA-Sequencing Data (NIH/NHGRI K99/R00).}\\[0.0em]
+{\it Statistical Methods for the Normalization and Quantification of Single-Cell RNA-Sequencing Data (NIH/NHGRI K99/R00HG009007).}\\[0.0em]
 \dn{Dates:} 12/23/2016 -- 08/31/2021. 
 \dn{Principal Investigator:} Stephanie C. Hicks, PhD.\\
-\dn{Responsibility:} Principal Investigator.
+\dn{Responsibility:} Principal Investigator (PI).
 
 \ee
 
@@ -989,6 +1000,8 @@ $\blacktriangleright$ \url{http://meetings.cshl.edu/courses.aspx?course=c-data&y
 \item 
 {\it Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science}. \\ 
 Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. 
+\item 
+Dynamics and Networks in Single-cell Biology Minisymposium at the \href{https://www.smb2021.org}{Society for Mathematical Biology}. University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA (Hybrid/Virtual). 
 \item 
 \href{https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit}{Bloomberg American Health Summit 2020}. 2020 Dec 9. Baltimore, MD. USA. (Virtual). 
 \href{https://www.youtube.com/watch?v=DgzBSOY5Yc8}{Watch on YouTube}.
@@ -1142,16 +1155,16 @@ AACR 103rd Annual Meeting. 2012 Mar 31-Apr 4. Chicago, IL.
 {\it Scalable statistical methods and software for single-cell data science}. \\ 
 Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. (Virtual).
 \item
-{\it More (single-cell) data, more (statistical) problems}. \\  
+{\it \href{https://docs.google.com/presentation/d/1F8-zp8FEjQ8xWpWulSEYitN9NcjEBXRoDH4X98xvxHY/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\
 Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
 \item 
-{\it Addressing Open Challenges in Data Science Education}. \\ 
+{\it \href{https://docs.google.com/presentation/d/1ueWL8XDlifDTsPlAG8lhPx37zzm1YlGKeaNu6gf8CXk/edit?usp=sharing}{Addressing Open Challenges in Data Science Education}}. \\ 
 Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).
 \item 
-{\it Scalable statistical methods and software for single-cell data science}. \\ 
+{\it \href{https://docs.google.com/presentation/d/1pwYvydQAfQd8V5p2Hxlc8iyWzJ_lUBpo91eL34KeGO0/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
 National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) \href{https://btep.ccr.cancer.gov/seminar-series/seminar/}{Distinguished Speakers Seminar Series}. 2021 Jan 28. (Virtual).
 \item 
-{\it Scalable statistical methods and software for single-cell data science}. \\ 
+{\it \href{https://docs.google.com/presentation/d/1gYQobVpbc4idyXzhcxkxoWD3aqR7-Kz5oW3FM69PwFA/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
 Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA. (Virtual).
 \item 
 {\it \href{https://docs.google.com/presentation/d/1DpeB2LgLdzDDobR8_a3QaowRYkW7_OORnhXd-wdYdpg/edit?usp=sharing}{More (single-cell) data, more (statistical) problems}}. \\ 
