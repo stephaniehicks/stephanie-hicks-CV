@@ -26,6 +26,7 @@
 
 \newcommand{\dg}[1]{{\color{black} $\blacktriangleright$ {#1}}}
 \newcommand{\gs}[1]{{\color{black} {[Google Scholar citations: #1]}}}
+\newcommand{\dl}[1]{{\color{black} {[Downloads: #1]}}}
 \newcommand{\dn}[1]{{\color{black} {#1}}}
 
 
@@ -340,7 +341,7 @@ Peng RD, {\bf Hicks SC}. (2021). Reproducible Research: A Retrospective. \dg{{\i
 \mine 
 {\bf Hicks SC}, Liu R$^{*}$, Ni Y, Purdom E, Risso D (2021). mbkmeans: fast clustering for single cell data using mini-batch $k$-means. \dg{{\it PLOS Computational Biology}. {\bf 17}(1):e1008625. PMID: 33497379. PMCID: PMC7864438}.  % \gs{$\Sexpr{pubs[pubs[,8] == "CHSYGLWDkRkC",5]}$}.
 \item 
-Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, {\bf Hicks SC}, Robinson MD (2020). TreeSummarizedExperiment: a S4 class for data with hierarchical structure [version 2; peer review: 2 approved, 1 approved with reservations]. \dg{{\it F1000Research}. {\bf 9}: 1246. PMID: 33274053.  PMCID: PMC7684683}. % \gs{$\Sexpr{pubs[pubs[,8] == "Tiz5es2fbqcC",5]}$}.
+Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Guangchuang Y, {\bf Hicks SC}, Robinson MD (2020). TreeSummarizedExperiment: a S4 class for data with hierarchical structure [version 2; peer review: 2 approved, 1 approved with reservations]. \dg{{\it F1000Research}. {\bf 9}: 1246. PMID: 33274053.  PMCID: PMC7684683}. \gs{$\Sexpr{pubs[pubs[,8] == "Tiz5es2fbqcC",5]}$}.
 \mine 
 Hou W$^{*}$, Ji J, Ji H, {\bf Hicks SC}. (2020). A systematic evaluation of single-cell RNA-sequencing imputation methods. \\ \dg{{\it Genome Biology}. {\bf 21}:218. PMID: 32854757 PMCID: PMC7450705}. \gs{$\Sexpr{pubs[pubs[,8] == "EUQCXRtRnyEC",5]}$}.
 \item 
@@ -419,17 +420,17 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 \mine % Mar 10, 2021
 D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2021). Design Principles for Data Analysis. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2103.05689}}.
 \mine % Mar 3
-Hippen AA, Falco MM, Weber LM, Erkan EP, Zhang K, Dohert JA, Vähärautio A$^{\ddagger}$, Greene CS, \textbf{Hicks SC}$^{\ddagger}$. (2021). miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.03.433798}}.
+Hippen AA, Falco MM, Weber LM, Erkan EP, Zhang K, Dohert JA, Vähärautio A$^{\ddagger}$, Greene CS, \textbf{Hicks SC}$^{\ddagger}$. (2021). miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.03.433798}}. % \gs{$\Sexpr{pubs[pubs[,8] == "4fKUyHm3Qg0C",5]}$}.
 \mine % Jan 28 
-Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2021). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.01.27.428431}}.
+Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2021). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.01.27.428431}}. \gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.
 \mine % Nov 7, Mar 3 
-Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2020). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.11.06.371963}}. % \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
+Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2020). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.11.06.371963}}. \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
 \item % Oct 8
-Tran MN$^{\dagger}$, Maynard KR$^{\dagger}$, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, {\bf Hicks SC}, Kleinman JE, Hyde TM, Martinowich K$^{\ddagger}$, Jaffe A$^{\ddagger}$. (2020). Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.10.07.329839}}. %  \gs{$\Sexpr{pubs[pubs[,8] == "u9iWguZQMMsC",5]}$}.
+Tran MN$^{\dagger}$, Maynard KR$^{\dagger}$, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, {\bf Hicks SC}, Kleinman JE, Hyde TM, Martinowich K$^{\ddagger}$, Jaffe A$^{\ddagger}$. (2020). Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.10.07.329839}}.  \gs{$\Sexpr{pubs[pubs[,8] == "u9iWguZQMMsC",5]}$}.
 \item % Feb 13 2020
 Wang Y, {\bf Hicks SC}, Hansen KD. (2020). Co-expression analysis is biased by a mean-correlation relationship. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.02.13.944777}}.  \gs{$\Sexpr{pubs[pubs[,8] == "abG-DnoFyZgC",5]}$}.
 \mine % Jul 25 2019
-{\bf Hicks SC}, Peng RD. (2019). Elements and Principles for Characterizing Variation between Data Analyses. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/1903.07639}}. %  \gs{$\Sexpr{pubs[pubs[,8] == "",5]}$}.
+{\bf Hicks SC}, Peng RD. (2019). Elements and Principles for Characterizing Variation between Data Analyses. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/1903.07639}}. \gs{$\Sexpr{pubs[pubs[,8] == "1sJd4Hv_s6UC",5]}$}.
 \mine % Apr 29 2019
 {\bf Hicks SC}, Peng RD. (2019). Evaluating the Success of a Data Analysis. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/1904.11907}}. %  \gs{$\Sexpr{pubs[pubs[,8] == "cFHS6HbyZ2cC",5]}$}.
 
@@ -563,7 +564,13 @@ Presentation about the Open Case Studies project at the \href{https://americanhe
 
 
 
-\subsection*{Software and data packages}
+\subsection*{Software and data packages  \ {\tiny \em  Downloads represent total number of distinct IP downloads.}}
+
+<<bioconductor-cites, echo=FALSE>>=
+soft_pkg <- read.csv("scripts/bioconductor/software_pkg.csv")
+data_pkg <- read.csv("scripts/bioconductor/data_pkg.csv")
+@
+
 
 \subsubsection*{Bioconductor software packages}
 
@@ -571,31 +578,32 @@ Presentation about the Open Case Studies project at the \href{https://americanhe
 
 \item 
 {\bf SpatialExperiment} $\blacktriangleright$
-R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. Published in \href{https://doi.org/10.1101/2021.01.27.428431}{Righelli, Weber, Crowell et al. (2021)}. [\href{http://bioconductor.org/packages/SpatialExperiment}{Available on Bioconductor}]. 
+R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. Published in \href{https://doi.org/10.1101/2021.01.27.428431}{Righelli, Weber, Crowell et al. (2021)}. [\href{http://bioconductor.org/packages/SpatialExperiment}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "SpatialExperiment",2]}$}.
+ 
 \item 
 {\bf bluster} $\blacktriangleright$
- R/Bioconductor package to wrap common clustering algorithms in an easily extended S4 framework. Backends are implemented for hierarchical, k-means and graph-based clustering. Several utilities are also provided to compare and evaluate clustering results. [\href{http://bioconductor.org/packages/bluster}{Available on Bioconductor}]. 
+ R/Bioconductor package to wrap common clustering algorithms in an easily extended S4 framework. Backends are implemented for hierarchical, k-means and graph-based clustering. Several utilities are also provided to compare and evaluate clustering results. [\href{http://bioconductor.org/packages/bluster}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "bluster",2]}$}.
 \item
 {\bf spQN} $\blacktriangleright$
-Methodology and R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data. Published in \href{https://doi.org/10.1101/2020.02.13.944777}{Wang et al. (2020)}. [\href{http://bioconductor.org/packages/spqn}{Available on Bioconductor}].
+Methodology and R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data. Published in \href{https://doi.org/10.1101/2020.02.13.944777}{Wang et al. (2020)}. [\href{http://bioconductor.org/packages/spqn}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "spqn",2]}$}.
 \item
 {\bf scry} $\blacktriangleright$
- R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms using \texttt{glmpca} to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. Published in \href{https://doi.org/10.1186/s13059-019-1861-6}{Townes et al. (2019)}. [\href{https://cran.r-project.org/web/packages/glmpca/index.html}{glmpca available on CRAN}]. [\href{http://bioconductor.org/packages/scry}{Available on Bioconductor}]. 
+ R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms using \texttt{glmpca} to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. Published in \href{https://doi.org/10.1186/s13059-019-1861-6}{Townes et al. (2019)}. [\href{https://cran.r-project.org/web/packages/glmpca/index.html}{glmpca available on CRAN}]. [\href{http://bioconductor.org/packages/scry}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "scry",2]}$}.
 \item
 {\bf methylCC} $\blacktriangleright$
-Methodology and R/Bioconductor software package to estimate the cell composition of whole blood in DNA methylation samples in microarray or sequencing platforms. The methodology and software was developed in collaboration with Rafael Irizarry at Dana-Farber Cancer Institute. Published in \href{https://doi.org/10.1186/s13059-019-1827-8}{Hicks and Irizarry (2019)}. [\href{http://bioconductor.org/packages/methylCC}{Available on Bioconductor}]. 
+Methodology and R/Bioconductor software package to estimate the cell composition of whole blood in DNA methylation samples in microarray or sequencing platforms. The methodology and software was developed in collaboration with Rafael Irizarry at Dana-Farber Cancer Institute. Published in \href{https://doi.org/10.1186/s13059-019-1827-8}{Hicks and Irizarry (2019)}. [\href{http://bioconductor.org/packages/methylCC}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "methylCC",2]}$}.
 \item
 {\bf mbkmeans} $\blacktriangleright$
-Methodology and R/Bioconductor software package implementing the mini-batch optimization for $k$-means clustering proposed in \href{https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf}{Sculley (2010)} for large datasets including single-cell RNA-sequencing data. The mini batch $k$-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format). Published in \href{https://doi.org/10.1371/journal.pcbi.1008625}{Hicks et al. (2021)}. [\href{http://bioconductor.org/packages/mbkmeans}{Available on Bioconductor}]. 
+Methodology and R/Bioconductor software package implementing the mini-batch optimization for $k$-means clustering proposed in \href{https://www.eecs.tufts.edu/~dsculley/papers/fastkmeans.pdf}{Sculley (2010)} for large datasets including single-cell RNA-sequencing data. The mini batch $k$-means algorithm can be run with data stored in memory or on disk (e.g. HDF5 file format). Published in \href{https://doi.org/10.1371/journal.pcbi.1008625}{Hicks et al. (2021)}. [\href{http://bioconductor.org/packages/mbkmeans}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "mbkmeans",2]}$}.
 \item 
 {\bf TreeSummarizedExperiment} $\blacktriangleright$
-R/Bioconductor package to define a S4 class for data with hierarchical structure by extending SingleCellExperiment to include hierarchical information on the rows or columns of the rectangular data. Published in \href{https://doi.org/10.12688/f1000research.26669.1}{Huang et al. (2020)}. [\href{http://bioconductor.org/packages/TreeSummarizedExperiment}{Available on Bioconductor}]. 
+R/Bioconductor package to define a S4 class for data with hierarchical structure by extending SingleCellExperiment to include hierarchical information on the rows or columns of the rectangular data. Published in \href{https://doi.org/10.12688/f1000research.26669.1}{Huang et al. (2020)}. [\href{http://bioconductor.org/packages/TreeSummarizedExperiment}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "TreeSummarizedExperiment",2]}$}.
 \item 
 {\bf qsmooth} $\blacktriangleright$
-Methodology and R/Bioconductor software package that implements a generalization of quantile normalization, referred to as smooth quantile normalization (\textbf{qsmooth}), which is based on the assumption that the statistical distribution of each sample should be the same (or have the same distributional shape) within biological groups or conditions. Published in \href{https://doi.org/10.1093/biostatistics/kxx028}{Hicks et al. (2018)}. [\href{http://bioconductor.org/packages/qsmooth}{Available on Bioconductor}]. 
+Methodology and R/Bioconductor software package that implements a generalization of quantile normalization, referred to as smooth quantile normalization (\textbf{qsmooth}), which is based on the assumption that the statistical distribution of each sample should be the same (or have the same distributional shape) within biological groups or conditions. Published in \href{https://doi.org/10.1093/biostatistics/kxx028}{Hicks et al. (2018)}. [\href{http://bioconductor.org/packages/qsmooth}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "qsmooth",2]}$}.
 \item
 {\bf quantro} $\blacktriangleright$
-Methodology and R software package that can be used to test for differences between groups of distributions to guide the choice if quantile normalization should be used. Published in \href{https://doi.org/10.1186/s13059-015-0679-0}{Hicks and Irizarry (2015)}. [\href{http://www.bioconductor.org/packages/quantro}{Available on Bioconductor}].
+Methodology and R software package that can be used to test for differences between groups of distributions to guide the choice if quantile normalization should be used. Published in \href{https://doi.org/10.1186/s13059-015-0679-0}{Hicks and Irizarry (2015)}. [\href{http://www.bioconductor.org/packages/quantro}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "quantro",2]}$}.
 
 \ee
 
@@ -605,16 +613,16 @@ Methodology and R software package that can be used to test for differences betw
 
 \item 
 {\bf spatialLIBD} $\blacktriangleright$
-R/Bioconductor package to inspect interactively the spatial transcriptomics 10x Genomics Visium data analyzed by Lieber Institute for Brain Development researchers and collaborators used in \href{https://doi.org/10.1038/s41593-020-00787-0}{Maynard, Collado-Torres et al. (2021), \textit{Nature Neuroscience}}. [\href{http://bioconductor.org/packages/spatialLIBD}{Available on Bioconductor}].
+R/Bioconductor package to inspect interactively the spatial transcriptomics 10x Genomics Visium data analyzed by Lieber Institute for Brain Development researchers and collaborators used in \href{https://doi.org/10.1038/s41593-020-00787-0}{Maynard, Collado-Torres et al. (2021), \textit{Nature Neuroscience}}. [\href{http://bioconductor.org/packages/spatialLIBD}{Available on Bioconductor}]. \dl{$\Sexpr{data_pkg[data_pkg$Package == "spatialLIBD",2]}$}.
 \item 
 {\bf benchmarkfdrData2019} $\blacktriangleright$
-R/Bioconductor data package that contains benchmarking results for experimental and simulated data sets used in \href{https://doi.org/10.1186/s13059-019-1716-1}{Korthauer and Kimes et al. (2019)} to compare methods for controlling the false discovery rate. A shiny app to interactively explore the data is available on the \href{https://github.com/kdkorthauer/benchmarkfdr-shiny}{kdkorthauer/benchmark-shiny} repository on GitHub [\href{http://bioconductor.org/packages/benchmarkfdrData2019}{Available on Bioconductor}].
+R/Bioconductor data package that contains benchmarking results for experimental and simulated data sets used in \href{https://doi.org/10.1186/s13059-019-1716-1}{Korthauer and Kimes et al. (2019)} to compare methods for controlling the false discovery rate. A shiny app to interactively explore the data is available on the \href{https://github.com/kdkorthauer/benchmarkfdr-shiny}{kdkorthauer/benchmark-shiny} repository on GitHub [\href{http://bioconductor.org/packages/benchmarkfdrData2019}{Available on Bioconductor}].  \dl{$\Sexpr{data_pkg[data_pkg$Package == "benchmarkfdrData2019",2]}$}.
 \item
 {\bf bodymapRat} $\blacktriangleright$
-R/Bioconductor data package that contains an \texttt{SummarizedExperiment} from the \href{https://www.ncbi.nlm.nih.gov/pubmed/24510058}{Yu et al. (2013)} paper that performed the rat BodyMap across 11 organs and 4 developmental stage [\href{http://www.bioconductor.org/packages/bodymapRat}{Available on Bioconductor}].
+R/Bioconductor data package that contains an \texttt{SummarizedExperiment} from the \href{https://www.ncbi.nlm.nih.gov/pubmed/24510058}{Yu et al. (2013)} paper that performed the rat BodyMap across 11 organs and 4 developmental stage [\href{http://www.bioconductor.org/packages/bodymapRat}{Available on Bioconductor}].  \dl{$\Sexpr{data_pkg[data_pkg$Package == "bodymapRat",2]}$}.
 \item
 {\bf TENxPBMCData} $\blacktriangleright$
-R/Bioconductor data package that contains a set of \texttt{SingleCellExperiment} objects with single-cell RNA-sequencing data from peripheral blood mononuclear cells generated by 10X Genomics.  [\href{http://www.bioconductor.org/packages/TENxPBMCData}{Available on Bioconductor}].
+R/Bioconductor data package that contains a set of \texttt{SingleCellExperiment} objects with single-cell RNA-sequencing data from peripheral blood mononuclear cells generated by 10X Genomics.  [\href{http://www.bioconductor.org/packages/TENxPBMCData}{Available on Bioconductor}].  \dl{$\Sexpr{data_pkg[data_pkg$Package == "TENxPBMCData",2]}$}.
 
 \ee
 
