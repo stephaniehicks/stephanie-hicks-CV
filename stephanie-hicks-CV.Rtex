@@ -115,6 +115,7 @@ B.S. / 2007 & Mathematics, Louisiana State University, Baton Rouge, LA, USA \\
 
 \mydot{-0.1em}
 
+\item Faculty Member, \href{https://ccb.jhu.edu/people.php}{Center for Computational Biology}, Johns Hopkins University (2021 -- present).
 \item 
 Affiliated faculty, \href{https://americanhealth.jhu.edu}{Bloomberg American Health Initiative} (2020 -- 2021). 
 \item 
@@ -194,6 +195,8 @@ Teaching Assistant, Department of Statistics, Rice University
 \subsubsection*{Organizer}
 
 \mydot{-0.1em}
+
+\item Session Organizer, Eastern North Atlantic Region Meeting (2022). Topic: \textit{Recent advances in statistical methods for spatially-resolved transcriptomics data analysis}.
 \item Session Organizer, Joint Statistical Meetings (2020). Topic: \textit{Show Me the Data: Making Statistics and Data Science More Diverse and Inclusive in 2020}. 
 \item Session Organizer, Joint Statistical Meetings (2019) Topic: \textit{Changing the statistics community: effective strategies for promoting an inclusive and equitable culture for women}. 
 \item Session Organizer, Eastern North Atlantic Region Meeting (2019). Topic: \textit{Teaching Data Science using Case-Studies}.
@@ -205,6 +208,7 @@ Teaching Assistant, Department of Statistics, Rice University
 \subsubsection*{Chair}
 
 \mydot{-0.1em}
+\item Session Chair, Eastern North Atlantic Region Meeting (2022). Topic: \textit{Recent advances in statistical methods for spatially-resolved transcriptomics data analysis}.
 \item Discussion Lead, \href{https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20}{Biological Data Science}, Cold Spring Harbor Laboratories (2020). Topic: \textit{Single-cell Data Analysis}. 
 \item Session Chair, Joint Statistical Meetings (2020). Topic: \textit{Show Me the Data: Making Statistics and Data Science More Diverse and Inclusive in 2020}. 
 \item Session Chair, \href{http://www.birs.ca/events/2020/5-day-workshops/20w5197}{Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types} at Banff International Research Station (2020). Topic: \textit{Computational Challenges Session}. 
@@ -237,6 +241,7 @@ Nature Communications, Nature Methods, Nature Biotechnology,
 
 \mydot{-0.1em}
 
+\item Associate Editor for Reproducibility, \href{https://www.tandfonline.com/toc/uasa20/current}{\textit{Journal of the American Statistical Association}} (2021 -- 2024).
 \item Editorial Board member, \href{https://genomebiology.biomedcentral.com/about/editorial-board}{\textit{Genome Biology}} (2020 -- present). 
 \item Associate Editor, \href{https://www.bioverlay.org}{\textit{biOverlay}} (2018 -- 2020).
 
@@ -248,11 +253,13 @@ Nature Communications, Nature Methods, Nature Biotechnology,
 \mydot{-0.1em}
 
 \item 
+Ad hoc member, NIH review of BRAIN Initiative Cell Census Network (BICCN) Scalable Technologies and Tools for Brain Cell Census (Jun 2021).
+\item 
 Ad hoc member, NCI review of applications submitted in response to the Predoctoral to Postdoctoral Fellow Transition Award (F99/K00) (Mar 2021).
 \item 
 Ad hoc member, NCI Special Emphasis Panel (SEP) review of applications submitted in response to the Informatics Technology for Cancer Research (ITCR) (Nov 2020).
 \item 
-Ad hoc member, National Institutes of Health (NIH) Study Section Service for Cellular and Molecular Technologies (CMT) (\href{https://public.era.nih.gov/pubroster/preRosIndex.era?AGENDA=392202&CID=104830}{June 2020}). 
+Ad hoc member, NIH Study Section Service for Cellular and Molecular Technologies (CMT) (\href{https://public.era.nih.gov/pubroster/preRosIndex.era?AGENDA=392202&CID=104830}{June 2020}). 
 \item 
 Ad hoc member, \href{https://medium.com/@cziscience/enabling-foundational-tools-for-scientific-discovery-5eb1f5747c35}{Open Source Software for Science} from the Chan Zuckerberg Initiative (May 2020).
 \item 
@@ -291,7 +298,8 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 \subsection*{Awards}
 
 \mydot{-0.1em}
-\item American Statistical Association (ASA) \href{https://community.amstat.org/tshs/awards/younginvestigatoraward}{Teaching in the Health Sciences Young Investigator Award} (2020).
+\item  American Statistical Association (ASA), \href{https://community.amstat.org/copss/awards/leadership-academy}{COPSS Leadership Academy Award} (arguably the statistical profession’s most prestigious award for early career leaders in Statistics and Data Science) (2021).
+\item ASA \href{https://community.amstat.org/tshs/awards/younginvestigatoraward}{Teaching in the Health Sciences Young Investigator Award} (2020).
 \item Bloomberg American Health Initiative \href{https://americanhealth.jhu.edu/open-case-studies}{High Impact Project} Award (2019).
 \item Research Grant, NIH/NHGRI K99/R00 Pathway to Independence Award (2017 -- 2021). 
 \item Travel award, \href{https://cwstat.org}{Caucus for Women in Statistics (CWS)} (2017).
@@ -333,11 +341,21 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 
 \myben{0.4em}
 
+\mine
+Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2020). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it Gigascience}. (accepted and in press). doi: \url{https://doi.org/10.1101/2020.11.06.371963}}. \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
 
+\mine 
+Peng RD, Chen A, Bridgeford E, Leek JT, and \textbf{Hicks SC}. (2021). Diagnosing Data Analytic Problems in the Classroom.  \dg{{\it Journal of Statistics and Data Science Education}. %{\bf TBA}(TBA):TBA. PMID: TBA. PMCID: TBA
+(accepted and in press)}. 
+\mine 
+Heil BJ, Hoffman MM, Markowetz F, Lee S-I, Greene CS$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2021). Reproducibility standards for machine learning in the life sciences. \dg{{\it Nature Methods}. %{\bf TBA}(TBA):TBA. PMID: TBA. PMCID: TBA
+(accepted and in press)}. 
+\mine % Mar 3
+Hippen AA$^{*}$, Falco MM, Weber LM$^{*}$, Erkan EP, Zhang K, Dohert JA, Vähärautio A$^{\ddagger}$, Greene CS, \textbf{Hicks SC}$^{\ddagger}$. (2021). miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data. \dg{{\it PLOS Computational Biology}. (accepted and in press). doi: \url{https://doi.org/10.1101/2021.03.03.433798}}. % \gs{$\Sexpr{pubs[pubs[,8] == "4fKUyHm3Qg0C",5]}$}.
 \item 
 Maynard KR$^{\dagger}$, Collado-Torres L$^{\dagger}$, Weber LM$^{*}$, Uytingco C, Barry BK, Williams SR, II JLC,  Tran MN, Besich Z, Tippani M, Chew J, Yin Y, Kleinman JE, Hyde TM, Rao N, {\bf Hicks SC}, Martinowich K$^{\ddagger}$, Jaffe AE$^{\ddagger}$ (2021). Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex. \dg{{\it Nature Neuroscience}. {\bf 24}: 425-436. PMID: 33558695. PMCID: TBD}. \gs{$\Sexpr{pubs[pubs[,8] == "NhqRSupF_l8C",5]}$}.
-\mine % Jul 26
-Peng RD, {\bf Hicks SC}. (2021). Reproducible Research: A Retrospective. \dg{{\it Annual Review of Public Health}. doi: \url{https://doi.org/10.1146/annurev-publhealth-012420-105110}}.  % \gs{$\Sexpr{pubs[pubs[,8] == "nb7KW1ujOQ8C",5]}$}.
+\mine 
+Peng RD, {\bf Hicks SC}. (2021). Reproducible Research: A Retrospective. \dg{{\it Annual Review of Public Health}.  {\bf 42}:79-93. PMID: 33467923.} % \gs{$\Sexpr{pubs[pubs[,8] == "nb7KW1ujOQ8C",5]}$}.
 \mine 
 {\bf Hicks SC}, Liu R$^{*}$, Ni Y, Purdom E, Risso D (2021). mbkmeans: fast clustering for single cell data using mini-batch $k$-means. \dg{{\it PLOS Computational Biology}. {\bf 17}(1):e1008625. PMID: 33497379. PMCID: PMC7864438}.  % \gs{$\Sexpr{pubs[pubs[,8] == "CHSYGLWDkRkC",5]}$}.
 \item 
@@ -417,14 +435,20 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 
 \mycon{0.4em}
 
-\mine % Mar 10, 2021
+\item % Aug
+Tippani M, Divecha HR, Catallini JL, Weber LM, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.08.04.452489}}.
+\mine % Jul 12 
+Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2021). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.07.10.451910}}. 
+\item % Apr 30 
+Pardo B, Spangler A, Weber LM$^{*}$, {\bf Hicks SC}, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2021). spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.04.29.440149}}. 
+\mine % Mar 29 
+Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2021). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.28.437378}}. 
+\item % Mar 24
+Baker DN, Dyjack N$^{*}$, Braverman V, {\bf Hicks SC}, Langmead B. (2021). minicore: Fast scRNA-seq clustering with various distance measures. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.24.436859}}. 
+\mine % Mar 10
 D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2021). Design Principles for Data Analysis. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2103.05689}}.
-\mine % Mar 3
-Hippen AA, Falco MM, Weber LM, Erkan EP, Zhang K, Dohert JA, Vähärautio A$^{\ddagger}$, Greene CS, \textbf{Hicks SC}$^{\ddagger}$. (2021). miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.03.433798}}. % \gs{$\Sexpr{pubs[pubs[,8] == "4fKUyHm3Qg0C",5]}$}.
 \mine % Jan 28 
 Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2021). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.01.27.428431}}. \gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.
-\mine % Nov 7, Mar 3 
-Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2020). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.11.06.371963}}. \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
 \item % Oct 8
 Tran MN$^{\dagger}$, Maynard KR$^{\dagger}$, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, {\bf Hicks SC}, Kleinman JE, Hyde TM, Martinowich K$^{\ddagger}$, Jaffe A$^{\ddagger}$. (2020). Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2020.10.07.329839}}.  \gs{$\Sexpr{pubs[pubs[,8] == "u9iWguZQMMsC",5]}$}.
 \item % Feb 13 2020
@@ -632,6 +656,10 @@ R/Bioconductor data package that contains a set of \texttt{SingleCellExperiment}
 \myben{0.4em}
 
 \item 
+{\bf OCSdata} $\blacktriangleright$
+R/CRAN package provides functions to access and download data from the \href{https://www.opencasestudies.org}{Open Case Studies} repositories on \href{https://github.com/opencasestudies}{GitHub}. Different functions enable users to grab the data they need at different sections in the case study, as well as download the whole case study repository. All the user needs to do is input the name of the case study being worked on. [\href{https://cran.r-project.org/web/packages/OCSdata}{Available on CRAN}].
+
+\item 
 {\bf glmpca} $\blacktriangleright$
 R/CRAN package that implements a generalized version of principal components analysis (GLM-PCA) for dimension reduction of non-normally distributed data such as counts or binary matrices. The methodology and software was developed in collaboration with F. William Townes, Martin Aryee and Rafael Irizarry at Dana-Farber Cancer Institute. Published in \href{https://doi.org/10.1186/s13059-019-1861-6}{Townes et al. (2019)}. [\href{https://cran.r-project.org/web/packages/glmpca/index.html}{glmpca is available on CRAN}] and [\href{https://bioconductor.org/packages/release/bioc/html/scry.html}{scry is available on Bioconductor}].
 \ee
@@ -699,6 +727,8 @@ Part II
 \item Hou, Wenpin* (2019 -- Present).
 
 \begin{enumerate}[(a)] 
+\item Selected to give a \href{https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220691}{contributed talk} at JSM 2021.
+\item Selected to give a poster presentation at CSHL Systems Immunology conference (2021).
 \item Awarded a NIH/NHGRI \href{https://researchtraining.nih.gov/programs/career-development/k99-r00}{K99/R00 Pathway to Independence Award} (2021).
 \item Selected to give a talk at ENAR (2020). 
 \item Selected to give a poster presentation at the JHU Genomics Symposium (2019).
@@ -707,9 +737,10 @@ Part II
 \item Weber, Lukas (2019 -- Present).
 
 \begin{enumerate}[(a)] 
+\item Selected to give a talk at Bioconductor (2021).
 \item Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont Award} (2021).
 \item Submitted a NIH/NHGRI \href{https://researchtraining.nih.gov/programs/career-development/k99-r00}{K99/R00 Pathway to Independence Award} (2021).
-\item Selected to give a poster presentation at Genome Informatics (2020).
+\item Selected to give a poster presentation at CSHL Genome Informatics (2020).
 \item Selected to give a talk at Bioconductor (2020).
 \item Selected to give a talk at the JHU Genomics Symposium (2019).
 \end{enumerate}
@@ -723,13 +754,7 @@ Part II
 
 \item Nelson, Erik*. Doctor of Philosophy, Cellular and Molecular Medicine (2020 -- Present).
 \begin{enumerate}[(a)] 
-\item Submitted a NIH/NIDA \href{https://researchtraining.nih.gov/programs/fellowships/F31}{F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award} (2021).
-\end{enumerate}
-
-\item Dyjack, Nathan. Doctor of Philosophy, Biostatistics (2020 -- 2021).
-\begin{enumerate}[(a)] 
-\item Selected to give a contributed talk at JSM in \href{https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219839}{Statistical Methods in Gene Expression Data Analysis II} (2020).
-\item Submitted a NIH/NHGRI \href{https://researchtraining.nih.gov/programs/fellowships/F31}{F31 Ruth L. Kirschstein National Research Service Award Individual Predoctoral Fellowship to Promote Diversity in Health-Related Research} (2020).
+% \item Submitted a NIH/NIDA \href{https://researchtraining.nih.gov/programs/fellowships/F31}{F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award} (2021).
 \end{enumerate}
 
 \item Kuo, Albert*. Doctor of Philosophy, Biostatistics (2019 -- Present).
@@ -744,6 +769,12 @@ Part II
 
 \myben{-0.1em}
 
+\item Dyjack, Nathan. Masters of Science (ScM), Biostatistics (2020 -- 2021).
+\begin{enumerate}[(a)] 
+\item Selected to give a contributed talk at JSM in \href{https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219839}{Statistical Methods in Gene Expression Data Analysis II} (2020).
+\item Submitted a NIH/NHGRI \href{https://researchtraining.nih.gov/programs/fellowships/F31}{F31 Ruth L. Kirschstein National Research Service Award Individual Predoctoral Fellowship to Promote Diversity in Health-Related Research} (2020).
+\end{enumerate}
+
 \item Zhuang, Yongbao. ScM, Biochemistry and Molecular Biology (2020 -- Present).
 
 \ee
@@ -756,12 +787,31 @@ Part II
 
 \myben{-0.1em}
 
-\item Chen, Chang. ScM, Biostatistics (2020 -- Present).
-\item Dyjack, Nathan. Doctor of Philosophy, Biostatistics (2019 -- 2020).
-\item Zhang, Jingning. Doctor of Philosophy, Biostatistics (2018 -- 2019).
-\item Sawyer, Holly, Masters of Public Health, Biostatistics and Epidemology (2018 -- 2020).
+\subsubsection*{Doctor of Philosophy (PhD)}
+\item Shah, Kinnary. PhD, Biostatistics (2021 -- Present).
+\item Zhang, Jingning. PhD, Biostatistics (2018 -- 2019).
 
 \ee
+
+\subsubsection*{Masters of Science (ScM)}
+
+\myben{-0.1em}
+
+\item You, Shengjun. ScM, Biostatistics (2021 -- Present).
+\item Chen, Chang. ScM, Biostatistics (2020 -- 2021).
+\item Dyjack, Nathan. ScM, Biostatistics (2019 -- 2021).
+
+\ee
+
+
+\subsubsection*{Masters of Public Health (MPH)}
+
+\myben{-0.1em}
+
+\item Sawyer, Holly, MPH, Biostatistics and Epidemology (2018 -- 2020).
+
+\ee
+
 
 % \mylift{-1.5em}
 
@@ -799,11 +849,12 @@ Part II
 
 \myben{-0.1em}
 
-\item \dn{Barry}, Brianna. Biochemistry, Cellular, and Molecular Biology program (BCMB) in the Neuroscience department, Johns Hopkins University School of Medicine. (2020). 
+\item \dn{Kwon}, Sang Ho (Sangho). Biochemistry, Cellular, and Molecular Biology program (BCMB) in the Neuroscience department, Johns Hopkins University School of Medicine. (2021 -- Present). 
+\item \dn{Barry}, Brianna. BCMB in the Neuroscience department, Johns Hopkins University School of Medicine. (2020). 
 \item \dn{Kuo}, Albert. Doctor of Philosophy, Biostatistics (2019 -- Present).
 \item \dn{Nguyen}, Nam-Phong (Matt). Doctor of Philosophy, Human Genetics (2019 -- Present).
 \item \dn{Fang}, Weixiang. Doctor of Philosophy, Biostatistics (2019 -- Present).
-\item \dn{Ji}, Zhicheng. Doctor of Philosophy, Biostatistics (2019 -- Present).
+\item \dn{Ji}, Zhicheng. Doctor of Philosophy, Biostatistics (2019 -- 2020).
 
 \ee
 
@@ -824,6 +875,7 @@ Part II
 
 \myben{-0.1em}
 
+\item \dn{Srinivasan}, Ranjani. Doctor of Philosophy, Computer Science (2021).
 \item \dn{Li}, Runzhe. Doctor of Philosophy, Biostatistics (2020). Alternate member. 
 \item \dn{Zhang}, Boyang. Doctor of Philosophy, Biostatistics (2020). Alternate member. 
 \item \dn{Bhattacharya}, Rohit. Doctor of Philosophy, Computer Science (2019). Alternate member. 
@@ -834,13 +886,13 @@ Part II
 
 % \mylift{-1.0em}
 
-% \subsection*{Final Oral Participation \ \tiny * committee chair}
+\subsection*{Final Oral Participation \ \tiny * committee chair}
 
-% \myben{-0.1em}
+\myben{-0.1em}
 
-% \item \dn{Liu}, Youngmei. Doctor of Philosophy, Epidemiology (2004).
-% \item \dn{Cheng}, Yu-Ching$^*$. Doctor of Philosophy, Epidemiology (2008).
-% \ee
+\item \dn{Nguyen}, Trang Quynh. Doctor of Philosophy, Biostatistics (2021). Alternate member. 
+
+\ee
 
 % \mylift{-0.5em}
 % \subsection*{Classroom Instruction - Principal Instructor}
@@ -857,10 +909,12 @@ Part II
 
 \mydot{-0.1em}
 
+\item 140.712 Advanced Data Science II (2021), Co-Instructor.
+\item 140.776 Statistical Computing (2021), Primary Instructor.
 \item \href{https://jhu-advdatasci.github.io/2019/}{140.712 Advanced Data Science II (2019)}, Co-Instructor.
 \item \href{https://jhu-advdatasci.github.io/2019/}{140.711 Advanced Data Science I (2019)}, Co-Instructor.
 \item \href{https://jhu-advdatasci.github.io/2018/}{140.712 Advanced Data Science II (2018)}, Co-Instructor.
-\item \href{https://jhu-advdatasci.github.io/2018/}{140.711 Advanced Data Science I (2018)}, Co-Instructor.
+\item \href{https://jhu-advdatasci.github.io/2018/}{140.711.01 Advanced Data Science I (2018)}, Co-Instructor.
 
 \ee
 
@@ -1060,14 +1114,13 @@ $\blacktriangleright$
 
 \ee
 
-% \subsection*{Bloomberg School of Public Health}
+\subsection*{Bloomberg School of Public Health}
 
-% \mydot{-0.1em}
+\mydot{-0.1em}
 
-% \item Member, Steering Committee, Malaria Research Institute (2002 -- 2009).
-% \item Member, Curriculum Committee MHS in Bioinformatics (2003 -- 2011).
-% \item Member, Bioinformatics and Biostatistics Core, Urban Environmental Health Center (2003 -- present). 
-% \ee
+\item Member (inaugural), JHSPH Data Council (2021 -- Present).
+
+\ee
 
 \subsection*{Johns Hopkins University}
 \mydot{-0.1em}
@@ -1083,15 +1136,20 @@ $\blacktriangleright$
 \subsection*{Scientific Meetings (Invited)}
 
 \myben{0.3em}
+
+\item Applied Bioinformatics in Life Sciences (4th edition). \href{https://www.vibconferences.be/events/applied-bioinformatics-in-life-sciences-3rd-edition}{VIB Conference} (Plenary session). 2022 Mar 10-11. Leuven, Belgium.
+\item 6th Annual MidAtlantic Bioinformatics Conference. 2021 Nov 8. Philadelphia, PA. USA. (Virtual).
 \item 
 {\it Evaluating the Alignment of a Data Analysis between Analyst and Audience}. \\ 
-% Invited session on ``Theoretical and Empirical Contributions to Data Analytic Practice''. 
+Invited session on Theoretical and Empirical Contributions to Data Analytic Practice. 
 \href{https://ww2.amstat.org/meetings/jsm/2021/}{Joint Statistical Meetings}. 2021 Aug 7-12. Seattle, WA. USA.
+\item Discussant in the Invited session on  \href{https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220334}{Developing and Maintaining Open Source Resources for Statistics and Data Science Education}. \href{https://ww2.amstat.org/meetings/jsm/2021/}{Joint Statistical Meetings}. 2021 Aug 7-12. Seattle, WA. USA.
 \item 
-{\it Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science}. \\ 
-Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. 
+{\it \href{https://docs.google.com/presentation/d/19RVSt4uHx7r1i1TOvnAW0khzQgdmHa1Pq3U30emIJ1o/edit?usp=sharing}{Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science}}. \\ 
+Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. (Virtual).
 \item 
-Dynamics and Networks in Single-cell Biology Minisymposium at the \href{https://www.smb2021.org}{Society for Mathematical Biology}. University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA (Hybrid/Virtual). 
+{\it \href{https://docs.google.com/presentation/d/1D-0P-Xm4qAnoX_oJs42CankZwbpvGjgq-HESNnq4Y9k/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
+Dynamics and Networks in Single-cell Biology Minisymposium at the \href{https://www.smb2021.org}{Society for Mathematical Biology}. University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA. (Virtual).
 \item 
 \href{https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit}{Bloomberg American Health Summit 2020}. 2020 Dec 9. Baltimore, MD. USA. (Virtual). 
 \href{https://www.youtube.com/watch?v=DgzBSOY5Yc8}{Watch on YouTube}.
@@ -1241,7 +1299,15 @@ AACR 103rd Annual Meeting. 2012 Mar 31-Apr 4. Chicago, IL.
 
 \myben{0.3em}
 
-\item Maths in the Life Sciences Seminar Series. Joint seminar held between the Applied Maths and Biostatistics and Data Science Departments. University of Manchester. 2021 Jul 5. Manchester, England, UK. 
+\item Department of Biochemistry and Molecular Biology. Michigan State University. 2022 Apr 14. Lansing, MI. USA. 
+\item Department of Physiology and Biophysics and the Institute for Computational Biomedicine (ICB) at Weill Cornell Medicine (WCM). 2022 Mar 14. New York City, NY. USA.
+\item Department of Biostatistics. University of Michigan. 2021 Dec 9. Ann Arbor, MI. USA. 
+\item Department of Applied Mathematics and Statistics (AMS). Johns Hopkins University. 2021 Nov 18. Baltimore, MD. USA. 
+\item Lieber Institute Speaker Series. Lieber Institute for Brain Development. 2021 Oct 26. Baltimore, MD. USA. (Virtual).
+\item Community of Scholars (COS) Seminar Series in the Clinical and Translational Science Institute (CTSI) K Scholar Program. University at Buffalo. 2021 Sept 27. Buffalo, NY. USA. (Virtual). 
+\item 
+{\it \href{https://docs.google.com/presentation/d/1R06CRYVkJ_Fd8k2mXWbsipW3U5XtbOjRBPJAxXV1mYs/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}.\\
+Maths in the Life Sciences Seminar Series. Joint seminar held between the Applied Maths and Biostatistics and Data Science Departments. University of Manchester. 2021 Jul 12. Manchester, England, UK. (Virtual). \href{https://www.youtube.com/watch?v=ldlqaNMtNYM}{Watch on YouTube}.
 \item 
 {\it \href{https://docs.google.com/presentation/d/162fFeEOn7cjh7j7JIzXhNVrgeYP0zivE6Fdlu5g_yh0/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
 Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. (Virtual). \href{https://stanford.zoom.us/rec/share/s5WC407FBaSupdzQY1BKYQXsjiNyhQ25mAPHP5P7jC1qERyYuJ-VAbqH1bOeHkQ5.ekxvZh3ymtDU-x51}{Watch online}.
