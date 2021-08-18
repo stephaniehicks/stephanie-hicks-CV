@@ -440,13 +440,13 @@ Tippani M, Divecha HR, Catallini JL, Weber LM, Spangler A, Jaffe AE, {\bf Hicks 
 \mine % Jul 12 
 Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2021). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.07.10.451910}}. 
 \item % Apr 30 
-Pardo B, Spangler A, Weber LM$^{*}$, {\bf Hicks SC}, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2021). spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.04.29.440149}}. 
+Pardo B, Spangler A, Weber LM$^{*}$, {\bf Hicks SC}, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2021). spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.04.29.440149}}. \gs{$\Sexpr{pubs[pubs[,8] == "eJXPG6dFmWUC",5]}$}.
 \mine % Mar 29 
 Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2021). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.28.437378}}. 
 \item % Mar 24
 Baker DN, Dyjack N$^{*}$, Braverman V, {\bf Hicks SC}, Langmead B. (2021). minicore: Fast scRNA-seq clustering with various distance measures. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.24.436859}}. 
 \mine % Mar 10
-D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2021). Design Principles for Data Analysis. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2103.05689}}.
+D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2021). Design Principles for Data Analysis. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2103.05689}}. \gs{$\Sexpr{pubs[pubs[,8] == "sSrBHYA8nusC",5]}$}.
 \mine % Jan 28 
 Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2021). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.01.27.428431}}. \gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.
 \item % Oct 8
