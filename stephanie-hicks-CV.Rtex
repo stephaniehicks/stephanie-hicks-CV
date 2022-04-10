@@ -359,17 +359,15 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 \myben{0.4em}
 
 \item 
-Wang Y, {\bf Hicks SC}, Hansen KD. (2022). Co-expression analysis is biased by a mean-correlation relationship. \dg{{\it PLOS Computational Biology}. {\bf 18}(3):e1009954. PMID: 35353807. PMCID: TBA}.  \gs{$\Sexpr{pubs[pubs[,8] == "abG-DnoFyZgC",5]}$}.
+Wang Y, {\bf Hicks SC}, Hansen KD. (2022). Co-expression analysis is biased by a mean-correlation relationship. \dg{{\it PLOS Computational Biology}. {\bf 18}(3):e1009954. PMID: 35353807. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "eq2jaN3J8jMC",5]}$}.
 \item % Mar 24
-Baker DN, Dyjack N$^{*}$, Braverman V, {\bf Hicks SC}, Langmead B. (2021). minicore: Fast scRNA-seq clustering with various distance measures. \dg{{\it ACM Conference on Bioinformatics, Computational Biology and Biomedicine}. {\bf 2021}(24). PMID: 34778889. PMCID: PMC8586878}.
-% \gs{$\Sexpr{pubs[pubs[,8] == "geHnlv5EZngC",5]}$}.
+Baker DN, Dyjack N$^{*}$, Braverman V, {\bf Hicks SC}, Langmead B. (2021). minicore: Fast scRNA-seq clustering with various distance measures. \dg{{\it ACM Conference on Bioinformatics, Computational Biology and Biomedicine}. {\bf 2021}(24). PMID: 34778889. PMCID: PMC8586878}. \gs{$\Sexpr{pubs[pubs[,8] == "1qzjygNMrQYC",5]}$}.
 \item % Oct 8
 Tran MN$^{\dagger}$, Maynard KR$^{\dagger}$, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, {\bf Hicks SC}, Kleinman JE, Hyde TM, Martinowich K$^{\ddagger}$, Jaffe A$^{\ddagger}$. (2021). Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain. \dg{{\it Neuron}. {\bf S0896-6273}(21):00655-3. PMID: 34582785. PMCID: PMC8564763}. \gs{$\Sexpr{pubs[pubs[,8] == "u9iWguZQMMsC",5]}$}.
 \mine 
-Heil BJ, Hoffman MM, Markowetz F, Lee S-I, Greene CS$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2021). Reproducibility standards for machine learning in the life sciences. \dg{{\it Nature Methods}. {\bf 18}(10):1132-1135. PMID: 34462593. PMCID: TBA}. 
+Heil BJ, Hoffman MM, Markowetz F, Lee S-I, Greene CS$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2021). Reproducibility standards for machine learning in the life sciences. \dg{{\it Nature Methods}. {\bf 18}(10):1132-1135. PMID: 34462593. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "bnK-pcrLprsC",5]}$}
 \mine 
-Peng RD, Chen A, Bridgeford E, Leek JT, and \textbf{Hicks SC}. (2021). Diagnosing Data Analytic Problems in the Classroom.  \dg{{\it Journal of Statistics and Data Science Education}. %{\bf TBA}(TBA):TBA. PMID: TBA. PMCID: TBA
-URL: \url{https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1971586}}.  
+Peng RD, Chen A, Bridgeford E, Leek JT, and \textbf{Hicks SC}. (2021). Diagnosing Data Analytic Problems in the Classroom.  \dg{{\it Journal of Statistics and Data Science Education}. {\bf 29}(3):267-276}. \gs{$\Sexpr{pubs[pubs[,8] == "5ugPr518TE4C",5]}$}
 \mine
 Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2020). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it Gigascience}. {\bf 10}(9):giab062. PMID: 34553212. PMCID: PMC8458035}. \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
 \mine
@@ -618,7 +616,13 @@ data_pkg <- read.csv("scripts/bioconductor/data_pkg.csv")
 
 \myben{0.4em}
 
-\item
+\item 
+{\bf nnSVG} $\blacktriangleright$
+Methodology and R/Bioconductor software package to identify spatially variable genes (SVGs) in spatially-resolved transcriptomics data based on nearest-neighbor Gaussian processes Published in \href{}{Weber et al. (2022)}. [\href{http://bioconductor.org/packages/nnSVG}{Available on Bioconductor}].  % \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "nnSVG",2]}$}.
+\item 
+{\bf TREG} $\blacktriangleright$
+Methodology and R/Bioconductor software package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data. Published in \href{}{Huuki-Myers et al. (2022)}. [\href{http://bioconductor.org/packages/TREG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "TREG",2]}$}.
+\item 
 {\bf miQC} $\blacktriangleright$
 Methodology and R/Bioconductor software package that provides a data-driven and probabilistic quality control metric to predict the low-quality cells in a given scRNA-seq dataset. Published in \href{https://doi.org/10.1371/journal.pcbi.1009290}{Hippen et al. (2021)}. [\href{http://bioconductor.org/packages/miQC}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "miQC",2]}$}.
 \item 
@@ -656,6 +660,9 @@ Methodology and R software package that can be used to test for differences betw
 
 \myben{0.4em}
 
+\item 
+{\bf STexampleData} $\blacktriangleright$
+R/Bioconductor package that contains a collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format, for use in examples, demonstrations, tutorials, and other purposes. [\href{http://bioconductor.org/packages/STexampleData}{Available on Bioconductor}]. % \dl{$\Sexpr{data_pkg[data_pkg$Package == "STexampleData",2]}$}.
 \item 
 {\bf spatialLIBD} $\blacktriangleright$
 R/Bioconductor package to inspect interactively the spatial transcriptomics 10x Genomics Visium data analyzed by Lieber Institute for Brain Development researchers and collaborators used in \href{https://doi.org/10.1038/s41593-020-00787-0}{Maynard, Collado-Torres et al. (2021), \textit{Nature Neuroscience}}. [\href{http://bioconductor.org/packages/spatialLIBD}{Available on Bioconductor}]. \dl{$\Sexpr{data_pkg[data_pkg$Package == "spatialLIBD",2]}$}.
