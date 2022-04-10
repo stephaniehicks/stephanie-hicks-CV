@@ -9,7 +9,7 @@ software_pkgs <- pkgs %>%
   filter(Package %in% c("quantro", "qsmooth", "methylCC", 
                         "TreeSummarizedExperiment", 
                         "mbkmeans", "scry", "spqn", "bluster",
-                        "SpatialExperiment","miQC")) %>% 
+                        "SpatialExperiment","miQC", "TREG")) %>% 
   group_by(Package) %>% 
   summarize(total=sum(Nb_of_distinct_IPs))
 readr::write_csv(software_pkgs, 
