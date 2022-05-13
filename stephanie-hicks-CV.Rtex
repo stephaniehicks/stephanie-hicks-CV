@@ -115,6 +115,7 @@ B.S. / 2007 & Mathematics, Louisiana State University, Baton Rouge, LA, USA \\
 
 \mydot{-0.1em}
 
+\item Preceptor, \href{https://www.hopkinsmedicine.org/institute-genetic-medicine/education-training/predoctoral-human-genetics}{Predoctoral Training Program in Human Genetics}, Department of Genetic Medicine, Johns Hopkins University School of Medicine (2022 -- present).
 \item Faculty Member, \href{https://ccb.jhu.edu/people.php}{Center for Computational Biology}, Johns Hopkins University (2021 -- present).
 \item 
 Affiliated faculty, \href{https://americanhealth.jhu.edu}{Bloomberg American Health Initiative} (2020 -- 2021). 
@@ -164,6 +165,7 @@ Teaching Assistant, Department of Statistics, Rice University
 
 \mydot{-0.1em}
 
+\item Representative, Council of Sections for the \href{https://ww2.amstat.org/sections/officers.cfm?txtComm=SCOMP}{ASA Statistical Computing Section} (2023-2025).
 \item Member, rOpenSci Statistical Software Standards Board (2020 -- present). 
 \item Member, \href{https://www.bioconductor.org/about/code-of-conduct/}{Bioconductor Code of Conduct Committee} (2020 -- 2021).
 \item Chair, \href{https://www.amstat.org/committees/commdetails.cfm}{ASA Committee on Women in Statistics} (2020).
@@ -209,6 +211,7 @@ Teaching Assistant, Department of Statistics, Rice University
 \subsubsection*{Chair}
 
 \mydot{-0.1em}
+
 \item Session Chair, Joint Statistical Meetings (2022). Topic: \textit{Theory and Methods for Building Successful Data Analyzes}. 
 \item Session Chair, Eastern North Atlantic Region Meeting (2022). Topic: \textit{Recent advances in statistical methods for spatially-resolved transcriptomics data analysis}.
 \item Discussion Lead, \href{https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20}{Biological Data Science}, Cold Spring Harbor Laboratories (2020). Topic: \textit{Single-cell Data Analysis}. 
@@ -358,8 +361,14 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 
 \myben{0.4em}
 
+\mine % Jan 28 
+Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2022). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{Accepted in {\it Bioinformatics}. doi: \url{https://doi.org/10.1093/bioinformatics/btac299}}. \gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.
+\mine % Mar 29 
+Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2022). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{Accepted in {\it Statistics in Medicine}. doi: \url{https://doi.org/10.1101/2021.03.28.437378}}. \gs{$\Sexpr{pubs[pubs[,8] == "LPZeul_q3PIC",5]}$}.
+\item % Apr 30 
+Pardo B, Spangler A, Weber LM$^{*}$, {\bf Hicks SC}, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2022). spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data. \dg{Accepted in {\it BMC Genomics}. doi: \url{https://doi.org/10.1101/2021.04.29.440149}}. \gs{$\Sexpr{pubs[pubs[,8] == "eJXPG6dFmWUC",5]}$}.
 \item 
-Wang Y, {\bf Hicks SC}, Hansen KD. (2022). Co-expression analysis is biased by a mean-correlation relationship. \dg{{\it PLOS Computational Biology}. {\bf 18}(3):e1009954. PMID: 35353807. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "eq2jaN3J8jMC",5]}$}.
+Wang Y, {\bf Hicks SC}, Hansen KD. (2022). Addressing the mean-correlation relationship in co-expression analysis. \dg{{\it PLOS Computational Biology}. {\bf 18}(3):e1009954. PMID: 35353807. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "eq2jaN3J8jMC",5]}$}.
 \item % Mar 24
 Baker DN, Dyjack N$^{*}$, Braverman V, {\bf Hicks SC}, Langmead B. (2021). minicore: Fast scRNA-seq clustering with various distance measures. \dg{{\it ACM Conference on Bioinformatics, Computational Biology and Biomedicine}. {\bf 2021}(24). PMID: 34778889. PMCID: PMC8586878}. \gs{$\Sexpr{pubs[pubs[,8] == "1qzjygNMrQYC",5]}$}.
 \item % Oct 8
@@ -428,6 +437,8 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 
 \mycon{0.4em}
 
+\mine Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor (OSTA). Online book that teaches users a computational analysis pipeline for spatially-resolved transcriptomics data, including R code and example datasets. \url{https://lmweber.org/OSTA-book}. 
+
 \item Amezquita R, Lun A, {\bf Hicks SC}, Gottardo R. (2020). Orchestrating Single-Cell Analysis in Bioconductor. Online book that teaches users how to make use of cutting-edge Bioconductor tools to process, analyze, visualize, and explore single-cell RNA-seq data (scRNA-seq) data. \url{http://bioconductor.org/books/release/OSCA}. 
 % Online companion for the Amezquita et al. manuscript published in {\it Nature Methods} (doi: \url{https://doi.org/10.1038/s41592-019-0654-x}).
 
@@ -455,20 +466,16 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 
 \mycon{0.4em}
 
+\item % Apr 29
+Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC},  Maynard KR, Collado-Torres L. (2022). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.04.28.489923}}.
 \mine % Feb 3 
 Dyjack N$^{*}$, Baker DN, Braverman V, Langmead B, {\bf Hicks SC}. (2022). A scalable and unbiased discordance metric with $H_{+}$. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.02.03.479015}}.
-\item % Aug
+\item % Aug 
 Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.08.04.452489}}. \gs{$\Sexpr{pubs[pubs[,8] == "J-pR_7NvFogC",5]}$}.
 \mine % Jul 12 
 Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2021). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.07.10.451910}}. \gs{$\Sexpr{pubs[pubs[,8] == "q3oQSFYPqjQC",5]}$}.
-\item % Apr 30 
-Pardo B, Spangler A, Weber LM$^{*}$, {\bf Hicks SC}, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2021). spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.04.29.440149}}. \gs{$\Sexpr{pubs[pubs[,8] == "eJXPG6dFmWUC",5]}$}.
-\mine % Mar 29 
-Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2021). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.03.28.437378}}. \gs{$\Sexpr{pubs[pubs[,8] == "LPZeul_q3PIC",5]}$}.
 \mine % Mar 10
 D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2021). Design Principles for Data Analysis. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2103.05689}}. \gs{$\Sexpr{pubs[pubs[,8] == "sSrBHYA8nusC",5]}$}.
-\mine % Jan 28 
-Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2021). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.01.27.428431}}. \gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.
 \mine % Jul 25 2019
 {\bf Hicks SC}, Peng RD. (2019). Elements and Principles for Characterizing Variation between Data Analyses. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/1903.07639}}. \gs{$\Sexpr{pubs[pubs[,8] == "1sJd4Hv_s6UC",5]}$}.
 \mine % Apr 29 2019
@@ -618,7 +625,7 @@ data_pkg <- read.csv("scripts/bioconductor/data_pkg.csv")
 
 \item 
 {\bf nnSVG} $\blacktriangleright$
-Methodology and R/Bioconductor software package to identify spatially variable genes (SVGs) in spatially-resolved transcriptomics data based on nearest-neighbor Gaussian processes Published in \href{}{Weber et al. (2022)}. [\href{http://bioconductor.org/packages/nnSVG}{Available on Bioconductor}].  % \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "nnSVG",2]}$}.
+Methodology and R/Bioconductor software package to identify spatially variable genes (SVGs) in spatially-resolved transcriptomics data based on nearest-neighbor Gaussian processes Published in \href{}{Weber et al. (2022)}. [\href{http://bioconductor.org/packages/nnSVG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "nnSVG",2]}$}.
 \item 
 {\bf TREG} $\blacktriangleright$
 Methodology and R/Bioconductor software package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data. Published in \href{}{Huuki-Myers et al. (2022)}. [\href{http://bioconductor.org/packages/TREG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "TREG",2]}$}.
@@ -662,7 +669,7 @@ Methodology and R software package that can be used to test for differences betw
 
 \item 
 {\bf STexampleData} $\blacktriangleright$
-R/Bioconductor package that contains a collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format, for use in examples, demonstrations, tutorials, and other purposes. [\href{http://bioconductor.org/packages/STexampleData}{Available on Bioconductor}]. % \dl{$\Sexpr{data_pkg[data_pkg$Package == "STexampleData",2]}$}.
+R/Bioconductor package that contains a collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format, for use in examples, demonstrations, tutorials, and other purposes. [\href{http://bioconductor.org/packages/STexampleData}{Available on Bioconductor}].  \dl{$\Sexpr{data_pkg[data_pkg$Package == "STexampleData",2]}$}.
 \item 
 {\bf spatialLIBD} $\blacktriangleright$
 R/Bioconductor package to inspect interactively the spatial transcriptomics 10x Genomics Visium data analyzed by Lieber Institute for Brain Development researchers and collaborators used in \href{https://doi.org/10.1038/s41593-020-00787-0}{Maynard, Collado-Torres et al. (2021), \textit{Nature Neuroscience}}. [\href{http://bioconductor.org/packages/spatialLIBD}{Available on Bioconductor}]. \dl{$\Sexpr{data_pkg[data_pkg$Package == "spatialLIBD",2]}$}.
@@ -1490,8 +1497,10 @@ Department of Biology, Louisiana State University. 2015 Feb 11. Baton Rouge, LA,
 
 \myben{0.3em}
 
+
 \item NHGRI-NIEHS Workshop on RNomics. 2022 24-26 May. (Virtual).
 \item DahShu webinar. 2022 Apr 29. (Virtual).
+\item Design principles for data analysis. \href{https://www.meetup.com/rladies-east-lansing/events/284104809}{R-Ladies East Lansing}. 2022 Apr 14. (Virtual).
 \item 2022 NHGRI Research Training & Career Development Annual Meeting. 2022 Apr 3-6. (Hybrid).
 \item CZI Spatial Summit. 2022 Mar 21. (Virtual).
 \item CZI Single-Cell Biology 2021 Annual Meeting. 2021 Oct 6-8. (Virtual).
