@@ -71,7 +71,7 @@ Part I
 %
 \begin{tabular}[t]{L{12.5cm}R{5cm}}
 \href{https://www.jhsph.edu/departments/biostatistics/}{Department of Biostatistics} & email: \href{mailto:shicks19@jhu.edu}{shicks19@jhu.edu} \\
-\href{https://www.jhsph.edu}{Johns Hopkins Bloomberg School of Public Health} & twitter: \href{https://twitter.com/stephaniehicks}{@stephaniehicks} \\
+\href{https://www.jhsph.edu}{Johns Hopkins Bloomberg School of Public Health} (BSPH) & twitter: \href{https://twitter.com/stephaniehicks}{@stephaniehicks} \\
 615 North Wolfe Street  &  github: stephaniehicks \\
 Baltimore, MD 21205-2179 USA & website: \href{http://www.stephaniehicks.com}{stephaniehicks.com} \\ 
 Pronouns: she/her  & phone: (410) 955-3067 
@@ -115,16 +115,18 @@ B.S. / 2007 & Mathematics, Louisiana State University, Baton Rouge, LA, USA \\
 
 \mydot{-0.1em}
 
+\item Associate Professor, Department of Biostatistics, Johns Hopkins BSPH
+(2022 -- present).  
 \item Preceptor, \href{https://www.hopkinsmedicine.org/institute-genetic-medicine/education-training/predoctoral-human-genetics}{Predoctoral Training Program in Human Genetics}, Department of Genetic Medicine, Johns Hopkins University School of Medicine (2022 -- present).
 \item Faculty Member, \href{https://ccb.jhu.edu/people.php}{Center for Computational Biology}, Johns Hopkins University (2021 -- present).
 \item 
 Affiliated faculty, \href{https://americanhealth.jhu.edu}{Bloomberg American Health Initiative} (2020 -- 2021). 
 \item 
-T32 Preceptor, \href{http://www.jhu-bmb-phd.org/faculty/stephanie-hicks}{Department of Biochemistry and Molecular Biology}, Johns Hopkins Bloomberg School of Public Health (2020 -- present).
-\item Assistant Professor, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
-(2018 -- present).  
+Preceptor, \href{http://www.jhu-bmb-phd.org/faculty/stephanie-hicks}{Department of Biochemistry and Molecular Biology}, Johns Hopkins BSPH (2020 -- present).
 \item 
 Faculty Member, \href{http://jhudatascience.org}{Johns Hopkins Data Science Lab} (2018 -- present).
+\item Assistant Professor, Department of Biostatistics, Johns Hopkins BSPH
+(2018 -- 2022).  
 \ee
 
 
@@ -133,7 +135,7 @@ Faculty Member, \href{http://jhudatascience.org}{Johns Hopkins Data Science Lab}
 \mydot{-0.1em}
 
 \item Postdoctoral Research Fellow, Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA (2013 -- 2018).
-\item Postdoctoral Research Fellow, Department of Biostatistics, Harvard T.H. Chan School of Public Health, Boston, MA (2013 -- 2018).
+\item Postdoctoral Research Fellow, Department of Biostatistics, Harvard T.H. Chan SPH, Boston, MA (2013 -- 2018).
 \item
 Research Assistant, Department of Statistics, Rice University
 (2007 -- 2013). 
@@ -361,24 +363,27 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 
 \myben{0.4em}
 
-\mine % Jan 28 
-Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2022). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{Accepted in {\it Bioinformatics}. doi: \url{https://doi.org/10.1093/bioinformatics/btac299}}. \gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.
-\mine % Mar 29 
-Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2022). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{Accepted in {\it Statistics in Medicine}. doi: \url{https://doi.org/10.1101/2021.03.28.437378}}. \gs{$\Sexpr{pubs[pubs[,8] == "LPZeul_q3PIC",5]}$}.
-\item % Apr 30 
-Pardo B, Spangler A, Weber LM$^{*}$, {\bf Hicks SC}, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2022). spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data. \dg{Accepted in {\it BMC Genomics}. doi: \url{https://doi.org/10.1101/2021.04.29.440149}}. \gs{$\Sexpr{pubs[pubs[,8] == "eJXPG6dFmWUC",5]}$}.
+\mine % Mar 10
+D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2022). Design Principles for Data Analysis. \dg{Accepted in {\it Journal of Computational and Graphical Statistics}. doi: \url{https://arxiv.org/abs/2103.05689}}. \gs{$\Sexpr{pubs[pubs[,8] == "sSrBHYA8nusC",5]}$}.
+\mine 
+Mallick H, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2022). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{{\it Statistics in Medicine}. Epub. doi: \url{http://doi.org/10.1002/sim.9430}}. \gs{$\Sexpr{pubs[pubs[,8] == "LPZeul_q3PIC",5]}$}.
+\mine
+Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2022). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it Bioinformatics}. {\bf 38}(11):3128-3131. PMID: 35482478. PMCID: PMC9154247}.
+\gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.
 \item 
-Wang Y, {\bf Hicks SC}, Hansen KD. (2022). Addressing the mean-correlation relationship in co-expression analysis. \dg{{\it PLOS Computational Biology}. {\bf 18}(3):e1009954. PMID: 35353807. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "eq2jaN3J8jMC",5]}$}.
-\item % Mar 24
+Pardo B, Spangler A, Weber LM$^{*}$, {\bf Hicks SC}, Jaffe AE, Martinowich K, Maynard KR, Collado-Torres L. (2022). spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics data. \dg{{\it BMC Genomics}.  {\bf 23}(1):434. PMID: 35689177. PMCID: PMC9188087}. \gs{$\Sexpr{pubs[pubs[,8] == "eJXPG6dFmWUC",5]}$}.
+\item 
+Wang Y, {\bf Hicks SC}, Hansen KD. (2022). Addressing the mean-correlation relationship in co-expression analysis. \dg{{\it PLOS Computational Biology}. {\bf 18}(3):e1009954. PMID: 35353807. PMCID: PMC9009771}. \gs{$\Sexpr{pubs[pubs[,8] == "eq2jaN3J8jMC",5]}$}.
+\item
 Baker DN, Dyjack N$^{*}$, Braverman V, {\bf Hicks SC}, Langmead B. (2021). minicore: Fast scRNA-seq clustering with various distance measures. \dg{{\it ACM Conference on Bioinformatics, Computational Biology and Biomedicine}. {\bf 2021}(24). PMID: 34778889. PMCID: PMC8586878}. \gs{$\Sexpr{pubs[pubs[,8] == "1qzjygNMrQYC",5]}$}.
-\item % Oct 8
+\item 
 Tran MN$^{\dagger}$, Maynard KR$^{\dagger}$, Spangler A, Collado-Torres L, Sadashivaiah V, Tippani M, Barry BK, Hancock DB, {\bf Hicks SC}, Kleinman JE, Hyde TM, Martinowich K$^{\ddagger}$, Jaffe A$^{\ddagger}$. (2021). Single-nucleus transcriptome analysis reveals cell type-specific molecular signatures across reward circuitry in the human brain. \dg{{\it Neuron}. {\bf S0896-6273}(21):00655-3. PMID: 34582785. PMCID: PMC8564763}. \gs{$\Sexpr{pubs[pubs[,8] == "u9iWguZQMMsC",5]}$}.
 \mine 
-Heil BJ, Hoffman MM, Markowetz F, Lee S-I, Greene CS$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2021). Reproducibility standards for machine learning in the life sciences. \dg{{\it Nature Methods}. {\bf 18}(10):1132-1135. PMID: 34462593. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "bnK-pcrLprsC",5]}$}
+Heil BJ, Hoffman MM, Markowetz F, Lee S-I, Greene CS$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2021). Reproducibility standards for machine learning in the life sciences. \dg{{\it Nature Methods}. {\bf 18}(10):1132-1135. PMID: 34462593. PMCID: PMC9131851}. \gs{$\Sexpr{pubs[pubs[,8] == "bnK-pcrLprsC",5]}$}
 \mine 
 Peng RD, Chen A, Bridgeford E, Leek JT, and \textbf{Hicks SC}. (2021). Diagnosing Data Analytic Problems in the Classroom.  \dg{{\it Journal of Statistics and Data Science Education}. {\bf 29}(3):267-276}. \gs{$\Sexpr{pubs[pubs[,8] == "5ugPr518TE4C",5]}$}
 \mine
-Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2020). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it Gigascience}. {\bf 10}(9):giab062. PMID: 34553212. PMCID: PMC8458035}. \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
+Weber LM$^{*}$, Hippen AA, Hickey PF, Berrett KC, Gertz J, Doherty JA, Greene CS, {\bf Hicks SC}. (2021). Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer facilitates effective experimental design. \dg{{\it Gigascience}. {\bf 10}(9):giab062. PMID: 34553212. PMCID: PMC8458035}. \gs{$\Sexpr{pubs[pubs[,8] == "K3LRdlH-MEoC",5]}$}.
 \mine
 Hippen AA$^{*}$, Falco MM, Weber LM$^{*}$, Erkan EP, Zhang K, Dohert JA, Vähärautio A$^{\ddagger}$, Greene CS, \textbf{Hicks SC}$^{\ddagger}$. (2021). miQC: An adaptive probabilistic framework for quality control of single-cell RNA-sequencing data. \dg{{\it PLOS Computational Biology}. {\bf 17}(8):e1009290. PMID: 34428202. PMCID: PMC8415599}.  \gs{$\Sexpr{pubs[pubs[,8] == "4fKUyHm3Qg0C",5]}$}.
 \item 
@@ -466,6 +471,10 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 
 \mycon{0.4em}
 
+\mine % 
+Kuo A, Hansen KD, {\bf Hicks SC}. (2022). Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.05.20.492835}}.
+\mine % 
+Weber LM, Saha A, Datta A, Hansen KD, {\bf Hicks SC}. (2022). nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.05.16.492124}}.
 \item % Apr 29
 Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC},  Maynard KR, Collado-Torres L. (2022). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.04.28.489923}}.
 \mine % Feb 3 
@@ -474,8 +483,6 @@ Dyjack N$^{*}$, Baker DN, Braverman V, Langmead B, {\bf Hicks SC}. (2022). A sca
 Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.08.04.452489}}. \gs{$\Sexpr{pubs[pubs[,8] == "J-pR_7NvFogC",5]}$}.
 \mine % Jul 12 
 Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2021). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.07.10.451910}}. \gs{$\Sexpr{pubs[pubs[,8] == "q3oQSFYPqjQC",5]}$}.
-\mine % Mar 10
-D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2021). Design Principles for Data Analysis. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2103.05689}}. \gs{$\Sexpr{pubs[pubs[,8] == "sSrBHYA8nusC",5]}$}.
 \mine % Jul 25 2019
 {\bf Hicks SC}, Peng RD. (2019). Elements and Principles for Characterizing Variation between Data Analyses. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/1903.07639}}. \gs{$\Sexpr{pubs[pubs[,8] == "1sJd4Hv_s6UC",5]}$}.
 \mine % Apr 29 2019
@@ -625,23 +632,24 @@ data_pkg <- read.csv("scripts/bioconductor/data_pkg.csv")
 
 \item 
 {\bf nnSVG} $\blacktriangleright$
-Methodology and R/Bioconductor software package to identify spatially variable genes (SVGs) in spatially-resolved transcriptomics data based on nearest-neighbor Gaussian processes Published in \href{}{Weber et al. (2022)}. [\href{http://bioconductor.org/packages/nnSVG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "nnSVG",2]}$}.
+Methodology and R/Bioconductor software package to identify spatially variable genes (SVGs) in spatially-resolved transcriptomics data based on nearest-neighbor Gaussian processes.
+Published in \href{https://doi.org/10.1101/2022.05.16.492124}{Weber et al. (2022)}. 
+[\href{http://bioconductor.org/packages/nnSVG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "nnSVG",2]}$}.
 \item 
 {\bf TREG} $\blacktriangleright$
-Methodology and R/Bioconductor software package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data. Published in \href{}{Huuki-Myers et al. (2022)}. [\href{http://bioconductor.org/packages/TREG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "TREG",2]}$}.
+Methodology and R/Bioconductor software package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data. Published in \href{https://doi.org/10.1101/2022.04.28.489923}{Huuki-Myers et al. (2022)}. [\href{http://bioconductor.org/packages/TREG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "TREG",2]}$}.
 \item 
 {\bf miQC} $\blacktriangleright$
 Methodology and R/Bioconductor software package that provides a data-driven and probabilistic quality control metric to predict the low-quality cells in a given scRNA-seq dataset. Published in \href{https://doi.org/10.1371/journal.pcbi.1009290}{Hippen et al. (2021)}. [\href{http://bioconductor.org/packages/miQC}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "miQC",2]}$}.
 \item 
 {\bf SpatialExperiment} $\blacktriangleright$
-R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. Published in \href{https://doi.org/10.1101/2021.01.27.428431}{Righelli, Weber, Crowell et al. (2021)}. [\href{http://bioconductor.org/packages/SpatialExperiment}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "SpatialExperiment",2]}$}.
- 
+R/Bioconductor package to define a S4 class for data with spatial coordinates by extending SingleCellExperiment to include spatial experiments such as seqFISH and 10x Visium spatial transcriptomics technologies. Published in \href{https://doi.org/10.1093/bioinformatics/btac299}{Righelli, Weber, Crowell et al. (2022)}. [\href{http://bioconductor.org/packages/SpatialExperiment}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "SpatialExperiment",2]}$}.
 \item 
 {\bf bluster} $\blacktriangleright$
  R/Bioconductor package to wrap common clustering algorithms in an easily extended S4 framework. Backends are implemented for hierarchical, k-means and graph-based clustering. Several utilities are also provided to compare and evaluate clustering results. [\href{http://bioconductor.org/packages/bluster}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "bluster",2]}$}.
 \item
 {\bf spQN} $\blacktriangleright$
-Methodology and R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data. Published in \href{https://doi.org/10.1101/2020.02.13.944777}{Wang et al. (2020)}. [\href{http://bioconductor.org/packages/spqn}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "spqn",2]}$}.
+Methodology and R/Bioconductor package to implement spatial quantile normalization (SpQN). This method was developed to remove a mean-correlation relationship in correlation matrices built from gene expression data. Published in \href{https://doi.org/10.1371/journal.pcbi.1009954}{Wang et al. (2022)}. [\href{http://bioconductor.org/packages/spqn}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "spqn",2]}$}.
 \item
 {\bf scry} $\blacktriangleright$
  R/Bioconductor package to implement count-based feature selection and dimension reduction algorithms using \texttt{glmpca} to facilitate unsupervised analysis of any high-dimensional data such as single-cell RNA-seq. Published in \href{https://doi.org/10.1186/s13059-019-1861-6}{Townes et al. (2019)}. [\href{https://cran.r-project.org/web/packages/glmpca/index.html}{glmpca available on CRAN}]. [\href{http://bioconductor.org/packages/scry}{Available on Bioconductor}]. \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "scry",2]}$}.
@@ -672,7 +680,7 @@ Methodology and R software package that can be used to test for differences betw
 R/Bioconductor package that contains a collection of spatially resolved transcriptomics datasets in SpatialExperiment Bioconductor format, for use in examples, demonstrations, tutorials, and other purposes. [\href{http://bioconductor.org/packages/STexampleData}{Available on Bioconductor}].  \dl{$\Sexpr{data_pkg[data_pkg$Package == "STexampleData",2]}$}.
 \item 
 {\bf spatialLIBD} $\blacktriangleright$
-R/Bioconductor package to inspect interactively the spatial transcriptomics 10x Genomics Visium data analyzed by Lieber Institute for Brain Development researchers and collaborators used in \href{https://doi.org/10.1038/s41593-020-00787-0}{Maynard, Collado-Torres et al. (2021), \textit{Nature Neuroscience}}. [\href{http://bioconductor.org/packages/spatialLIBD}{Available on Bioconductor}]. \dl{$\Sexpr{data_pkg[data_pkg$Package == "spatialLIBD",2]}$}.
+R/Bioconductor package to inspect interactively the spatial transcriptomics 10x Genomics Visium data analyzed by Lieber Institute for Brain Development researchers and collaborators used in \href{https://doi.org/10.1038/s41593-020-00787-0}{Maynard, Collado-Torres et al. (2021)}. [\href{http://bioconductor.org/packages/spatialLIBD}{Available on Bioconductor}]. \dl{$\Sexpr{data_pkg[data_pkg$Package == "spatialLIBD",2]}$}.
 \item 
 {\bf benchmarkfdrData2019} $\blacktriangleright$
 R/Bioconductor data package that contains benchmarking results for experimental and simulated data sets used in \href{https://doi.org/10.1186/s13059-019-1716-1}{Korthauer and Kimes et al. (2019)} to compare methods for controlling the false discovery rate. A shiny app to interactively explore the data is available on the \href{https://github.com/kdkorthauer/benchmarkfdr-shiny}{kdkorthauer/benchmark-shiny} repository on GitHub [\href{http://bioconductor.org/packages/benchmarkfdrData2019}{Available on Bioconductor}].  \dl{$\Sexpr{data_pkg[data_pkg$Package == "benchmarkfdrData2019",2]}$}.
@@ -769,18 +777,18 @@ Part II
 
 \myben{-0.1em}
 
-\item Guo, Boyi (Aug 2022 -- Present).
+% \item Guo, Boyi (Aug 2022 -- Present).
 
-\item Maden, Sean (Jun 2022 -- Present).
+% \item Maden, Sean (Jun 2022 -- Present).
 
 \item Hou, Wenpin* (2019 -- Present). 
 
 \begin{enumerate}[(a)] 
 \item Accepted a TT faculty position in Columbia Biostatistics to start in Jul 2022.
+\item Awarded a NIH/NHGRI \href{https://reporter.nih.gov/search/T4y1ngQkBEuHkM38tQ2i_A/project-details/10104023}{K99/R00 Pathway to Independence Award} (2021).
 \item Awarded an Emerging Leaders in Computational Oncology at MSKCC (2021).
 \item Selected to give a \href{https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220691}{contributed talk} at JSM 2021.
 \item Selected to give a poster presentation at CSHL Systems Immunology conference (2021).
-\item Awarded a NIH/NHGRI \href{https://reporter.nih.gov/search/T4y1ngQkBEuHkM38tQ2i_A/project-details/10104023}{K99/R00 Pathway to Independence Award} (2021).
 \item Selected to give a talk at ENAR (2020). 
 \item Selected to give a poster presentation at the JHU Genomics Symposium (2019).
 \end{enumerate}
@@ -788,9 +796,9 @@ Part II
 \item Weber, Lukas (2019 -- Present).
 
 \begin{enumerate}[(a)] 
-\item Selected to give an invited talk at ENAR (2022).
 \item Awarded a NIH/NHGRI \href{https://reporter.nih.gov/search/gbgEFRLcQUSL6wTKrGQbVw/project-details/10350850}{K99/R00 Pathway to Independence Award} (2022).
-\item Selected to give a talk at Bioconductor (2021).
+\item Selected to give an invited talk at ENAR (2022).
+\item Selected to give a talk at Bioconductor (2021 and 2022).
 \item Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont Award} (2021).
 \item Selected to give a poster presentation at CSHL Genome Informatics (2020).
 \item Selected to give a talk at Bioconductor (2020).
@@ -809,7 +817,7 @@ Part II
 % \item Submitted a NIH/NIDA \href{https://researchtraining.nih.gov/programs/fellowships/F31}{F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award} (2021).
 \end{enumerate}
 
-\item Kuo, Albert*. Doctor of Philosophy, Biostatistics (2019 -- Present).
+\item Kuo, Albert*. Doctor of Philosophy, Biostatistics (2019 -- 2022). Present: Data Scientist at Amazon.
 \begin{enumerate}[(a)] 
 \item Selected to give a talk at ENAR 2021. 
 \end{enumerate}
@@ -821,9 +829,11 @@ Part II
 
 \myben{-0.1em}
 
+\item Yao, Jianing. ScM, Biostatistics (2022 -- Present).
+
 \item Fuchs, Franklin. ScM, Biostatistics (2021 -- Present).
 
-\item Zhuang, Yongbao. ScM, Biochemistry and Molecular Biology (2020 -- Present).
+\item Zhuang, Yongbao. ScM, Biochemistry and Molecular Biology (2020 -- 2022).
 
 \item Dyjack, Nathan. Masters of Science (ScM), Biostatistics (2019 -- 2021).
 \begin{enumerate}[(a)] 
@@ -1122,17 +1132,24 @@ $\blacktriangleright$
 
 \mydot{0.3em}
 
+\item
+{\it Laminar dissection of cortical human brain gene expression in neuropsychiatric disorders (NIH/NIMH R01MH126393).}\\[0.0em]
+\dn{Dates:} 06/23/2021 -- 03/31/2026.
+\dn{Principal Investigator:} Keri Martinowich, PhD \\
+\dn{Responsibility:} Co-Investigator.
+
+
 \item[$\bullet$]
 {\it Integrative cellular deconvolution of human brain RNA sequencing data (NIH/NIMH R01MH123183).}\\[0.0em]
-\dn{Dates:} 04/03/2020 -- 04/29/2024.
+\dn{Dates:} 04/03/2020 -- 02/28/2024.
 \dn{Principal Investigators:} Stephanie C. Hicks, PhD; Kristen Maynard, PhD \\
 \dn{Responsibility:} Co-PI (MPI).
 
-\item[$\bullet$]
+\item
 {\it Spatial registration of gene expression in the human brain (NIH/NIMH U01MH122849).}\\[0.0em]
 \dn{Dates:} 01/05/2021 -- 04/30/2022.
-\dn{Principal Investigators:} Keri Martinowich, PhD; Stephanie C. Hicks, PhD  \\
-\dn{Responsibility:} Co-PI (MPI).
+\dn{Principal Investigator:} Keri Martinowich, PhD  \\
+\dn{Responsibility:} Co-Investigator.
 
 \item
 {\it The Genomic Data Science Community Network (NIH/NHLBI 75N92020P00235).}\\[0.0em]
@@ -1251,8 +1268,11 @@ $\blacktriangleright$
 {\it Refining best practices for reproducibility to improve the quality of data analyses in statistics and data science}. \\ 
 Invited session on \href{https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221895}{A Multi-disciplinary View of Reproducibility}. 
 \href{https://ww2.amstat.org/meetings/jsm/2022/}{Joint Statistical Meetings}. 2022 Aug 6-11. Washington DC. USA.
+\item 
+{\it Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science}. \\ 
+Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2022 Jul 18. Bar Harbor, ME. USA. 
 \item Applied Bioinformatics in Life Sciences (4th edition). \href{https://www.vibconferences.be/events/applied-bioinformatics-in-life-sciences-3rd-edition}{VIB Conference} (Plenary session). 2022 Mar 10-11. Leuven, Belgium.
-\item 6th Annual MidAtlantic Bioinformatics Conference. 2021 Nov 8. Philadelphia, PA. USA. (Virtual).
+\item 6th Annual MidAtlantic Bioinformatics Conference. 2021 Nov 8. Philadelphia, PA. USA. 
 [\href{https://www.youtube.com/watch?v=ZJF67I7RF0I}{Watch on YouTube}].
 \item 
 {\it Evaluating the Alignment of a Data Analysis between Analyst and Audience}. \\ 
@@ -1261,25 +1281,25 @@ Invited session on Theoretical and Empirical Contributions to Data Analytic Prac
 \item Discussant in the Invited session on  \href{https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220334}{Developing and Maintaining Open Source Resources for Statistics and Data Science Education}. \href{https://ww2.amstat.org/meetings/jsm/2021/}{Joint Statistical Meetings}. 2021 Aug 7-12. Seattle, WA. USA.
 \item 
 {\it \href{https://docs.google.com/presentation/d/19RVSt4uHx7r1i1TOvnAW0khzQgdmHa1Pq3U30emIJ1o/edit?usp=sharing}{Increasing the reproducibility and rigor of single-cell RNA-seq through the use of statistics and data science}}. \\ 
-Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. (Virtual).
+Reproducible and FAIR Bioinformatics Analysis of Omics Data. 2021 Jul 15. Bar Harbor, ME. USA. 
 \item 
 {\it \href{https://docs.google.com/presentation/d/1D-0P-Xm4qAnoX_oJs42CankZwbpvGjgq-HESNnq4Y9k/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
-Dynamics and Networks in Single-cell Biology Minisymposium at the \href{https://www.smb2021.org}{Society for Mathematical Biology}. University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA. (Virtual).
+Dynamics and Networks in Single-cell Biology Minisymposium at the \href{https://www.smb2021.org}{Society for Mathematical Biology}. University of California Riverside. 2021 Jun 13-17. Riverside, CA. USA.
 \item 
-\href{https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit}{Bloomberg American Health Summit 2020}. 2020 Dec 9. Baltimore, MD. USA. (Virtual). 
+\href{https://americanhealth.jhu.edu/2020-bloomberg-american-health-summit}{Bloomberg American Health Summit 2020}. 2020 Dec 9. Baltimore, MD. USA.
 [\href{https://www.youtube.com/watch?v=DgzBSOY5Yc8}{Watch on YouTube}].
 \item 
 {\it \href{https://docs.google.com/presentation/d/1PFx_wn4322FuDWzA14jPGZ786FH0jDsqe1NabcfjS6E/edit?usp=sharing}{Scaling up single-cell data analyses in Bioconductor}}. \\
-\href{https://www.singlecells.org.au/webinar-episodes}{Oz Single Cell 2020}. 2020 Nov 18. Melbourne, Australia. (Virtual). [\href{https://www.youtube.com/watch?v=poEDERGXrQw}{Watch on YouTube}].
+\href{https://www.singlecells.org.au/webinar-episodes}{Oz Single Cell 2020}. 2020 Nov 18. Melbourne, Australia. [\href{https://www.youtube.com/watch?v=poEDERGXrQw}{Watch on YouTube}].
 \item 
 {\it \href{https://docs.google.com/presentation/d/1rHnFEjBUt9kqWfVfD5X8dOXSFUp3pFmWZoKCni3GATo/edit?usp=sharing}{Scaling up single-cell data analyses in Bioconductor}}. \\
-\href{https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20}{Biological Data Science}. 2020 Nov 4-7. Cold Spring Harbor Laboratory, NY. USA. (Virtual).
+\href{https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20}{Biological Data Science}. 2020 Nov 4-7. Cold Spring Harbor Laboratory, NY. USA. 
 \item {\it \href{https://docs.google.com/presentation/d/1wSuRsSwI-uEyiPqtXEW12CBwr5qULK6zO7aPHsUH8T8/edit?usp=sharing}{Communicating statistics and data science to the masses via Open Case Studies}}. \\
-\href{https://ww2.amstat.org/meetings/jsm/2020/}{Joint Statistical Meetings}. 2020 Aug 1-6. Philadelphia, PA. USA. (Virtual).
+\href{https://ww2.amstat.org/meetings/jsm/2020/}{Joint Statistical Meetings}. 2020 Aug 1-6. Philadelphia, PA. USA.
 \item Annual Symposium of the Division of Gastroenterology at Johns Hopkins University. 2020 Jun 23. Baltimore, MD. USA. (Postponed to due COVID-19).
 \item 
 {\it \href{https://docs.google.com/presentation/d/1TRmPRv4k4aceJbdVQDub4hCXYvIdTeQfDJZfpBu28PQ/edit?usp=sharing}{Using R and data science to improve human health}}. \\ 
-\textbf{Keynote presentation} at \href{https://2020.erum.io}{The European R Users Meeting}. 2020 June 17-20. Milan, Italy. (Virtual). [\href{https://youtu.be/YqLb6gCyUGw}{Watch the keynote on YouTube}].
+\textbf{Keynote presentation} at \href{https://2020.erum.io}{The European R Users Meeting}. 2020 June 17-20. Milan, Italy. [\href{https://youtu.be/YqLb6gCyUGw}{Watch the keynote on YouTube}].
 [\href{https://youtu.be/8Fy2oKPFeRE}{Watch pre-conference interview on YouTube}].
 \item 
 \href{https://www.mailman.columbia.edu/public-health-now/events/seminars-conferences/data-science-public-health-summit}{Data Science for Public Health Summit}. Columbia Mailman School of Public Health. 2020 Jan 17. New York City, NY. USA.
@@ -1337,13 +1357,13 @@ Bioinformatics Meeting, Division of Immunology, Harvard Medical School. 2014 Sep
 
 \item 
 {\it Panelist on `Florence Nightingale 200th Anniversary'}. \\
-\href{https://ww2.amstat.org/meetings/jsm/2020/}{Joint Statistical Meetings}. 2020 Aug 1-6. Philadelphia, PA. USA. (Virtual).
+\href{https://ww2.amstat.org/meetings/jsm/2020/}{Joint Statistical Meetings}. 2020 Aug 1-6. Philadelphia, PA. USA. 
 \item 
 {\it \href{https://docs.google.com/presentation/d/1eD2jz20aDKo-hKFkbp7BRpqt-2d7cqt9Ff_todrL0Zo/edit?usp=sharing}{Bench pressing single-cell RNA-sequencing imputation methods} }. \\
-\href{http://bioc2020.bioconductor.org}{Bioconductor Conference}. 2020 Jul 29-31. Boston, MA, USA. (Virtual).
+\href{http://bioc2020.bioconductor.org}{Bioconductor Conference}. 2020 Jul 29-31. Boston, MA, USA. 
 \item 
 {\it Fast clustering for single-cell RNA-seq data using mini-batch k-means}.\\
-\href{https://enar.org/meetings/spring2020/}{ENAR Conference}. 2020 Mar 22-25. Nashville, TN. USA. (Virtual).
+\href{https://enar.org/meetings/spring2020/}{ENAR Conference}. 2020 Mar 22-25. Nashville, TN. USA. 
 \item 
 {\it \href{https://docs.google.com/presentation/d/1AlwLGTlc3ZFxY8PLpCZ5cwD3ktQyQqb1V6qub2I8360/edit?usp=sharing}{\texttt{mbkmeans}: fast clustering for single cell data using mini-batch k-means} }. \\
 \href{http://bioc2019.bioconductor.org}{Bioconductor Conference}. 2019 Jul 24-27. New York City, NY, USA.
@@ -1390,6 +1410,7 @@ AACR 103rd Annual Meeting. 2012 Mar 31-Apr 4. Chicago, IL.
 
 \myben{0.3em}
 
+\item Popescu A, Ford K, Muheim C, Medina E, Schoch H, Singletary K, \textbf{Hicks S}, Risso D, Peixoto L. Transcriptional dynamics of sleep deprivation and subsequent recovery sleep in the murine cortex. RegSys COSI. ISMB 2022. 
 \item Huuki-Myers LA, Maynard KM, {\bf Hicks SC}, Zandi P, Kleinman JE, Hyde TM, Goes FS, Collado-Torres L. Deconvolving Cell Type Proportions in Human Postmortem Brain Tissue
 from Bulk RNA-seq Data. American College of Neuropsychopharmacology. 2021 Dec 5-8. San Juan Convention Center, San Juan, PR.
 \item Kancherla J, Zinat KT, {\bf Hicks SC}, Corrada Bravo H. Hierarchical interactive exploration and analysis of single cell RNA-seq datasets. \href{https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=20}{Biological Data Science}. 2020 Nov 4-7. Cold Spring Harbor Laboratory, NY. USA. 
@@ -1416,42 +1437,43 @@ from Bulk RNA-seq Data. American College of Neuropsychopharmacology. 2021 Dec 5-
 
 \myben{0.3em}
 
+\item Department of Statistics and Data Science. The Wharton School at The University of Pennsylvania. 2022 Oct 19. Philadelphia, PA. USA. 
 \item Department of Biochemistry and Molecular Biology. Michigan State University. 2022 Apr 14. Lansing, MI. USA. 
 \item Department of Physiology and Biophysics and the Institute for Computational Biomedicine (ICB) at Weill Cornell Medicine (WCM). 2022 Mar 14. New York City, NY. USA.
-\item \href{https://math.mit.edu/compbiosem/spring21/index.html}{Spring MIT Bioinformatics Seminar Series}. MIT Math Department and the Computer Science and Artificial Intelligence Laboratory (CSAIL). Massachusetts Institute of Technology. 2022 Feb 23. Boston, MA. USA. (Virtual). 
+\item \href{https://math.mit.edu/compbiosem/spring21/index.html}{Spring MIT Bioinformatics Seminar Series}. MIT Math Department and the Computer Science and Artificial Intelligence Laboratory (CSAIL). Massachusetts Institute of Technology. 2022 Feb 23. Boston, MA. USA.
 \item Department of Biostatistics. Virginia Commonwealth University. 2022 Feb 4. Richmond, VA. USA.
-\item Department of Mathematics & Statistics. McMaster University. 2022 Jan 28. Hamilton, Ontario, Canada. (Virtual).
+\item Department of Mathematics & Statistics. McMaster University. 2022 Jan 28. Hamilton, Ontario, Canada.
 \item Department of Biostatistics. University of Michigan. 2021 Dec 9. Ann Arbor, MI. USA. 
-\item AI \& Health Data Issues panel discussion at the \href{https://pheedloop.com/aihealth/site/home/}{Stanford AI + Health Online Conference}. Institute for Human-Centered Artificial Intelligence at Stanford University and the Stanford Center for Continuing Medical Education (Stanford CME). 2021 Dec 8-9. Stanford, CA. USA. (Virtual).
+\item AI \& Health Data Issues panel discussion at the \href{https://pheedloop.com/aihealth/site/home/}{Stanford AI + Health Online Conference}. Institute for Human-Centered Artificial Intelligence at Stanford University and the Stanford Center for Continuing Medical Education (Stanford CME). 2021 Dec 8-9. Stanford, CA. USA. 
 \item Department of Biostatistics, Epidemiology and Informatics. University of Pennsylvania Perelman School of Medicine. 2021 Nov 30. Phildelphia, PA. USA.
 \item Department of Applied Mathematics and Statistics (AMS). Johns Hopkins University. 2021 Nov 4. Baltimore, MD. USA. 
-\item Lieber Institute Speaker Series. Lieber Institute for Brain Development. 2021 Oct 26. Baltimore, MD. USA. (Virtual).
-\item \href{https://docs.google.com/presentation/d/1YQpeqC5xbP2n8vhcL0g6rgys5XkqbpquANft-UoH1u8/edit?usp=sharing}{Scalable statistical methods and software for single-cell and spatial data science}. Joint Carnegie Mellon University - University of Pittsburgh PhD Program in Computational Biology. 2021 Oct 8. Pittsburgh, PA. USA. (Virtual).
-\item Community of Scholars (COS) Seminar Series in the Clinical and Translational Science Institute (CTSI) K Scholar Program. University at Buffalo. 2021 Sept 27. Buffalo, NY. USA. (Virtual). 
+\item Lieber Institute Speaker Series. Lieber Institute for Brain Development. 2021 Oct 26. Baltimore, MD. USA. 
+\item \href{https://docs.google.com/presentation/d/1YQpeqC5xbP2n8vhcL0g6rgys5XkqbpquANft-UoH1u8/edit?usp=sharing}{Scalable statistical methods and software for single-cell and spatial data science}. Joint Carnegie Mellon University - University of Pittsburgh PhD Program in Computational Biology. 2021 Oct 8. Pittsburgh, PA. USA.
+\item Community of Scholars (COS) Seminar Series in the Clinical and Translational Science Institute (CTSI) K Scholar Program. University at Buffalo. 2021 Sept 27. Buffalo, NY. USA. 
 \item 
 {\it \href{https://docs.google.com/presentation/d/1R06CRYVkJ_Fd8k2mXWbsipW3U5XtbOjRBPJAxXV1mYs/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}.\\
-Maths in the Life Sciences Seminar Series. Joint seminar held between the Applied Maths and Biostatistics and Data Science Departments. University of Manchester. 2021 Jul 12. Manchester, England, UK. (Virtual). [\href{https://www.youtube.com/watch?v=ldlqaNMtNYM}{Watch on YouTube}].
+Maths in the Life Sciences Seminar Series. Joint seminar held between the Applied Maths and Biostatistics and Data Science Departments. University of Manchester. 2021 Jul 12. Manchester, England, UK. [\href{https://www.youtube.com/watch?v=ldlqaNMtNYM}{Watch on YouTube}].
 \item 
 {\it \href{https://docs.google.com/presentation/d/162fFeEOn7cjh7j7JIzXhNVrgeYP0zivE6Fdlu5g_yh0/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
-Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. (Virtual). \href{https://stanford.zoom.us/rec/share/s5WC407FBaSupdzQY1BKYQXsjiNyhQ25mAPHP5P7jC1qERyYuJ-VAbqH1bOeHkQ5.ekxvZh3ymtDU-x51}{Watch online}.
+Biostatistics Seminar. Department of Biomedical Data Science. Stanford School of Medicine. 2021 Mar 11. Stanford, CA. USA. \href{https://stanford.zoom.us/rec/share/s5WC407FBaSupdzQY1BKYQXsjiNyhQ25mAPHP5P7jC1qERyYuJ-VAbqH1bOeHkQ5.ekxvZh3ymtDU-x51}{Watch online}.
 \item
 {\it \href{https://docs.google.com/presentation/d/1F8-zp8FEjQ8xWpWulSEYitN9NcjEBXRoDH4X98xvxHY/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\
-Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA. (Virtual).
+Stanford Center for Biomedical Informatics Research. Stanford School of Medicine. 2021 Feb 25. Stanford, CA. USA.
 \item 
 {\it \href{https://docs.google.com/presentation/d/1ueWL8XDlifDTsPlAG8lhPx37zzm1YlGKeaNu6gf8CXk/edit?usp=sharing}{Addressing Open Challenges in Data Science Education}}. \\ 
-Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada. (Virtual).
+Department of Statistics, University of British Columbia. 2021 Feb 9. Vancouver, BC. Canada.
 \item 
 {\it \href{https://docs.google.com/presentation/d/1pwYvydQAfQd8V5p2Hxlc8iyWzJ_lUBpo91eL34KeGO0/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
-National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) \href{https://btep.ccr.cancer.gov/seminar-series/seminar/}{Distinguished Speakers Seminar Series}. 2021 Jan 28. (Virtual).
+National Cancer Institute (NCI) / Center for Cancer Research (CCR) Bioinformatics Training and Education Program (BTEP) \href{https://btep.ccr.cancer.gov/seminar-series/seminar/}{Distinguished Speakers Seminar Series}. 2021 Jan 28.
 \item 
 {\it \href{https://docs.google.com/presentation/d/1gYQobVpbc4idyXzhcxkxoWD3aqR7-Kz5oW3FM69PwFA/edit?usp=sharing}{Scalable statistical methods and software for single-cell data science}}. \\ 
-Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA. (Virtual).
+Department of Bioinformatics and Biostatistics. University of Louisville. 2021 Jan 15. Louisville, KY. USA. 
 \item 
 {\it \href{https://docs.google.com/presentation/d/1DpeB2LgLdzDDobR8_a3QaowRYkW7_OORnhXd-wdYdpg/edit?usp=sharing}{More (single-cell) data, more (statistical) problems}}. \\ 
-Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA. (Virtual).
+Human Medical Genetics and Genomics Program, University of Colorado (Anschutz Medical Campus). 2020 Oct 22. Denver, CO. USA.
 \item 
 {\it \href{https://docs.google.com/presentation/d/1gouLBEOSgtWdnLSjkn1K8H8dWrfJZdwIqXJtAvU1KJg/edit?usp=sharing}{Setting the Stage for Reproducibility in Single-Cell Data Science}}. \\ 
-Rigor and Reproducibilty in Cancer Research. Rogel Cancer Center. University of Michigan. 2020 Sept 24. Ann Arbor, MI. USA. (Virtual). 
+Rigor and Reproducibilty in Cancer Research. Rogel Cancer Center. University of Michigan. 2020 Sept 24. Ann Arbor, MI. USA. 
 \item 
 {\it \href{https://docs.google.com/presentation/d/1ZSkeK_bnYdVbiqN8gt4gouFeXY91DyKSjI922y3GZFY/edit?usp=sharing}{More (single-cell) data, more (statistical) problems}}. \\ 
 Department of Biostatistics, University of North Carolina Gillings School of Public Health. 2020 Feb 13. Chapel Hill, NC. USA. 
@@ -1498,19 +1520,19 @@ Department of Biology, Louisiana State University. 2015 Feb 11. Baton Rouge, LA,
 \myben{0.3em}
 
 
-\item NHGRI-NIEHS Workshop on RNomics. 2022 24-26 May. (Virtual).
-\item DahShu webinar. 2022 Apr 29. (Virtual).
-\item Design principles for data analysis. \href{https://www.meetup.com/rladies-east-lansing/events/284104809}{R-Ladies East Lansing}. 2022 Apr 14. (Virtual).
+\item NHGRI-NIEHS Workshop on RNomics. 2022 24-26 May. 
+\item DahShu webinar. 2022 Apr 29. 
+\item Design principles for data analysis. \href{https://www.meetup.com/rladies-east-lansing/events/284104809}{R-Ladies East Lansing}. 2022 Apr 14. 
 \item 2022 NHGRI Research Training & Career Development Annual Meeting. 2022 Apr 3-6. (Hybrid).
-\item CZI Spatial Summit. 2022 Mar 21. (Virtual).
-\item CZI Single-Cell Biology 2021 Annual Meeting. 2021 Oct 6-8. (Virtual).
-\item CZI Open Problems in Single-Cell Analysis Jamboree. 2021 Mar 29-31. (Virtual).
-\item CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. (Virtual)
-\item CZI Seed Network Annual Meeting. 2020 Nov 17-19. (Virtual)
-\item {\it \href{https://docs.google.com/presentation/d/1odVZuin9u5iLoW5f3lcjet5WknQr0BwjuH8nrKHY7CM/edit?usp=sharing}{Introduction to GenomicRanges and plyranges}}. \href{https://www.meetup.com/rladies-tunis/events/273485109/}{R-Ladies Tunis}. 2020 Oct 6. (Virtual). [\href{https://www.youtube.com/watch?v=TaEsonYBGlE}{Watch on YouTube}].
-\item {\it \href{https://docs.google.com/presentation/d/1Qq52SMfRkP_MsvhxqjvJXa-33LXVSmA5ovmnlsyx1iQ/edit?usp=sharing}{Analyzing Genomics Data in R with Bioconductor}}. \href{https://www.meetup.com/rladies-riverside/}{R-Ladies Riverside}. 2020 Jul 22. (Virtual). 
-\item Academic Data Science Alliance (ADSA) Data Science Education Special Interest Group (SIG). Presented a talk on \href{https://docs.google.com/presentation/d/10lRcBMdZ_lzWWCW46t1rThJ1kVm7Ip0Yx3UIdicUEAg/edit?usp=sharing} {Addressing Real-World Challenges through Data Science Education}. 2020 Jul 2. Virtual. [\href{https://youtu.be/PRSpf1sJsNw}{Watch on YouTube}].
-\item {\it Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types} (\href{http://www.birs.ca/events/2020/5-day-workshops/20w5197}{website}) (attendee and session chair). 2020 Jun 14-19. Banff International Research Station. (Virtual due to COVID-19). 
+\item CZI Spatial Summit. 2022 Mar 21. 
+\item CZI Single-Cell Biology 2021 Annual Meeting. 2021 Oct 6-8. 
+\item CZI Open Problems in Single-Cell Analysis Jamboree. 2021 Mar 29-31.
+\item CZI Essential Open Source Software (EOSS) Annual Meeting. 2020 Dec 8-10. 
+\item CZI Seed Network Annual Meeting. 2020 Nov 17-19. 
+\item {\it \href{https://docs.google.com/presentation/d/1odVZuin9u5iLoW5f3lcjet5WknQr0BwjuH8nrKHY7CM/edit?usp=sharing}{Introduction to GenomicRanges and plyranges}}. \href{https://www.meetup.com/rladies-tunis/events/273485109/}{R-Ladies Tunis}. 2020 Oct 6.  [\href{https://www.youtube.com/watch?v=TaEsonYBGlE}{Watch on YouTube}].
+\item {\it \href{https://docs.google.com/presentation/d/1Qq52SMfRkP_MsvhxqjvJXa-33LXVSmA5ovmnlsyx1iQ/edit?usp=sharing}{Analyzing Genomics Data in R with Bioconductor}}. \href{https://www.meetup.com/rladies-riverside/}{R-Ladies Riverside}. 2020 Jul 22. 
+\item Academic Data Science Alliance (ADSA) Data Science Education Special Interest Group (SIG). Presented a talk on \href{https://docs.google.com/presentation/d/10lRcBMdZ_lzWWCW46t1rThJ1kVm7Ip0Yx3UIdicUEAg/edit?usp=sharing} {Addressing Real-World Challenges through Data Science Education}. 2020 Jul 2. [\href{https://youtu.be/PRSpf1sJsNw}{Watch on YouTube}].
+\item {\it Mathematical Frameworks for Integrative Analysis of Emerging Biological Data Types} (\href{http://www.birs.ca/events/2020/5-day-workshops/20w5197}{website}) (attendee and session chair). 2020 Jun 14-19. Banff International Research Station. 
 \item US Bureau of Labor Statistics. 2020 Mar 2. Washington, DC. USA.
 \item 
 \href{https://normjam.github.io}{NormJam}: A normalization workshop and jamboree for scRNA-seq data. 2019 Nov 19-20. New York City, NY. USA.
