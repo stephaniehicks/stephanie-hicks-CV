@@ -399,7 +399,7 @@ Weber LM$^{*\dagger}$, Divecha HR$^{\dagger}$, Tran MN, Kwon SH, Spangler A, Mon
 \mine
 Dyjack N$^{*}$, Baker DN, Braverman V, Langmead B, {\bf Hicks SC}. (2022). A scalable and unbiased discordance metric with $H_{+}$. \dg{{\it Biostatistics}}. PMID: 36063544. PMCID: TBA. \gs{$\Sexpr{pubs[pubs[,8] == "PELIpwtuRlgC",5]}$}.
 \mine 
-Nelson ED$^{*}$, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, {\bf Hicks SC}$\ddagger$, Martinowich K$\ddagger$. (2023). Activity-regulated gene expression across cell types of the mouse hippocampus. \dg{{\it Hippocampus}. 1– 19. PMID: TBA. PMCID: TBA}.
+Nelson ED$^{*}$, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, {\bf Hicks SC}$\ddagger$, Martinowich K$\ddagger$. (2023). Activity-regulated gene expression across cell types of the mouse hippocampus. \dg{{\it Hippocampus}. 1– 19. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "tKAzc9rXhukC",5]}$}.
 \mine
 D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2022). Design Principles for Data Analysis. \dg{{\it Journal of Computational and Graphical Statistics}. {\bf 32}(2):754-761}. \gs{$\Sexpr{pubs[pubs[,8] == "sSrBHYA8nusC",5]}$}.
 \mine 
@@ -511,13 +511,16 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 \mine % May 11 
 Maden SK$^{*}$, Kwon SH, Huuki-Myers LA, Collado-Torres L, \textbf{Hicks SC}$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2023). Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets. 
 \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2305.06501}}.
-
+\gs{$\Sexpr{pubs[pubs[,8] == "t7zJ5fGR-2UC",5]}$}.
 \item % Apr 21
 Kwon SH, Parthiban S$^{*}$, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, \textbf{Hicks SC}, Martinowich K, Maynard KR, Collado-Torres L. (2023). Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2023.04.20.537710}}.
+\gs{$\Sexpr{pubs[pubs[,8] == "z_wVstp3MssC",5]}$}.
 \mine % Mar 23 
 Guo B$^{*}$, \textbf{Hicks SC}. (2023). escheR: Unified multi-dimensional visualizations with Gestalt principles. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.03.18.533302}}.
+\gs{$\Sexpr{pubs[pubs[,8] == "VLnqNzywnoUC",5]}$}.
 \item % Feb 15
 Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, Guo B$^{*}$, Grant-Peters M, Divecha HR, Tippani M, Sriworarat C$^{*}$, Nguyen AB, Ravichandran P$^{*}$, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, \textbf{Hicks SC}, Martinowich K, Collado-Torres L$\ddagger$, Maynard KR$\ddagger$. (2023). Integrated single cell and unsupervised spatial transcriptomic analysis defines molecular anatomy of the human dorsolateral prefrontal cortex. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.02.15.528722}}.
+\gs{$\Sexpr{pubs[pubs[,8] == "j8SEvjWlNXcC",5]}$}.
 \mine % Jan 30
 Sriworarat C$^{*}$, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, {\bf Hicks SC}. (2023). Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.01.28.525943}}.
 \gs{$\Sexpr{pubs[pubs[,8] == "fEOibwPWpKIC",5]}$}.
@@ -530,7 +533,7 @@ Hippen AA, Omran DK, Weber LM$^{*}$, Jung E, Drapkin R, Doherty JA, {\bf Hicks S
 \item % Apr 29
 Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC},  Maynard KR, Collado-Torres L. (2022). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.04.28.489923}}. \gs{$\Sexpr{pubs[pubs[,8] == "LjlpjdlvIbIC",5]}$}.
 \item % Aug 
-Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: a MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.08.04.452489}}. \gs{$\Sexpr{pubs[pubs[,8] == "J-pR_7NvFogC",5]}$}.
+Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.08.04.452489}}. \gs{$\Sexpr{pubs[pubs[,8] == "35r97b3x0nAC",5]}$}.
 \mine % Jul 12 
 Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2021). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.07.10.451910}}. \gs{$\Sexpr{pubs[pubs[,8] == "q3oQSFYPqjQC",5]}$}.
 \mine % Jul 25 2019
