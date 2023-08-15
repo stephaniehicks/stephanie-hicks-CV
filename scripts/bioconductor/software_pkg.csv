@@ -1,4 +1,7 @@
 Package,total
+SpatialExperiment,12388
+TREG,296
+TreeSummarizedExperiment,12118
 bluster,75575
 mbkmeans,12294
 methylCC,1906
@@ -7,7 +10,4 @@ nnSVG,449
 qsmooth,2394
 quantro,12687
 scry,2618
-SpatialExperiment,12388
 spqn,1369
-TreeSummarizedExperiment,12118
-TREG,296
