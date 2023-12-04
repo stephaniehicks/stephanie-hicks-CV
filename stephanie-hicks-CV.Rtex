@@ -70,11 +70,18 @@ Part I
 
 %
 \begin{tabular}[t]{L{12.5cm}R{5cm}}
-\href{https://www.jhsph.edu/departments/biostatistics/}{Department of Biostatistics} & email: \href{mailto:shicks19@jhu.edu}{shicks19@jhu.edu} \\
-\href{https://www.jhsph.edu}{Johns Hopkins Bloomberg School of Public Health} (BSPH) & twitter: \href{https://twitter.com/stephaniehicks}{@stephaniehicks} \\
-615 North Wolfe Street  &  github: stephaniehicks \\
-Baltimore, MD 21205-2179 USA & website: \href{http://www.stephaniehicks.com}{stephaniehicks.com} \\ 
-Pronouns: she/her  & phone: (410) 955-3067 
+\href{https://publichealth.jhu.edu/departments/biostatistics}{Department of Biostatistics} & email: \href{mailto:shicks19@jhu.edu}{shicks19@jhu.edu} \\
+\href{https://publichealth.jhu.edu}{Johns Hopkins Bloomberg School of Public Health} (BSPH) & pronouns: she/her \\
+615 North Wolfe Street  &  \\
+Baltimore, MD 21205 USA & 
+\end{tabular}
+
+\begin{tabular}[t]{L{12.5cm}R{5cm}}
+\href{https://www.bme.jhu.edu}{Department of Biomedical Engineering} &  website: \href{http://www.stephaniehicks.com}{stephaniehicks.com} \\
+\href{https://engineering.jhu.edu/}{Johns Hopkins Whiting School of Engineering} (WSE)  & twitter: \href{https://twitter.com/stephaniehicks}{@stephaniehicks}  \\
+3400 N. Charles Street & github: stephaniehicks  \\ 
+Baltimore, MD 21218 USA & \\ 
+    
 \end{tabular}
 
 
@@ -115,9 +122,9 @@ B.S. / 2007 & Mathematics, Louisiana State University, Baton Rouge, LA, USA \\
 
 \mydot{-0.1em}
 
+\item Associate Professor, Department of Biomedical Engineering, Whiting School of Engineering (2023 -- present).  
 \item Member, \href{https://epigenome.jhu.edu/team/}{JHU BDP Epigenome Sciences Cluster} (2023 -- present).
-\item Associate Professor, Department of Biostatistics, Johns Hopkins BSPH
-(2022 -- present).  
+\item Associate Professor, Department of Biostatistics, Bloomberg School of Public Health (2022 -- present).  
 \item Faculty Member, \href{https://malonecenter.jhu.edu}{Malone Center for Engineering in Healthcare}, Johns Hopkins University (2022 -- present).
 \item Preceptor, \href{https://www.hopkinsmedicine.org/institute-genetic-medicine/education-training/predoctoral-human-genetics}{Predoctoral Training Program in Human Genetics and Genomics}, Department of Genetic Medicine, Johns Hopkins University School of Medicine (2022 -- present).
 \item Faculty Member, \href{https://ccb.jhu.edu/people.php}{Center for Computational Biology}, Johns Hopkins University (2021 -- present).
@@ -127,8 +134,7 @@ Affiliated faculty, \href{https://americanhealth.jhu.edu}{Bloomberg American Hea
 Preceptor, \href{http://www.jhu-bmb-phd.org/faculty/stephanie-hicks}{Department of Biochemistry and Molecular Biology}, Johns Hopkins BSPH (2020 -- present).
 \item 
 Faculty Member, \href{http://jhudatascience.org}{Johns Hopkins Data Science Lab} (2018 -- present).
-\item Assistant Professor, Department of Biostatistics, Johns Hopkins BSPH
-(2018 -- 2022).  
+\item Assistant Professor, Department of Biostatistics, Bloomberg School of Public Health (2018 -- 2022).  
 \ee
 
 
@@ -190,6 +196,7 @@ Teaching Assistant, Department of Statistics, Rice University
 
 \mydot{-0.1em}
 
+\item Program Committee Member, \href{https://recomb.org/recomb2024/}{RECOMB 2024} (2023-2024).
 \item Program Committee Member, \href{https://academicdatascience.org/adsa-meetings/annual-meeting}{2020 Academic Data Science Alliance (ADSA) Annual Meeting} (2019-2020).
 \item Program Committee Member, \href{https://datascience.columbia.edu/files/seasdepts/idse/pdf-files/FODS2020-CFP.pdf}{Association for Computing Machinery (ACM) and the Institute of Mathematical Statistics (IMS) 2020 Foundations of Data Science Conference} (2019-2020). 
 \item Program Committee Member, \href{http://ww2.amstat.org/meetings/sdss/2020/}{2020 Symposium in Data Science and Statistics} (2019 -- 2020).
@@ -203,6 +210,7 @@ Teaching Assistant, Department of Statistics, Rice University
 
 \mydot{-0.1em}
 
+\item Session Organizer, Eastern North Atlantic Region Meeting (2024). Topic: \textit{Recent advances in statistical methods for integrative analysis of multi-sample multi-modal spatially-resolved transcriptomics data}. 
 \item Meeting Co-Organizer, {\it Statistical Aspects of Trustworthy Machine Learning} (\href{https://www.birs.ca/events/2024/5-day-workshops/24w5284}{website}) (2024). Banff International Research Station. Banff, Alberta. CA.
 \item Session Organizer, Eastern North American Region Meeting (2022). Topic: \textit{Recent advances in statistical methods for spatially-resolved transcriptomics data analysis}.
 \item Session Organizer, Joint Statistical Meetings (2020). Topic: \textit{Show Me the Data: Making Statistics and Data Science More Diverse and Inclusive in 2020}. 
@@ -216,6 +224,7 @@ Teaching Assistant, Department of Statistics, Rice University
 \subsubsection*{Chair}
 
 \mydot{-0.1em}
+\item Session Chair, Eastern North Atlantic Region Meeting (2024). Topic: \textit{Recent advances in statistical methods for integrative analysis of multi-sample multi-modal spatially-resolved transcriptomics data}. 
 \item Session Chair, Joint Statistical Meetings (2023). Topic: \textit{Advanced Statistical Methods in Spatial biology}. 
 \item Moderator, American Association for the Advancement of Science (AAAS) Annual Meeting (2023). Washington D.C. USA. Topic: \textit{Single Cells, Single Cells, Single All the Way}.
 \item Discussion Lead, \href{https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=22}{Biological Data Science}, Cold Spring Harbor Laboratories (2022). Topic: \textit{Single-cell Data Analysis}. 
@@ -275,7 +284,10 @@ Ad hoc member, Site visit to review the Eunice Kennedy Shriver National Institut
 
 \mydot{-0.1em}
 
+\item Ad hoc reviewer, NSF Reviewer (2024).
+\item Ad hoc member, NIMH (U24) Special Emphasized Panel (SEP) (Nov 2023).
 \item Ad hoc member, NCI Informatics Technologies for Cancer Research (R21, U01, U24) Special Emphasized Panel (SEP) (Sept 2023).
+\item Ad hoc reviewer, Swiss National Science Foundation (Sept 2023). 
 \item Ad hoc member, Molecular Genetics and Genomics (MGG) Special Emphasis Panel (SEP) (Mar 2023). 
 \item 
 Ad hoc member, NIH review of Molecular Phenotypes of Null Alleles in Cells (MorPhiC) Phase I: Data Analysis and Validation Centers (Mar 2023).
@@ -306,6 +318,8 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 
 \mydot{-0.1em}
 
+\item University of British Columbia (Canada)
+\item University of Edinburgh (Scotland)
 \item Van Andel Institute (USA)
 \item Macalester College (USA)
 
@@ -356,11 +370,11 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 \mydot{-0.1em}
 \item BSPH Excellence in Teaching award.
 
-$\blacktriangleright$ 140.776 Statistical Computing (\href{https://www.stephaniehicks.com/jhustatcomputing2022}{2022}). \\
-$\blacktriangleright$ 140.712 Advanced Data Science II (\href{https://www.stephaniehicks.com/jhuads2021}{2021}). \\
-$\blacktriangleright$ 140.776 Statistical Computing (\href{https://www.stephaniehicks.com/jhustatcomputing2021}{2021}). \\
-$\blacktriangleright$  140.711 Advanced Data Science I (\href{https://jhu-advdatasci.github.io/2018/}{2018}). \\
-$\blacktriangleright$  140.712 Advanced Data Science II (\href{https://jhu-advdatasci.github.io/2018/}{2018}). 
+$\blacktriangleright$ 140.776 Statistical Computing (\href{https://www.stephaniehicks.com/jhustatcomputing2022}{2022-2023}). \\
+$\blacktriangleright$ 140.712 Advanced Data Science II (\href{https://www.stephaniehicks.com/jhuads2021}{2021-2022}). \\
+$\blacktriangleright$ 140.776 Statistical Computing (\href{https://www.stephaniehicks.com/jhustatcomputing2021}{2021-2022}). \\
+$\blacktriangleright$  140.711 Advanced Data Science I (\href{https://jhu-advdatasci.github.io/2018/}{2018-2019}). \\
+$\blacktriangleright$  140.712 Advanced Data Science II (\href{https://jhu-advdatasci.github.io/2018/}{2018-2019}). 
 
 \ee
 
@@ -392,9 +406,24 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 @
 
 \myben{0.4em}
-
+\mine
+Maden SK$^{*}$, Kwon SH, Huuki-Myers LA, Collado-Torres L, \textbf{Hicks SC}$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2023). Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets. 
+\dg{Accepted in {\it Genome Biology}. doi: \url{https://arxiv.org/abs/2305.06501}. PMID: 37214135. PMCID: PMC10197733}.
+\gs{$\Sexpr{pubs[pubs[,8] == "t7zJ5fGR-2UC",5]}$}.
+\mine 
+Guo B$^{*}$, Huuki-Myers LA, Grant-Peters M, Collado-Torres L, \textbf{Hicks SC}. (2023). escheR: Unified multi-dimensional visualizations with Gestalt principles. \dg{Accepted in {\it Bioinformatics Advances}. doi: \url{https://doi.org/10.1101/2023.03.18.533302}. PMID: 36993732. PMCID: PMC10055209}.
+\gs{$\Sexpr{pubs[pubs[,8] == "VLnqNzywnoUC",5]}$}.
+\item
+Hippen AA, Omran DK, Weber LM$^{*}$, Jung E, Drapkin R, Doherty JA, {\bf Hicks SC}, Greene CS. (2023). Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors. \dg{Accepted in {\it Genome Biology}. {\bf 24}:239. PMID: 37864274. PMCID: PMC10588129}.
+\gs{$\Sexpr{pubs[pubs[,8] == "ZfRJV9d4-WMC",5]}$}.
+\item 
+Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data. \dg{{\it Biological Imaging}. {\bf TBA}:1-21. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "35r97b3x0nAC",5]}$}.
 \mine % Jul 12 
-Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2023). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{Accepted in {\it Nature Communications}. doi: \url{https://doi.org/10.1101/2021.07.10.451910}}. \gs{$\Sexpr{pubs[pubs[,8] == "q3oQSFYPqjQC",5]}$}.
+Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2023). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it Nature Communications}. {\bf 14}:7286. PMID: 34282418. PMCID: PMC8288148}. \gs{$\Sexpr{pubs[pubs[,8] == "q3oQSFYPqjQC",5]}$}.
+\item 
+Kwon SH, Parthiban S$^{*}$, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, \textbf{Hicks SC}, Martinowich K, Maynard KR, Collado-Torres L. (2023). Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex. \dg{{\it GEN Biotechnology} {\bf 2}(5):399-417. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "z_wVstp3MssC",5]}$}.
+\item 
+Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC},  Maynard KR, Collado-Torres L. (2023). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it Genome Biology}. {\bf 24}:233. PMID: 37845779. PMCID: PMC10578035}. \gs{$\Sexpr{pubs[pubs[,8] == "LjlpjdlvIbIC",5]}$}.
 \mine
 Sriworarat C$^{*}$, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, {\bf Hicks SC}. (2023). Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments. \dg{{\it Biological Imaging}.  1-10. PMID: 36747726 PMCID: PMC9900917}.
 \gs{$\Sexpr{pubs[pubs[,8] == "fEOibwPWpKIC",5]}$}.
@@ -407,7 +436,7 @@ Kuo A$^{*}$, Hansen KD, {\bf Hicks SC}. (2023). Quantification and statistical m
 \mine
 Weber LM$^{*\dagger}$, Divecha HR$^{\dagger}$, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K$\ddagger$, {\bf Hicks SC}$\ddagger$. (2023). The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics. \dg{{\it eLife}. {\bf 12}:RP84628. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "kzcrU_BdoSEC",5]}$}.
 \mine 
-Nelson ED$^{*}$, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, {\bf Hicks SC}$\ddagger$, Martinowich K$\ddagger$. (2023). Activity-regulated gene expression across cell types of the mouse hippocampus. \dg{{\it Hippocampus}. 1– 19. PMID: 37226416. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "tKAzc9rXhukC",5]}$}.
+Nelson ED$^{*}$, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, {\bf Hicks SC}$\ddagger$, Martinowich K$\ddagger$. (2023). Activity-regulated gene expression across cell types of the mouse hippocampus. \dg{{\it Hippocampus}. {\bf 33}(9):1009-1027. PMID: 37226416. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "tKAzc9rXhukC",5]}$}.
 \mine
 Dyjack N$^{*}$, Baker DN, Braverman V, Langmead B, {\bf Hicks SC}. (2022). A scalable and unbiased discordance metric with $H_{+}$. \dg{{\it Biostatistics}}. PMID: 36063544. PMCID: TBA. \gs{$\Sexpr{pubs[pubs[,8] == "PELIpwtuRlgC",5]}$}.
 \mine
@@ -518,33 +547,24 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 
 \mycon{0.4em}
 
+\item % Nov 29 
+Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, {\bf Hicks SC}, Risso D, Peixoto L. (2023). A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2023.11.28.569011}}.
+\mine % Nov 23
+Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$, Page SC$^{\ddagger}$. (2023). Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation. \dg{{\it bioRxiv}. doi: \url{ https://doi.org/10.1101/2023.11.20.567883}}.
+\mine % Sept 17
+Peng RD, {\bf Hicks SC}. (2023). Modeling Data Analytic Iteration With Probabilistic Outcome Sets. \dg{{\it arXiv}. doi: \url{ https://arxiv.org/abs/2309.08494}}.
+\item % Sept 13
+Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, {\bf Hicks SC}, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2023). The tidyomics ecosystem: Enhancing omic data analyses.  \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.09.10.557072}}.
 \item % July 10
 Erdogdu B, Varabyou A, {\bf Hicks SC}, Salzberg SL, Pertea M. (2023). Detecting differential transcript usage in complex diseases with SPIT. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.07.10.548289}}.
 \item % June 15
 Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, {\bf Hicks SC}, Greene CS. (2023). Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.06.14.544991}}.
-\mine % May 11 
-Maden SK$^{*}$, Kwon SH, Huuki-Myers LA, Collado-Torres L, \textbf{Hicks SC}$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2023). Challenges and opportunities to computationally deconvolve heterogeneous tissue with varying cell sizes using single cell RNA-sequencing datasets. 
-\dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2305.06501}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "t7zJ5fGR-2UC",5]}$}.
-\item % Apr 21
-Kwon SH, Parthiban S$^{*}$, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, \textbf{Hicks SC}, Martinowich K, Maynard KR, Collado-Torres L. (2023). Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2023.04.20.537710}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "z_wVstp3MssC",5]}$}.
-\mine % Mar 23 
-Guo B$^{*}$, Huuki-Myers LA, Grant-Peters M, Collado-Torres L, \textbf{Hicks SC}. (2023). escheR: Unified multi-dimensional visualizations with Gestalt principles. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.03.18.533302}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "VLnqNzywnoUC",5]}$}.
 \item % Feb 15
 Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, Guo B$^{*}$, Grant-Peters M, Divecha HR, Tippani M, Sriworarat C$^{*}$, Nguyen AB, Ravichandran P$^{*}$, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, \textbf{Hicks SC}, Martinowich K, Collado-Torres L$\ddagger$, Maynard KR$\ddagger$. (2023). Integrated single cell and unsupervised spatial transcriptomic analysis defines molecular anatomy of the human dorsolateral prefrontal cortex. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.02.15.528722}}.
 \gs{$\Sexpr{pubs[pubs[,8] == "j8SEvjWlNXcC",5]}$}.
 \mine % Jan 15
 Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, {\bf Hicks SC}. (2023). Open Case Studies: Statistics and Data Science Education through Real-World Applications. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/2301.05298}}.
 \gs{$\Sexpr{pubs[pubs[,8] == "2KloaMYe4IUC",5]}$}.
-\item % Dec 5
-Hippen AA, Omran DK, Weber LM$^{*}$, Jung E, Drapkin R, Doherty JA, {\bf Hicks SC}, Greene CS. (2022). Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.12.04.519045}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "ZfRJV9d4-WMC",5]}$}.
-\item % Apr 29
-Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC},  Maynard KR, Collado-Torres L. (2022). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2022.04.28.489923}}. \gs{$\Sexpr{pubs[pubs[,8] == "LjlpjdlvIbIC",5]}$}.
-\item % Aug 
-Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2021.08.04.452489}}. \gs{$\Sexpr{pubs[pubs[,8] == "35r97b3x0nAC",5]}$}.
 \mine % Jul 25 2019
 {\bf Hicks SC}, Peng RD. (2019). Elements and Principles for Characterizing Variation between Data Analyses. \dg{{\it arXiv}. doi: \url{https://arxiv.org/abs/1903.07639}}. \gs{$\Sexpr{pubs[pubs[,8] == "1sJd4Hv_s6UC",5]}$}.
 \mine % Apr 29 2019
@@ -637,7 +657,9 @@ Presentation about the Open Case Studies project at the \href{https://americanhe
 
 \myben{0.4em}
 
-\item ''37 early-career faculty members earn Johns Hopkins Catalyst Awards''. 2023 May 08. [\href{https://hub.jhu.edu/2023/05/08/37-win-catalyst-awards}{link}].
+\item ''5 Things You Need to Know About AI''. 2023 Nov 08. [\href{https://magazine.jhsph.edu/2023/5-things-you-need-know-about-ai}{link}].
+
+\item ''A Deep Dive into AI''. 2023 Oct 04. [\href{https://hub.jhu.edu/2023/10/04/ai-x-foundry-fall-2023-symposium}{link}].
 
 \item ``Women of Influence''. 2019 Apr 15. Johns Hopkins Bloomberg School of Public Health. [\href{https://www.jhsph.edu/news/stories/2019/celebrating-women-in-statistics-and-data-science.html}{link}].
 \item Featured as Outstanding New PI. 2019 Apr 13. New PI Slack Community.  [\href{https://newpislack.wordpress.com/2019/04/13/stephanie-c-hicks-ph-d/}{link}].
@@ -660,6 +682,8 @@ Presentation about the Open Case Studies project at the \href{https://americanhe
 \subsubsection*{Media Coverage}
 
 \myben{0.4em}
+
+\item ''37 early-career faculty members earn Johns Hopkins Catalyst Awards''. 2023 May 08. [\href{https://hub.jhu.edu/2023/05/08/37-win-catalyst-awards}{link}].
 
 \item ``Statistics alumna Hicks receives Young Investigator Award''. 2020 Jul 23. Rice University. [\href{https://statistics.rice.edu/news/statistics-alumna-hicks-receives-young-investigator-award}{link}]
 \item ``Five Women Making Childhood Cancer History''. 2020 Apr 1. The Childhood Cancer Blog. Alex's Lemonade Stand Foundation. [\href{https://www.alexslemonade.org/blog/2020/04/five-women-making-childhood-cancer-history}{link}].
@@ -704,7 +728,7 @@ Published in \href{https://doi.org/10.1038/s41467-023-39748-z}{Weber et al. (202
 [\href{http://bioconductor.org/packages/nnSVG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "nnSVG",2]}$}.
 \item 
 {\bf TREG} $\blacktriangleright$
-Methodology and R/Bioconductor software package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data. Published in \href{https://doi.org/10.1101/2022.04.28.489923}{Huuki-Myers et al. (2022)}. [\href{http://bioconductor.org/packages/TREG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "TREG",2]}$}.
+Methodology and R/Bioconductor software package to find Total RNA Expression Genes (TREGs) in single nucleus RNA-seq data. Published in \href{https://doi.org/10.1186/s13059-023-03066-w}{Huuki-Myers et al. (2023}. [\href{http://bioconductor.org/packages/TREG}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "TREG",2]}$}.
 \item 
 {\bf miQC} $\blacktriangleright$
 Methodology and R/Bioconductor software package that provides a data-driven and probabilistic quality control metric to predict the low-quality cells in a given scRNA-seq dataset. Published in \href{https://doi.org/10.1371/journal.pcbi.1009290}{Hippen et al. (2021)}. [\href{http://bioconductor.org/packages/miQC}{Available on Bioconductor}].  \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "miQC",2]}$}.
@@ -849,15 +873,14 @@ Part II
 
 \myben{-0.1em}
 
-% \item Guo, Boyi (Aug 2022 -- Present).
-
+\item Totty, Michael (2023 -- Present).
 \item Guo, Boyi (2022 -- Present).
 \item Maden, Sean (2022 -- Present).
 
-\item Weber, Lukas (2019 -- Present). Awarded a NIH/NHGRI \href{https://reporter.nih.gov/search/gbgEFRLcQUSL6wTKrGQbVw/project-details/10350850}{K99/R00 Pathway to Independence Award} (2022).
+\item Weber, Lukas (2019 -- 2023). Awarded a NIH/NHGRI \href{https://reporter.nih.gov/search/gbgEFRLcQUSL6wTKrGQbVw/project-details/10350850}{K99/R00 Pathway to Independence Award} (2022).
 % \item Selected to give an invited talk at ENAR (2022).
 % \item Selected to give a talk at Bioconductor (2021 and 2022).
-Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont Award} (2021). In October 2023, starting as an Assistant Professor in the Department of Biostatistics at Boston University.
+Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont Award} (2021). Currently, an Assistant Professor in the Department of Biostatistics at Boston University.
 % \item Selected to give a poster presentation at CSHL Genome Informatics (2020).
 % \item Selected to give a talk at Bioconductor (2020).
 % \item Selected to give a talk at the JHU Genomics Symposium (2019).
@@ -877,11 +900,11 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 \subsection*{PhD Advisees\ \tiny * co-mentoring}
 
 \myben{-0.1em}
-\item Yao, Jianing. Doctor of Philosphy, Biostatistics (2023 -- Present).
-\item Columbus, Alyssa. Doctor of Philosphy, Biostatistics (2023 -- Present).
-\item Fang, Xin Zhi (Cindy). Doctor of Philosphy, Biostatistics (2022 -- Present). 
-\item Parthiban, Sowmya. Doctor of Philosphy, Biostatistics (2022 -- Present). 
-\item Shah, Kinnary. Doctor of Philosphy, Biostatistics (2021 -- Present). 
+\item Yao, Jianing. Doctor of Philosophy, Biostatistics (2023 -- Present).
+\item Columbus, Alyssa. Doctor of Philosophy, Biostatistics (2023 -- Present).
+\item Fang, Xin Zhi (Cindy). Doctor of Philosophy, Biostatistics (2022 -- Present). 
+\item Parthiban, Sowmya. Doctor of Philosophy, Biostatistics (2022 -- Present). 
+\item Shah, Kinnary. Doctor of Philosophy, Biostatistics (2021 -- Present). 
 \item Nelson, Erik*. Doctor of Philosophy, Cellular and Molecular Medicine (2020 -- Present).
 % \begin{enumerate}[(a)] 
 % \item Submitted a NIH/NIDA \href{https://researchtraining.nih.gov/programs/fellowships/F31}{F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award} (2021).
@@ -922,6 +945,14 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \ee
 
+
+\subsection*{MS Advisees}
+
+\myben{-0.1em}
+
+\item Zhou, Haowen. Masters (MS), Bioinformatics (2023 -- Present).
+
+\ee
 
 \subsection*{Undergraduate}
 
@@ -1008,14 +1039,16 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
-\item \dn{Duque}, Carolina. MD/PhD Candidate,  Johns Hopkins University SOM. (2023 -- Present).
-\item \dn{Jangi}, Radhika. Cell, Molecular, Developmental Biology, and Biophysics program (CMDB),  Johns Hopkins University SOM. (2022 -- Present).
+\item Salisbury, Aaron. Doctor of Philosophy, Neuroscience (2023 -- Present). 
+\item \dn{Giles}, Hunter. Doctor of Philosophy, Human Genetics (2023 -- Present). 
+\item \dn{Duque}, Carolina. MD/PhD Candidate,  Johns Hopkins University SOM (2023 -- Present).
+\item \dn{Jangi}, Radhika. Doctor of Philosophy, CMDB (2022 -- Present).
 \item \dn{Fang}, Weixiang. Doctor of Philosophy, Biostatistics (2021 -- Present). Alternate member.
 \item \dn{Popp}, Joshua. Doctor of Philosophy, Biomedical Engineering (2022 -- Present).
-\item \dn{Chen}, Alice. BCMB in the Neuroscience department, Johns Hopkins University SOM. (2022). 
-\item \dn{Kwon}, Sang Ho (Sangho). BCMB in the Neuroscience department, Johns Hopkins University SOM. (2021 -- Present). 
+\item \dn{Chen}, Alice. Doctor of Philosophy, BCMB in Neuroscience (2022). 
+\item \dn{Kwon}, Sang Ho (Sangho). Doctor of Philosophy, BCMB in Neuroscience (2021 -- Present). 
 \item \dn{Chen}, Athena. Doctor of Philosophy, Biostatistics (2021 -- 2022). Alternate member.
-\item \dn{Barry}, Brianna. BCMB in the Neuroscience department, Johns Hopkins University SOM. (2020). 
+\item \dn{Barry}, Brianna. Doctor of Philosophy, BCMB in Neuroscience (2020). 
 \item \dn{Kuo}, Albert. Doctor of Philosophy, Biostatistics (2019 -- 2022).
 \item \dn{Tran}, Matt. Doctor of Philosophy, Human Genetics (2019 -- 2022).
 \item \dn{Fang}, Weixiang. Doctor of Philosophy, Biostatistics (2019 -- Present).
@@ -1050,6 +1083,8 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
+\item {Zhang}, Shuming. Doctor of Philosophy, Biomedical Engineering (2023). Alternate member.
+\item \dn{Fang}, Zhenghan. Doctor of Philosophy, Biomedical Engineering (2023). Alternate member.
 \item \dn{Yu}, Frank Haoning. Doctor of Philosophy, Biomedical Engineering (2023). 
 \item \dn{Bonnie}, Jessica. Doctor of Philosophy, Computer Science (2023).
 \item \dn{Clifton}, Kalen. Doctor of Philosophy, Biomedical Engineering (2023).
@@ -1095,15 +1130,15 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \mydot{-0.1em}
 
-\item 140.777 \href{https://www.stephaniehicks.com/jhustatprogramming2023}{Statistical Programming Paradigms and Workflows (2023)}, Instructor.
-\item 140.840 \href{https://www.stephaniehicks.com/jhustatprogramming2022}{Statistical Programming Paradigms and Workflows (2022)}, Instructor.
-\item 140.776 \href{https://www.stephaniehicks.com/jhustatcomputing2022}{Statistical Computing (2022)}, Instructor.
-\item 140.712 \href{https://www.stephaniehicks.com/jhuads2021}{Advanced Data Science II (2021)}, Co-Instructor.
-\item 140.776 \href{https://www.stephaniehicks.com/jhustatcomputing2021}{Statistical Computing (2021)}, Instructor.
-\item 140.712 \href{https://jhu-advdatasci.github.io/2019/}{Advanced Data Science II (2019)}, Co-Instructor.
-\item 140.711 \href{https://jhu-advdatasci.github.io/2019/}{Advanced Data Science I (2019)}, Co-Instructor.
-\item 140.712 \href{https://jhu-advdatasci.github.io/2018/}{Advanced Data Science II (2018)}, Co-Instructor.
-\item 140.711 \href{https://jhu-advdatasci.github.io/2018/}{Advanced Data Science I (2018)}, Co-Instructor.
+\item 140.777 \href{https://www.stephaniehicks.com/jhustatprogramming2023}{Statistical Programming Paradigms and Workflows (2023-2024)}, Instructor.
+\item 140.840 \href{https://www.stephaniehicks.com/jhustatprogramming2022}{Statistical Programming Paradigms and Workflows (2022-2023)}, Instructor.
+\item 140.776 \href{https://www.stephaniehicks.com/jhustatcomputing2022}{Statistical Computing (2022-2023)}, Instructor.
+\item 140.712 \href{https://www.stephaniehicks.com/jhuads2021}{Advanced Data Science II (2021-2022)}, Co-Instructor.
+\item 140.776 \href{https://www.stephaniehicks.com/jhustatcomputing2021}{Statistical Computing (2021-2022)}, Instructor.
+\item 140.712 \href{https://jhu-advdatasci.github.io/2019/}{Advanced Data Science II (2019-2020)}, Co-Instructor.
+\item 140.711 \href{https://jhu-advdatasci.github.io/2019/}{Advanced Data Science I (2019-2020)}, Co-Instructor.
+\item 140.712 \href{https://jhu-advdatasci.github.io/2018/}{Advanced Data Science II (2018-2019)}, Co-Instructor.
+\item 140.711 \href{https://jhu-advdatasci.github.io/2018/}{Advanced Data Science I (2018-2019)}, Co-Instructor.
 
 \ee
 
@@ -1158,14 +1193,11 @@ $\blacktriangleright$ \url{https://www.edx.org/course/harvardx/harvardx-ph525x-d
 \mydot{-0.1em}
 
 
-\item Computational Genomics Course (2023), Co-Instructor. 2023 Nov 29-Dec 6. 
-\item Computational Genomics Course (2022), Co-Instructor. 2022 Nov 30-Dec 12. 
-\item Statistical Methods for Genome Scale Data (2022), Co-Instructor. 2022 Jul 5-7. [\href{https://www.stephaniehicks.com/cshlgsd2022}{Course material}]. \\ 
-$\blacktriangleright$ \url{https://meetings.cshl.edu/courses.aspx?course=c-data&year=22}.
-\item Single Cell Analysis (2022), Guest Lecturer. 2022 Jul 5-7. \\ 
-$\blacktriangleright$ \url{https://meetings.cshl.edu/courses.aspx?course=C-SINGLE&year=22}.
-\item Statistical Methods for Functional Genomics (2015), Teaching Fellow/Assistant. \\ 
-$\blacktriangleright$ \url{http://meetings.cshl.edu/courses.aspx?course=c-data&year=15}.
+\item Computational Genomics Course (2023), Co-Instructor. 2023 Nov 29-Dec 6. [\href{https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=23}{Course}] [\href{https://www.stephaniehicks.com/cshlcg2023}{Course material}]. 
+\item Computational Genomics Course (2022), Co-Instructor. 2022 Nov 30-Dec 12. [\href{https://meetings.cshl.edu/courses.aspx?course=c-ecg&year=22}{Course}] [\href{https://www.stephaniehicks.com/cshlcg2022}{Course material}]. 
+\item Statistical Methods for Genome Scale Data (2022), Co-Instructor. 2022 Jul 5-7. [\href{https://meetings.cshl.edu/courses.aspx?course=c-data&year=22}{Course}] [\href{https://www.stephaniehicks.com/cshlgsd2022}{Course material}]. 
+\item Single Cell Analysis (2022), Guest Lecturer. 2022 Jul 5-7. [\href{https://meetings.cshl.edu/courses.aspx?course=C-SINGLE&year=22}{Course}].
+\item Statistical Methods for Functional Genomics (2015), Teaching Fellow/Assistant. [\href{http://meetings.cshl.edu/courses.aspx?course=c-data&year=15}{Course}].
 
 \ee
 
@@ -1343,6 +1375,7 @@ $\blacktriangleright$
 
 \mydot{-0.1em}
 
+\item Member, Biostatistics PhD admissions committee (2023--2024).
 \item Member, Biostatistics PhD admissions committee (2022--2023).
 \item Member, Faculty search committee (2021--2022).
 \item Member, Biostatistics PhD admissions committee (2021--2022).
@@ -1372,6 +1405,20 @@ $\blacktriangleright$
 \ee
 
 
+\ee
+
+\subsection*{Whiting School of Engineering}
+
+\mydot{-0.1em}
+
+\item Member, Diversity and Equity Committee, Data Science and AI Institute (2023--Present).
+\item Member, Director Search Committee, Data Science and AI Institute  (2023--2024).
+
+\ee
+
+
+
+
 \subsection*{Johns Hopkins University}
 \mydot{-0.1em}
 
@@ -1388,6 +1435,10 @@ $\blacktriangleright$
 \myben{0.3em}
 
 \item \textbf{Keynote presentation} at the Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology at Congressi Stefano Franscini at Monte Verità. 2024 Sept 8-13. Ascona, Switzerland.
+\item Invited session on "Building Better Data Analyses: Theory, Methods, and Lessons Learned". Joint Statistical Meetings. 2024 Aug 3-8. Portland, OR. USA.
+\item Boston University Bioinformatics Student-Organized Symposium. 2024 June 5. Boston, MA. USA.
+\item 
+Invited session on ``Statistical methods for population scale single cell RNA-seq data and spatial transcriptomics". \href{https://enar.org/meetings/spring2024/}{ENAR Conference}. 2024 Mar 10-13. Baltimore, MD. USA. 
 \item {\it Statistical Aspects of Trustworthy Machine Learning} (\href{https://www.birs.ca/events/2024/5-day-workshops/24w5284}{website}) (attendee and co-organizer). 2024 Feb 11-16. Banff International Research Station. Banff, Alberta. CA.
 \item \textbf{Plenary talk} at Advances in Genome Biology and Technology (AGBT). 2024 Feb 5-8. Orlando, FL. USA.
 \item Invited panel at American College of Neuropsychopharmacology (ACNP) 62nd Annual Meeting. 2023 Dec 3-6. Tampa, FL. USA.
@@ -1575,7 +1626,11 @@ from Bulk RNA-seq Data. American College of Neuropsychopharmacology. 2021 Dec 5-
 
 \myben{0.3em}
 
+\item Nebraska Center for the Prevention of Obesity Diseases through Dietary Molecules. University of Nebraska-Lincoln. 2024 Sept 25. Lincoln, NE. USA.
+\item Department of Biostatistics, Epidemiology and Informatics. Perelman School of Medicine at the University of Pennsylvania. 2024 May 7. Philadelphia, PA. USA. 
 \item Department of Biostatistics. Unviersity of Washington. 2024 Apr 25. Seattle, WA. USA. 
+\item Department of Biostatistics. University of Pittsburgh. 2024 Jan 25. Pittsburgh, PA. USA. 
+\item Department of Statistical Sciences. Wake Forest University. 2023 Oct 17. Winston-Salem, NC. USA
 \item Mathematical Institute for Data Science (MINDS) / Center for Imaging Science (CIS). Johns Hopkins University. 2023 Sept 12. Baltimore, MD. USA. 
 \item Department of Epidemiology and Biostatistics at Memorial Sloan-Kettering Cancer Center. 2023 June 7. New York City, NY. USA.
 \item Translational Data Science Integrated Research Center. Fred Hutch. 2023 May 4. Seattle, WA. USA.
