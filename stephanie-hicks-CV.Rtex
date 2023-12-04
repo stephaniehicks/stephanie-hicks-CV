@@ -415,15 +415,15 @@ Guo B$^{*}$, Huuki-Myers LA, Grant-Peters M, Collado-Torres L, \textbf{Hicks SC}
 \gs{$\Sexpr{pubs[pubs[,8] == "VLnqNzywnoUC",5]}$}.
 \item
 Hippen AA, Omran DK, Weber LM$^{*}$, Jung E, Drapkin R, Doherty JA, {\bf Hicks SC}, Greene CS. (2023). Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors. \dg{Accepted in {\it Genome Biology}. {\bf 24}:239. PMID: 37864274. PMCID: PMC10588129}.
-\gs{$\Sexpr{pubs[pubs[,8] == "ZfRJV9d4-WMC",5]}$}.
+\gs{$\Sexpr{pubs[pubs[,8] == "vDijr-p_gm4C",5]}$}.
 \item 
-Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data. \dg{{\it Biological Imaging}. {\bf TBA}:1-21. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "35r97b3x0nAC",5]}$}.
+Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC, Maynard KR. (2021). VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data. \dg{{\it Biological Imaging}. {\bf TBA}:1-21. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "uWiczbcajpAC",5]}$}.
 \mine % Jul 12 
 Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2023). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it Nature Communications}. {\bf 14}:7286. PMID: 34282418. PMCID: PMC8288148}. \gs{$\Sexpr{pubs[pubs[,8] == "q3oQSFYPqjQC",5]}$}.
 \item 
 Kwon SH, Parthiban S$^{*}$, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, \textbf{Hicks SC}, Martinowich K, Maynard KR, Collado-Torres L. (2023). Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex. \dg{{\it GEN Biotechnology} {\bf 2}(5):399-417. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "z_wVstp3MssC",5]}$}.
 \item 
-Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC},  Maynard KR, Collado-Torres L. (2023). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it Genome Biology}. {\bf 24}:233. PMID: 37845779. PMCID: PMC10578035}. \gs{$\Sexpr{pubs[pubs[,8] == "LjlpjdlvIbIC",5]}$}.
+Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC},  Maynard KR, Collado-Torres L. (2023). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it Genome Biology}. {\bf 24}:233. PMID: 37845779. PMCID: PMC10578035}. \gs{$\Sexpr{pubs[pubs[,8] == "epqYDVWIO7EC",5]}$}.
 \mine
 Sriworarat C$^{*}$, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Maynard KR, {\bf Hicks SC}. (2023). Performant web-based interactive visualization tool for spatially-resolved transcriptomics experiments. \dg{{\it Biological Imaging}.  1-10. PMID: 36747726 PMCID: PMC9900917}.
 \gs{$\Sexpr{pubs[pubs[,8] == "fEOibwPWpKIC",5]}$}.
@@ -432,7 +432,7 @@ Weber LM$^{*}$\footnote{Selected for \textit{Nature Communications} Editors’ H
  {\bf 14}:4059. PMID: 37429865 PMCID: PMC10333391}. \gs{$\Sexpr{pubs[pubs[,8] == "ZuybSZzF8UAC",5]}$}.
 \mine 
 Kuo A$^{*}$, Hansen KD, {\bf Hicks SC}. (2023). Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data. \dg{{\it Biostatistics}. PMID: 37257175. PMCID: TBA.}
-\gs{$\Sexpr{pubs[pubs[,8] == "PR6Y55bgFSsC",5]}$}.
+\gs{$\Sexpr{pubs[pubs[,8] == "9Nmd_mFXekcC",5]}$}.
 \mine
 Weber LM$^{*\dagger}$, Divecha HR$^{\dagger}$, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K$\ddagger$, {\bf Hicks SC}$\ddagger$. (2023). The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics. \dg{{\it eLife}. {\bf 12}:RP84628. PMID: TBA. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "kzcrU_BdoSEC",5]}$}.
 \mine 
