@@ -452,15 +452,15 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 
 \item 
 Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, \textbf{The Open Problems Jamboree Members}, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2025). Defining and benchmarking open problems in single-cell analysis. \dg{Accepted in {\it Nature Biotechnology}. doi: \url{https://doi.org/10.21203/rs.3.rs-4181617/v1}}.
+\gs{$\Sexpr{pubs[pubs[,8] == "EYYDruWGBe4C",5]}$}.
 
 \item 
 Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM,  Medina E, {\bf Hicks SC}, Singletary K, Peixoto L. (2025). Transcriptional Dynamics of Sleep Deprivation and Subsequent Recovery Sleep in the Male Mouse Cortex. \dg{Accepted in {\it Physiological Genomics}. doi: \url{https://doi.org/10.1101/2024.08.20.607983}}.
-
+\gs{$\Sexpr{pubs[pubs[,8] == "VaXvl8Fpj5cC",5]}$}.
 
 \item 
 Totty, MS$^{*}$, {\bf Hicks SC}, Guo, B$^{*}$. (2025). SpotSweeper: spatially-aware quality control for spatial transcriptomics. \dg{Accepted in {\it Nature Methods}. doi: \url{https://doi.org/10.1101/2024.06.06.597765}}.
 \gs{$\Sexpr{pubs[pubs[,8] == "gsN89kCJA0AC",5]}$}.
-
 
 \mine
 Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2025). \dg{Accepted in {\it Nature Neuroscience}. doi: \url{https://doi.org/10.1101/2024.04.26.590643}}.
@@ -472,6 +472,7 @@ Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, {\bf Hicks SC}. (2025). Spat
 
 \mine 
 Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2025). HuBMAPR: an R Client for the HuBMAP Data Portal. \dg{{\it Bioinformatics Advances}. doi: \url{https://doi.org/10.1093/bioadv/vbaf048}}.
+\gs{$\Sexpr{pubs[pubs[,8] == "k8Z6L05lTy4C",5]}$}.
 
 \item
 Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, {\bf Hicks SC}, Doherty JA, Greene CS. (2025). Missing cell types in single-cell references impact deconvolution of bulk data but are detectable. \dg{Accepted in {\it Genome Biology}. doi: \url{https://doi.org/10.1101/2024.04.25.590992}}.
@@ -479,7 +480,7 @@ Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, {\bf Hicks SC}, Doherty JA, Gree
 
 \mine 
 Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, {\bf Hicks SC}. (2025). lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression. \dg{{\it BMC Genomics}. {\bf 26}(433)}.
-\gs{$\Sexpr{pubs[pubs[,8] == "ILKRHgRFtOwC",5]}$}.
+% \gs{$\Sexpr{pubs[pubs[,8] == "TBA",5]}$}.
 
 \item
 Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Eagles NJ, Gonzalez-Padilla D, Maden SK$^{*}$, Kleinman JE, Hyde TM, {\bf Hicks SC}, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2024). Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex. \dg{{\it Genome Biology}. {\bf 26}(88)}.
@@ -487,14 +488,15 @@ Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Eagles NJ, Gonzalez-Padill
 
 \item 
 Greene CS, Gignoux CR, Subirana-Granés M, Pividori M, {\bf Hicks SC}, Ackert-Bicknell CL. (2025). Can AI reveal the next generation of high-impact bone genomics targets?. \dg{{\it Bone Reports}. {\bf 25}:101839}.
-% \gs{$\Sexpr{pubs[pubs[,8] == "TBA",5]}$}.
+\gs{$\Sexpr{pubs[pubs[,8] == "XoXfffV-tXoC",5]}$}.
 
 \mine
 Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$, Page SC$^{\ddagger}$. (2025). Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation. \dg{{\it Cell Reports}. {\bf 44}(2):115300}.
-\gs{$\Sexpr{pubs[pubs[,8] == "URolC5Kub84C",5]}$}.
+\gs{$\Sexpr{pubs[pubs[,8] == "kuK5TVdYjLIC",5]}$}.
 
 \mine
 Guo B$^{*,\dagger}$, Ling W$^{\dagger}$, Kwon SH, Panwar P, Ghazanfar S$^{\ddagger}$, Martinowich K$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2025). Integrating spatially-resolved transcriptomics data across tissues and individuals: challenges and opportunities. \dg{{\it Small Methods}. 2401194}.
+\gs{$\Sexpr{pubs[pubs[,8] == "lmc2jWPfTJgC",5]}$}.
 
 \mine 
 Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, {\bf Hicks SC}$^{\ddagger}$, Page SC$^{\ddagger}$, Martinowich K$^{\ddagger}$. (2025). Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species. \dg{{\it iScience}. {\bf 28}(2):111820}.
@@ -502,10 +504,11 @@ Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, {\bf Hicks SC}$
 
 \mine 
 Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, {\bf Hicks SC}. (2024). Open Case Studies: Statistics and Data Science Education through Real-World Applications. \dg{{\it Journal of Statistics and Data Science Education}. {\bf 32}(4):331–344}. \gs{$\Sexpr{pubs[pubs[,8] == "2KloaMYe4IUC",5]}$}.
+\gs{$\Sexpr{pubs[pubs[,8] == "2KloaMYe4IUC",5]}$}.
 
 \item 
 Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, {\bf Hicks SC}, Risso D, Peixoto L. (2024). A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex. \dg{{\it iScience}. {\bf 27}(9):110752. PMID: 39280614 PMCID: PMC11402219}.
-\gs{$\Sexpr{pubs[pubs[,8] == "AvfA0Oy_GE0C",5]}$}.
+\gs{$\Sexpr{pubs[pubs[,8] == "LI9QrySNdTsC",5]}$}.
 
 \item 
 Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, {\bf Hicks SC}, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2024). The tidyomics ecosystem: Enhancing omic data analyses.  \dg{{\it Nature Methods}. {\bf 21}(7):1166-1170. PMID: 38877315. PMCID: TBA}. 
@@ -516,17 +519,18 @@ Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, Guo B$^{*}$, Gran
 \gs{$\Sexpr{pubs[pubs[,8] == "TIZ-Mc8IlK0C",5]}$}.
 
 \item Ruzicka WB, Mohammadi S, Fullard JF, Davila-Velderrain J, Subburaju S, Tso DR, Hourihan M, Jiang S, Lee H-C, Bendl J, \textbf{PsychENCODE Consortium}, Voloudakis G, Haroutunian V, Hoffman GE, Roussos P, Kellis M. (2024). Single-cell multi-cohort dissection of the schizophrenia transcriptome. \dg{{\it Science}. {\bf 384}(6698):eadg5136. PMID: 38781388. PMCID: TBA}. 
+\gs{$\Sexpr{pubs[pubs[,8] == "kz9GbA2Ns4gC",5]}$}.
 
 \item 
 Erdogdu B, Varabyou A, {\bf Hicks SC}, Salzberg SL, Pertea M. (2024). Detecting differential transcript usage in complex diseases with SPIT. 
 \dg{{\it Cell Reports Methods}. {\bf 4}(3):100736. PMID: 38508189. PMCID: PMC10985272}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "0KyAp5RtaNEC",5]}$}.
-
 \mine
 Weber LM$^{*\dagger}$, Divecha HR$^{\dagger}$, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K$\ddagger$, {\bf Hicks SC}$\ddagger$. (2024). The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics. \dg{{\it eLife}. {\bf 12}:RP84628. PMID: 38266073. PMCID: PMC10945708}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "4MWp96NkSFoC",5]}$}.
 \mine 
 Kuo A$^{*}$, Hansen KD, {\bf Hicks SC}. (2024). Quantification and statistical modeling of Chromium-based single-nucleus RNA-sequencing data. \dg{{\it Biostatistics}. {\bf 25}(3):801–817. PMID: 37257175. PMCID: PMC11247185.}
+\gs{$\Sexpr{pubs[pubs[,8] == "9Nmd_mFXekcC",5]}$}.
 \mine 
 Guo B$^{*}$, Huuki-Myers LA, Grant-Peters M, Collado-Torres L, \textbf{Hicks SC}. (2023). escheR: Unified multi-dimensional visualizations with Gestalt principles. \dg{{\it Bioinformatics Advances}. {\bf 3}(1). PMID: 36993732. PMCID: PMC10055209}.
 \gs{$\Sexpr{pubs[pubs[,8] == "VLnqNzywnoUC",5]}$}.
@@ -554,15 +558,19 @@ Sriworarat C$^{*}$, Nguyen AB, Eagles NJ, Collado-Torres L, Martinowich K, Mayna
 \gs{$\Sexpr{pubs[pubs[,8] == "fEOibwPWpKIC",5]}$}.
 \mine 
 Weber LM$^{*}$\footnote{Selected for \textit{Nature Communications} Editors’ Highlights in 2023}, Saha A, Datta A, Hansen KD, {\bf Hicks SC}. (2023). nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes. \dg{{\it Nature Communications}. {\bf 14}:4059. PMID: 37429865. PMCID: PMC10333391}. \gs{$\Sexpr{pubs[pubs[,8] == "ZuybSZzF8UAC",5]}$}.
-\gs{$\Sexpr{pubs[pubs[,8] == "9Nmd_mFXekcC",5]}$}.
+\gs{$\Sexpr{pubs[pubs[,8] == "ZuybSZzF8UAC",5]}$}.
 \mine 
-Nelson ED$^{*}$, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, {\bf Hicks SC}$\ddagger$, Martinowich K$\ddagger$. (2023). Activity-regulated gene expression across cell types of the mouse hippocampus. \dg{{\it Hippocampus}. {\bf 33}(9):1009-1027. PMID: 37226416. PMCID: TBA}. \gs{$\Sexpr{pubs[pubs[,8] == "tKAzc9rXhukC",5]}$}.
+Nelson ED$^{*}$, Maynard KR, Nicholas KR, Tran MN, Divecha HR, Collado-Torres L, {\bf Hicks SC}$\ddagger$, Martinowich K$\ddagger$. (2023). Activity-regulated gene expression across cell types of the mouse hippocampus. \dg{{\it Hippocampus}. {\bf 33}(9):1009-1027. PMID: 37226416. PMCID: PMC11129873}. 
+\gs{$\Sexpr{pubs[pubs[,8] == "tKAzc9rXhukC",5]}$}.
 \mine
-Dyjack N$^{*}$, Baker DN, Braverman V, Langmead B, {\bf Hicks SC}. (2023). A scalable and unbiased discordance metric with $H_{+}$. \dg{{\it Biostatistics}. {\bf 25}(1):188-202. PMID: 36063544. PMCID: PMC10724244}. \gs{$\Sexpr{pubs[pubs[,8] == "PELIpwtuRlgC",5]}$}.
+Dyjack N$^{*}$, Baker DN, Braverman V, Langmead B, {\bf Hicks SC}. (2023). A scalable and unbiased discordance metric with $H_{+}$. \dg{{\it Biostatistics}. {\bf 25}(1):188-202. PMID: 36063544. PMCID: PMC10724244}. 
+\gs{$\Sexpr{pubs[pubs[,8] == "PELIpwtuRlgC",5]}$}.
 \mine
-D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2022). Design Principles for Data Analysis. \dg{{\it Journal of Computational and Graphical Statistics}. {\bf 32}(2):754-761}. \gs{$\Sexpr{pubs[pubs[,8] == "sSrBHYA8nusC",5]}$}.
+D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2022). Design Principles for Data Analysis. \dg{{\it Journal of Computational and Graphical Statistics}. {\bf 32}(2):754-761}. 
+\gs{$\Sexpr{pubs[pubs[,8] == "sSrBHYA8nusC",5]}$}.
 \mine 
-Mallick H\footnote{Top cited article in \textit{Statistics in Medicine} in 2022-2023}, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2022). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{{\it Statistics in Medicine}.  {\bf 41}(18):3492-3510. PMID: 35656596. PMCID: PMC9288986}. \gs{$\Sexpr{pubs[pubs[,8] == "LPZeul_q3PIC",5]}$}.
+Mallick H\footnote{Top cited article in \textit{Statistics in Medicine} in 2022-2023}, Chatterjee Su., Chowdhury S, Chatterjee Sa., Rahnavard A$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2022). Differential expression of single-cell RNA-seq data using Tweedie models. \dg{{\it Statistics in Medicine}.  {\bf 41}(18):3492-3510. PMID: 35656596. PMCID: PMC9288986}. 
+\gs{$\Sexpr{pubs[pubs[,8] == "LPZeul_q3PIC",5]}$}.
 \mine
 Righelli D$^{\dagger}$, Weber LM$^{*\dagger}$, Crowell HL$^{\dagger}$, Pardo B, Collado-Torres L, Ghazanfar S, Lun ATL, \textbf{Hicks SC}$^{\ddagger}$, Risso D$^{\ddagger}$. (2022). SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor. \dg{{\it Bioinformatics}. {\bf 38}(11):3128-3131. PMID: 35482478. PMCID: PMC9154247}.
 \gs{$\Sexpr{pubs[pubs[,8] == "tS2w5q8j5-wC",5]}$}.

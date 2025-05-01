@@ -11,7 +11,7 @@ software_pkgs <- pkgs %>%
                         "mbkmeans", "scry", "spqn", "bluster",
                         "SpatialExperiment","miQC", "TREG", 
                         "nnSVG", "escheR", "spoon", 
-                        "SpotSweeper")) %>% 
+                        "SpotSweeper", "HuBMAPR")) %>% 
   group_by(Package) %>% 
   summarize(total=sum(Nb_of_distinct_IPs))
 readr::write_csv(software_pkgs, 
@@ -19,7 +19,8 @@ readr::write_csv(software_pkgs,
 
 
 data_pkgs <- pkgs %>% 
-  filter(Package %in% c("STexampleData", "spatialLIBD", "benchmarkfdrData2019", 
+  filter(Package %in% c("humanHippocampus2024", "STexampleData", 
+                        "spatialLIBD", "benchmarkfdrData2019", 
                         "bodymapRat", "TENxPBMCData")) %>% 
   group_by(Package) %>% 
   summarize(total=sum(Nb_of_distinct_IPs))
