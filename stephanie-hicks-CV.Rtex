@@ -132,7 +132,7 @@ B.S. / 2007 & Mathematics, Louisiana State University, Baton Rouge, LA, USA \\
 
 \mydot{-0.1em}
 
-\item Associate Professor with Tenure (2024 -- present). 
+\item Associate Professor with Tenure (2025 -- present). 
 \item Associate Professor (2023 -- 2024). 
 
 \ee
@@ -144,6 +144,7 @@ B.S. / 2007 & Mathematics, Louisiana State University, Baton Rouge, LA, USA \\
 
 \mydot{-0.1em}
 
+\item Faculty member, \href{https://kavlijhu.org/about/kavli-ndi}{Kavli Neuroscience Discovery Institute} (Kavli NDI) (2025 -- present).
 \item Faculty Member, Johns Hopkins Data Science and AI Institute (DSAI) (2024 -- present).
 \item Faculty Member, \href{https://epigenome.jhu.edu/team/}{JHU BDP Epigenome Sciences Cluster} (2023 -- present).
 \item Faculty Member, \href{https://malonecenter.jhu.edu}{Malone Center for Engineering in Healthcare}, Johns Hopkins University (2022 -- present).
@@ -198,16 +199,25 @@ Teaching Assistant, Department of Statistics, Rice University
 
 \mydot{-0.1em}
 
+\item Program Chair, Conference on Statistics in Genomics and Genetics (STATGEN) organized by the Section on Statistics in Genomics and Genetics (SSGG) of the ASA (2025-2026).
 \item Representative, Council of Sections for the \href{https://ww2.amstat.org/sections/officers.cfm?txtComm=SCOMP}{ASA Statistical Computing Section} (2023-2025).
 \item Member, rOpenSci Statistical Software Standards Board (2020 -- 2022). 
 \item Member, \href{https://www.bioconductor.org/about/code-of-conduct/}{Bioconductor Code of Conduct Committee} (2020 -- 2021).
 \item Chair, \href{https://www.amstat.org/committees/commdetails.cfm}{ASA Committee on Women in Statistics} (2020).
-\item Member, \href{https://bioconductor.org/about/technical-advisory-board/}{Bioconductor Technical Advisory Board} (2019 -- present).
+\item Member, \href{https://bioconductor.org/about/technical-advisory-board/}{Bioconductor Technical Advisory Board} (2019 -- 2025).
 \item Vice Chair, \href{https://www.amstat.org/committees/commdetails.cfm}{ASA Committee on Women in Statistics} (2019).
 \item Co-founder and co-organizer, \href{https://rladies-baltimore.github.io}{R-Ladies Baltimore} (An organization to promote gender diversity in the Data Science community using the R programming language) (2018 -- present).
 \item Member, Emerging Technologies Subcommittee of the Bioconductor Technical Advisory Board (2018 -- 2020).
 \item Member, \href{https://www.amstat.org/committees/commdetails.cfm}{ASA Committee on Women in Statistics} (2017 -- 2022).
 \item Board Member, \href{http://www.scienceambassadorscholarship.org}{Cards Against Humanities Science Ambassador Scholarship} (2015 -- 2020).
+
+\ee
+
+\subsection*{Participation in Consortia}
+
+\mydot{-0.1em}
+
+\item Associate member, HuBMAP Consortium (2025--Present).
 
 \ee
 
@@ -219,6 +229,7 @@ Teaching Assistant, Department of Statistics, Rice University
 
 \mydot{-0.1em}
 
+\item Educational Advisory Committee, \href{https://www.enar.org/meetings/spring2026/}{ENAR 2026} (2025-2026).
 \item Program Committee Member, \href{https://www.iscb.org/ismbeccb2025/home}{ISMB/ECCB 2025 } (2024-2025).
 \item Program Committee Member, \href{https://recomb.org/recomb2025/}{RECOMB 2025} (2024-2025).
 \item Program Committee Member, \href{https://recomb.org/recomb2024/}{RECOMB 2024} (2023-2024).
@@ -315,6 +326,7 @@ Reviewer, Site visit to review the Eunice Kennedy Shriver National Institute of 
 
 \mydot{-0.1em}
 
+\item Ad hoc member, NIH MCST / CSR MIRA panel (Nov 2025). 
 \item Ad hoc member, NIH MCST / CSR MIRA panel (Jul 2025). 
 \item Ad hoc member, NIH NCI (F99/K00) SEP (Mar 2025).
 \item Ad hoc member, NIH NHGRI (K99/R00) Genome Research Review Committee (GNOM-G) (Nov 2024).
@@ -450,81 +462,90 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 
 \myben{0.4em}
 
-\item 
-Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, \textbf{The Open Problems Jamboree Members}, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2025). Defining and benchmarking open problems in single-cell analysis. \dg{Accepted in {\it Nature Biotechnology}. doi: \url{https://doi.org/10.21203/rs.3.rs-4181617/v1}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "EYYDruWGBe4C",5]}$}.
 
-\item 
-Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM,  Medina E, {\bf Hicks SC}, Singletary K, Peixoto L. (2025). Transcriptional Dynamics of Sleep Deprivation and Subsequent Recovery Sleep in the Male Mouse Cortex. \dg{Accepted in {\it Physiological Genomics}. doi: \url{https://doi.org/10.1101/2024.08.20.607983}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "VaXvl8Fpj5cC",5]}$}.
-
-\item 
-Totty, MS$^{*}$, {\bf Hicks SC}, Guo, B$^{*}$. (2025). SpotSweeper: spatially-aware quality control for spatial transcriptomics. \dg{Accepted in {\it Nature Methods}. doi: \url{https://doi.org/10.1101/2024.06.06.597765}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "gsN89kCJA0AC",5]}$}.
+\mine % Oct 19
+Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV$^{\dagger}$, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$, Costa VD$^{\ddagger}$. (2025). Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates. \dg{{\it Science Advances}. {\bf 11}(38):eadw1029}. PMID: TBA. PMCID: TBA.
 
 \mine
-Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2025). \dg{Accepted in {\it Nature Neuroscience}. doi: \url{https://doi.org/10.1101/2024.04.26.590643}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "tYavs44e6CUC",5]}$}.
+Thompson JR$^{*,\dagger}$, Nelson ED$^{*,\dagger}$, Tippani M$^{\dagger}$, Ramnauth AD, Divecha HR, Miller RA, Eagles NJ, Pattie EA, Kwon SH, Bach SV, Kaipa UM, Yao J$^{*}$, Hou C$^{*}$, Kleinman JE, Collado-Torres L, Han S, Maynard KR, Hyde TM, Martinowich K, Page SC$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2025). An integrated single-nucleus and spatial transcriptomics atlas reveals the molecular landscape of the human hippocampus. \dg{{\it Nature Neuroscience}. {\bf 28}:1990–2004}. PMID: 40739059 PMCID: PMC12411265.
+
+\mine
+Zhou H$^{*}$, Panwar P, Guo B$^{*}$, Hallinan C$^{*}$, Ghazanfar S$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2025). Spatial mutual nearest neighbors for spatial transcriptomics data. \dg{{\it Bioinformatics}. {\bf 41}(8):btaf403}. PMID: 40713795 PMCID: PMC12317746. 
+
+\item 
+Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L, Palla G, Lewis W, Dimitrov D, Vinyard ME, Magruder DS, Andersson A, Dann E, Qin Q, Otto DJ, Klein M, Botvinnik OB, Deconinck L, Waldrant K, \textbf{The Open Problems Jamboree Members}, Bloom JM, Pisco AO, Saez-Rodriguez J, Wulsin D, Pinello L, Saeys Y, Theis FJ, Krishnaswamy S. (2025). Defining and benchmarking open problems in single-cell analysis. \dg{{\it Nature Biotechnology}. {\bf 43}(7):1035-1040}. PMID: 40595413.
+
+\item 
+Totty, MS$^{*}$, {\bf Hicks SC}, Guo, B$^{*}$. (2025). SpotSweeper: spatially-aware quality control for spatial transcriptomics. \dg{{\it Nature Methods}. {\bf 22}(7):1520-1530}. PMID: 40481362. PMCID: PMC12258134. 
+% \gs{$\Sexpr{pubs[pubs[,8] == "TBA",5]}$}.
 
 \mine 
-Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, {\bf Hicks SC}. (2025). Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies. \dg{Accepted in {\it Genome Research}. doi: \url{https://doi.org/10.1101/2024.02.02.578662}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "BwyfMAYsbu0C",5]}$}.
+Yao J$^{*}$, Yu J, Caffo B, Page SC, Martinowich K, {\bf Hicks SC}. (2025). Spatial domain detection using contrastive self-supervised learning for spatial multi-omics technologies. \dg{{\it Genome Research}. {\bf 37}(7):1621-1632}. PMID: 40393810. PMCID: PMC12212350. 
+% \gs{$\Sexpr{pubs[pubs[,8] == "TBA",5]}$}.
+
+\item 
+Popescu A, Ottaway C, Ford K, Patterson TW, Ingiosi AM,  Medina E, {\bf Hicks SC}, Singletary K, Peixoto L. (2025). Transcriptional Dynamics of Sleep Deprivation and Subsequent Recovery Sleep in the Male Mouse Cortex. \dg{{\it Physiological Genomics}. {\bf 57}(1):431-445}. PMID: 40315180 PMCID: PMC12140865.
+% \gs{$\Sexpr{pubs[pubs[,8] == "TBA",5]}$}.
 
 \mine 
-Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2025). HuBMAPR: an R Client for the HuBMAP Data Portal. \dg{{\it Bioinformatics Advances}. doi: \url{https://doi.org/10.1093/bioadv/vbaf048}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "k8Z6L05lTy4C",5]}$}.
-
-\item
-Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, {\bf Hicks SC}, Doherty JA, Greene CS. (2025). Missing cell types in single-cell references impact deconvolution of bulk data but are detectable. \dg{Accepted in {\it Genome Biology}. doi: \url{https://doi.org/10.1101/2024.04.25.590992}}.
-\gs{$\Sexpr{pubs[pubs[,8] == "KUbvn5osdkgC",5]}$}.
-
-\mine 
-Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, {\bf Hicks SC}. (2025). lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression. \dg{{\it BMC Genomics}. {\bf 26}(433)}.
+Maden SK$^{*}$, Huuki-Myers LA, Kwon SH, Collado-Torres L, Maynard KR, {\bf Hicks SC}. (2025). lute: estimating the cell composition of heterogeneous tissue with varying cell sizes using gene expression. \dg{{\it BMC Genomics}. {\bf 26}(1):433}. PMID: 40312738 PMCID: PMC12045009. 
 % \gs{$\Sexpr{pubs[pubs[,8] == "TBA",5]}$}.
 
 \item
-Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Eagles NJ, Gonzalez-Padilla D, Maden SK$^{*}$, Kleinman JE, Hyde TM, {\bf Hicks SC}, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2024). Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex. \dg{{\it Genome Biology}. {\bf 26}(88)}.
+Ivich A, Davidson NR, Grieshober L, Li W$^{*}$, {\bf Hicks SC}, Doherty JA, Greene CS. (2025). Missing cell types in single-cell references impact deconvolution of bulk data but are detectable. \dg{{\it Genome Biology}. {\bf 26}(1):86}. PMID: 40197327 PMCID: PMC11974051.
+\gs{$\Sexpr{pubs[pubs[,8] == "KUbvn5osdkgC",5]}$}.
+
+\mine 
+Hou C$^{*}$, Ghazanfar S, Marini F, Morgan M$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2025). HuBMAPR: an R Client for the HuBMAP Data Portal. \dg{{\it BMC Genomics}. {\bf 5}(1):vbaf048}. PMID: 40212885. PMCID: PMC11985162.
+\gs{$\Sexpr{pubs[pubs[,8] == "k8Z6L05lTy4C",5]}$}.
+
+\item
+Huuki-Myers LA, Montgomery KD, Kwon SH, Cinquemani S, Eagles NJ, Gonzalez-Padilla D, Maden SK$^{*}$, Kleinman JE, Hyde TM, {\bf Hicks SC}, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2024). Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex. \dg{{\it Genome Biology}. {\bf 26}(88). PMID: 40197307. PMCID: PMC11978107}.
 \gs{$\Sexpr{pubs[pubs[,8] == "vbGhcppDl1QC",5]}$}.
 
 \item 
-Greene CS, Gignoux CR, Subirana-Granés M, Pividori M, {\bf Hicks SC}, Ackert-Bicknell CL. (2025). Can AI reveal the next generation of high-impact bone genomics targets?. \dg{{\it Bone Reports}. {\bf 25}:101839}.
+Greene CS, Gignoux CR, Subirana-Granés M, Pividori M, {\bf Hicks SC}, Ackert-Bicknell CL. (2025). Can AI reveal the next generation of high-impact bone genomics targets?. \dg{{\it Bone Reports}. {\bf 25}:101839. PMID: 40225702. PMCID: PMC11986539}.
 \gs{$\Sexpr{pubs[pubs[,8] == "XoXfffV-tXoC",5]}$}.
 
 \mine
-Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$, Page SC$^{\ddagger}$. (2025). Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation. \dg{{\it Cell Reports}. {\bf 44}(2):115300}.
+Ramnauth AD, Tippani M, Divecha HR, Papariello AR, Miller RA, Pattie EA, Nelson ED$^{*}$, Thompson JR$^{*}$, Pattie EA, Kleinman JE, Maynard KR, Collado-Torres L, Hyde TM, Martinowich K$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$, Page SC$^{\ddagger}$. (2025). Spatially-resolved transcriptomics of human dentate gyrus across postnatal lifespan reveals heterogeneity in markers for proliferation, extracellular matrix, and neuroinflammation. \dg{{\it Cell Reports}. {\bf 44}(2):115300. PMID: 40009515. PMCID: TBA}.
 \gs{$\Sexpr{pubs[pubs[,8] == "kuK5TVdYjLIC",5]}$}.
 
 \mine
-Guo B$^{*,\dagger}$, Ling W$^{\dagger}$, Kwon SH, Panwar P, Ghazanfar S$^{\ddagger}$, Martinowich K$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2025). Integrating spatially-resolved transcriptomics data across tissues and individuals: challenges and opportunities. \dg{{\it Small Methods}. 2401194}.
+Guo B$^{*,\dagger}$, Ling W$^{\dagger}$, Kwon SH, Panwar P, Ghazanfar S$^{\ddagger}$, Martinowich K$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2025). Integrating spatially-resolved transcriptomics data across tissues and individuals: challenges and opportunities. \dg{{\it Small Methods}. PMID: 39935130. PMCID: PMC12103234}.
 \gs{$\Sexpr{pubs[pubs[,8] == "lmc2jWPfTJgC",5]}$}.
 
 \mine 
-Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, {\bf Hicks SC}$^{\ddagger}$, Page SC$^{\ddagger}$, Martinowich K$^{\ddagger}$. (2025). Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species. \dg{{\it iScience}. {\bf 28}(2):111820}.
+Phillips III RA, Bach SV, Du Y, Miller RA, Kleinman JE, Hyde TM, {\bf Hicks SC}$^{\ddagger}$, Page SC$^{\ddagger}$, Martinowich K$^{\ddagger}$. (2025). Transcriptomic characterization of human lateral septum neurons reveals conserved and divergent marker genes across species. \dg{{\it iScience}. {\bf 28}(2):111820. PMID: 39967863. PMCID: PMC11834073}.
 \gs{$\Sexpr{pubs[pubs[,8] == "g3aElNc5_aQC",5]}$}.
+
+\mine
+Shah K$^{*}$, Guo B$^{*}$, {\bf Hicks SC}. (2024). Addressing the mean-variance relationship in spatially resolved transcriptomics data with {\it spoon}. \dg{{\it Biostatistics}. {\bf 26}(1):kxaf012. PMID: 40515599. PMCID: PMC12166475}. 
+% \gs{$\Sexpr{pubs[pubs[,8] == "TBA",5]}$}
 
 \mine 
 Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, {\bf Hicks SC}. (2024). Open Case Studies: Statistics and Data Science Education through Real-World Applications. \dg{{\it Journal of Statistics and Data Science Education}. {\bf 32}(4):331–344}. \gs{$\Sexpr{pubs[pubs[,8] == "2KloaMYe4IUC",5]}$}.
-\gs{$\Sexpr{pubs[pubs[,8] == "2KloaMYe4IUC",5]}$}.
 
 \item 
-Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, {\bf Hicks SC}, Risso D, Peixoto L. (2024). A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex. \dg{{\it iScience}. {\bf 27}(9):110752. PMID: 39280614 PMCID: PMC11402219}.
+Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, {\bf Hicks SC}, Risso D, Peixoto L. (2024). A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex. \dg{{\it iScience}. {\bf 27}(9):110752. PMID: 39280614.  PMCID: PMC11402219}.
 \gs{$\Sexpr{pubs[pubs[,8] == "LI9QrySNdTsC",5]}$}.
 
 \item 
-Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, {\bf Hicks SC}, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2024). The tidyomics ecosystem: Enhancing omic data analyses.  \dg{{\it Nature Methods}. {\bf 21}(7):1166-1170. PMID: 38877315. PMCID: TBA}. 
+Hutchison WJ, Keyes TJ, The Tidyomics Consortium, Crowell LH, Soneson C, Yuan V, Nahid AA, Mu W, Park J, Davis ES, Tang M,  Axisa PP, Kitt W, Poon CL, Kosmac M, Serizay J, Sato N, Gottardo R, Morgan M, Lee S, Lawrence M, {\bf Hicks SC}, Nolan GP, Davis KL, Papenfuss AT, Love M, Mangiola S. (2024). The tidyomics ecosystem: Enhancing omic data analyses.  \dg{{\it Nature Methods}. {\bf 21}(7):1166-1170. PMID: 38877315}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "ipzZ9siozwsC",5]}$}.
 
 \item 
-Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, Guo B$^{*}$, Grant-Peters M, Divecha HR, Tippani M, Sriworarat C$^{*}$, Nguyen AB, Ravichandran P$^{*}$, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, \textbf{Hicks SC}, Martinowich K, Collado-Torres L$\ddagger$, Maynard KR$\ddagger$. (2024). A data-driven single-cell and spatial transcriptomic map of the human prefrontal cortex. \dg{{\it Science}. {\bf 384}(6698):eadh1938. PMID: 38781370. PMCID: TBA}. 
+Huuki-Myers LA, Spangler A, Eagles NJ, Montgomery KD, Kwon SH, Guo B$^{*}$, Grant-Peters M, Divecha HR, Tippani M, Sriworarat C$^{*}$, Nguyen AB, Ravichandran P$^{*}$, Tran MT, Seyedian A, PsychENCODE Consortium, Hyde TM, Kleinman JE, Battle A, Page SC,  Ryten M, \textbf{Hicks SC}, Martinowich K, Collado-Torres L$\ddagger$, Maynard KR$\ddagger$. (2025). A data-driven single-cell and spatial transcriptomic map of the human prefrontal cortex. \dg{{\it Science}. {\bf 384}(6698):eadh1938. PMID: 38781370. PMCID: PMC11398705}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "TIZ-Mc8IlK0C",5]}$}.
 
-\item Ruzicka WB, Mohammadi S, Fullard JF, Davila-Velderrain J, Subburaju S, Tso DR, Hourihan M, Jiang S, Lee H-C, Bendl J, \textbf{PsychENCODE Consortium}, Voloudakis G, Haroutunian V, Hoffman GE, Roussos P, Kellis M. (2024). Single-cell multi-cohort dissection of the schizophrenia transcriptome. \dg{{\it Science}. {\bf 384}(6698):eadg5136. PMID: 38781388. PMCID: TBA}. 
+\item Ruzicka WB, Mohammadi S, Fullard JF, Davila-Velderrain J, Subburaju S, Tso DR, Hourihan M, Jiang S, Lee H-C, Bendl J, \textbf{PsychENCODE Consortium}, Voloudakis G, Haroutunian V, Hoffman GE, Roussos P, Kellis M. (2024). Single-cell multi-cohort dissection of the schizophrenia transcriptome. \dg{{\it Science}. {\bf 384}(6698):eadg5136. PMID: 38781388}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "kz9GbA2Ns4gC",5]}$}.
 
 \item 
 Erdogdu B, Varabyou A, {\bf Hicks SC}, Salzberg SL, Pertea M. (2024). Detecting differential transcript usage in complex diseases with SPIT. 
 \dg{{\it Cell Reports Methods}. {\bf 4}(3):100736. PMID: 38508189. PMCID: PMC10985272}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "0KyAp5RtaNEC",5]}$}.
+
 \mine
 Weber LM$^{*\dagger}$, Divecha HR$^{\dagger}$, Tran MN, Kwon SH, Spangler A, Montgomery KD, Tippani M, Bharadwaj R, Kleinman JE, Page SC, Hyde TM, Collado-Torres L, Maynard KR, Martinowich K$\ddagger$, {\bf Hicks SC}$\ddagger$. (2024). The gene expression landscape of the human locus coeruleus revealed by single-nucleus and spatially-resolved transcriptomics. \dg{{\it eLife}. {\bf 12}:RP84628. PMID: 38266073. PMCID: PMC10945708}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "4MWp96NkSFoC",5]}$}.
@@ -548,7 +569,7 @@ Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf 
 Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2023). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it Nature Communications}. {\bf 14}:7286. PMID: 37949861. PMCID: PMC10638410}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "q3oQSFYPqjQC",5]}$}.
 \item 
-Kwon SH, Parthiban S$^{*}$, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, \textbf{Hicks SC}$^{\ddagger}$, Martinowich K$^{\ddagger}$, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2023). Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex. \dg{{\it GEN Biotechnology} {\bf 2}(5):399-417. PMID: TBA. PMCID: TBA}. 
+Kwon SH, Parthiban S$^{*}$, Tippani M, Divecha HR, Eagles NJ, Lobana JS, Williams SR, Mark M, Bharadwaj RA, Kleinman JE, Hyde TM, Page SC, \textbf{Hicks SC}$^{\ddagger}$, Martinowich K$^{\ddagger}$, Maynard KR$^{\ddagger}$, Collado-Torres L$^{\ddagger}$. (2023). Influence of Alzheimer's disease related neuropathology on local microenvironment gene expression in the human inferior temporal cortex. \dg{{\it GEN Biotechnology} {\bf 2}(5):399-417. PMID: 39329069. PMCID: PMC11426291}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "z_wVstp3MssC",5]}$}.
 \item 
 Huuki-Myers LA, Montgomery KD, Kwon SH, Page SC, {\bf Hicks SC}, Maynard KR, Collado-Torres L. (2023). Data-driven Identification of Total RNA Expression Genes (TREGs) for Estimation of RNA Abundance in Heterogeneous Cell Types. \dg{{\it Genome Biology}. {\bf 24}:233. PMID: 37845779. PMCID: PMC10578035}. 
@@ -678,25 +699,34 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 
 \mycon{0.4em}
 
+\mine % Sept 15 
+Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2025). Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2025.09.15.676244}}.
+
+\mine % Sept 11
+Ravichandran P$^{*,\dagger}$, Bach SV$^\dagger$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, {\bf Hicks SC}$^\ddagger$, Maynard K$^\ddagger$. (2025). Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens.
+\dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2025.09.10.675374}}.
+
+\item % Sept 10
+Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, {\bf Hicks SC}, Timp W. (2025). [Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides. \dg{{\it medRXiv}. doi: \url{https://doi.org/10.1101/2025.09.07.25335167}}.
+
+\item % Jul 25
+Goode TD, Bernstein M, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer-Cheren MD, Chung A, Duan X, Macosko E, {\bf Hicks SC}, Zweifel L, Sahay A. (2025). A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2024.08.02.606427}}.
+
+\mine % Jul 17 
+Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, {\bf Hicks SC}$^\ddagger$, Martinowich K$^\ddagger$. (2025). Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2025.07.14.664821}}.
+
 \item % Dec 7
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, {\bf Hicks SC}, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2024). Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2024.12.07.627362}}.
-
-\mine % Nov 4
-Shah K$^{*}$, Guo B$^{*}$, {\bf Hicks SC}. (2024). Addressing the mean-variance relationship in spatially resolved transcriptomics data with {\it spoon}. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2024.11.04.621867}}.
 
 \item % Oct 30 
 Wang, A, {\bf Hicks SC}, Geman D, Younes L. (2024). GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2024.10.30.621151}}. (Accepted for  \href{https://recomb.org/recomb2025/}{RECOMB 2025}).
 
-\mine % Oct 19
-Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV$^{\dagger}$, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$, Costa VD$^{\ddagger}$. (2024). Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2024.10.18.618721}}.
-
-\mine % Oct 9
-Zhou H$^{*}$, Panwar P, Guo B$^{*}$, Hallinan C$^{*}$, Ghazanfar S$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$. (2024). Spatial mutual nearest neighbors for spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2024.10.08.615307}}.
-
 \mine % Dec 13 
 D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2023). Evaluating the Alignment of a Data Analysis between Analyst and Audience. \dg{{\it arXiv}. doi: \url{https://doi.org/10.48550/arXiv.2312.07616}}.
+
 \mine % Sept 17
 Peng RD, {\bf Hicks SC}. (2023). Modeling Data Analytic Iteration With Probabilistic Outcome Sets. \dg{{\it arXiv}. doi: \url{ https://arxiv.org/abs/2309.08494}}.
+
 \item % June 15
 Hippen AA, Davidson NR, Barnard ME, Weber LM$^{*}$, Gertz J, Doherty JA, {\bf Hicks SC}, Greene CS. (2023). Deconvolution reveals compositional differences in high-grade serous ovarian cancer subtypes. \dg{{\it bioRxiv}.  doi: \url{https://doi.org/10.1101/2023.06.14.544991}}.
 \mine % Jul 25 2019
@@ -814,6 +844,9 @@ Presentation about the Open Case Studies project at the \href{https://americanhe
 
 \myben{0.4em}
 
+\item ``Stephanie Hicks named fellow of the American Statistical Association
+May 6, 2025''. 2025 May 06. [\href{https://www.bme.jhu.edu/news-events/news/stephanie-hicks-named-fellow-of-the-american-statistical-association/}{link}]. 
+
 \item ``Atlases galore: where to next?''. Marx V. {\it Nature Methods}. 2024 Dec 06. [\href{https://www.nature.com/articles/s41592-024-02536-8}{link}].
 
 \item ''Stephanie Hicks invited to NAM Emerging Leaders Forum''. Johns Hopkins BME. 2024 Mar 06. [\href{https://www.bme.jhu.edu/news-events/news/stephanie-hicks-invited-to-nam-emerging-leaders-forum}{link}]. 
@@ -855,14 +888,19 @@ data_pkg <- read.csv("scripts/bioconductor/data_pkg.csv")
 
 \myben{0.4em}
 
+
 \item 
 {\bf spoon} $\blacktriangleright$
-Methodology and R/Bioconductor package that addresses the mean-variance relationship in spatially resolved transcriptomics data. Preprint in \href{https://doi.org/10.1101/2024.11.04.621867}{Shah et al. (2024)}.  [\href{https://bioconductor.org/packages/spoon}{Available on Bioconductor}].
+Methodology and R/Bioconductor package that addresses the mean-variance relationship in spatially resolved transcriptomics data. Preprint in \href{https://doi.org/10.1101/2024.11.04.621867}{Shah et al. (2025)}.  [\href{https://bioconductor.org/packages/spoon}{Available on Bioconductor}].
 \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "spoon",2]}$}.
 \item 
 {\bf SpotSweeper} $\blacktriangleright$
-Methodology and R/Bioconductor package that provides spatially-aware quality control metrics for spatial transcriptomics data.   Preprint in \href{https://doi.org/10.1101/2024.06.06.597765}{Totty et al. (2024)}. [\href{https://bioconductor.org/packages/SpotSweeper}{Available on Bioconductor}].
+Methodology and R/Bioconductor package that provides spatially-aware quality control metrics for spatial transcriptomics data. Preprint in \href{https://doi.org/10.1038/s41592-025-02713-3}{Totty et al. (2025)}. [\href{https://bioconductor.org/packages/SpotSweeper}{Available on Bioconductor}].
 \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "SpotSweeper",2]}$}.
+\item 
+{\bf HuBMAPR} $\blacktriangleright$
+R client to programmatically interface with Human BioMolecular Atlas Program (HuBMAP) to discover and retrieve HuBMAP data more easily and quickly. Published in \href{https://doi.org/10.1093/bioadv/vbaf048}{Hou et al. (2025)}.  [\href{https://bioconductor.org/packages/HuBMAPR}{Available on Bioconductor}].
+\dl{$\Sexpr{soft_pkg[soft_pkg$Package == "HuBMAPR",2]}$}.
 \item 
 {\bf escheR} $\blacktriangleright$
 R package built off of ggplot2 and the Gestalt principles to visualize multi-dimensional data in the 2D space (e.g. embedding or spatial visualizations). Published in \href{https://doi.org/10.1093/bioadv/vbad179}{Guo et al. (2023)}. [\href{https://bioconductor.org/packages/escheR}{Available on Bioconductor}]. 
@@ -915,7 +953,7 @@ Methodology and R software package that can be used to test for differences betw
 
 \item 
 {\bf humanHippocampus2024} $\blacktriangleright$
-R/Bioconductor package to access spatially-resolved transcriptomics and single-nucleus RNA sequencing data from adjacent tissue sections of the anterior human hippocampus across ten adult neurotypical donors.[\href{http://bioconductor.org/packages/humanHippocampus2024}{Available on Bioconductor}].  
+R/Bioconductor package to access spatially-resolved transcriptomics and single-nucleus RNA sequencing data from adjacent tissue sections of the anterior human hippocampus across ten adult neurotypical donors. Published in \href{https://doi.org/10.1101/2024.04.26.590643}{Thompson, Nelson, Tippani et al. (2024)}. [\href{http://bioconductor.org/packages/humanHippocampus2024}{Available on Bioconductor}].  
 
 \item 
 {\bf STexampleData} $\blacktriangleright$
@@ -954,9 +992,16 @@ R/CRAN package that implements a generalized version of principal components ana
 \ee
 
 
-\subsubsection*{GitHub software packages}
+\subsubsection*{Python software packages}
 
 \myben{0.4em}
+
+\item {\bf visiumhd-utls}
+(\href{https://pypi.org/project/visiumhd-utils}{https://pypi.org/project/visiumhd-utils}).
+
+\item {\bf spotsweeper}
+(\href{https://pypi.org/project/spotsweeper}{https://pypi.org/project/spotsweeper}).
+
 
 \item 
 {\bf Python/samui} $\blacktriangleright$
@@ -1073,7 +1118,8 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
-\item Gui, Guan. ScM, Biostatistics (2024 -- Present).
+\item Li, Shengyi. ScM, Biostatistics (2025 -- Present).
+\item Gui, Guan. ScM, Biostatistics (2024 -- Present). Awarded the Kocherlakota award for best performance by a master’s student on the Biostatistics first-year comprehensive examination. 
 \item Luan, Shu. ScM, Biostatistics (2024 -- 2025).
 \item Hou, Christine. ScM, Biostatistics (2024 -- 2025).
 \item Li, Weishan. ScM, Biostatistics (2022 -- 2024).
@@ -1095,6 +1141,7 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
+\item He, Harriet (Jiali). Masters (MSE), Biomedical Engineering (2025 -- Present). 
 \item Parthiban, Sowmya. Masters (MSE), Biomedical Engineering (2021 -- 2022).
 
 \ee
@@ -1129,6 +1176,7 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
+\item Sun, Ivy. PhD, Biostatistics (2025 -- Present).
 \item Yao, Jianing. PhD, Biostatistics (2023 -- Present).
 \item Parthiban, Sowmya. PhD, Biostatistics (2022 -- Present).
 \item Fang, Xin Zhi (Cindy). PhD, Biostatistics (2022 -- Present).
@@ -1204,8 +1252,13 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
-\item {Wang}, Zhenzhen. Doctor of Philosophy, Biomedical Engineering (2025 -- Present).
-\item {Erdogdu}, Beril. Doctor of Philosophy, Biomedical Engineering (2025 -- Present). 
+\item \dn{Wald}, Elliot. Doctor of Philosophy, Washington State University (2025 -- Present). 
+\item \dn{Farney}, Katie. Doctor of Philosophy, CMDB (2025 --- Present).
+\item \dn{Dias}, Shaquielle. Doctor of Philosophy, Biomedical Engineering (2025).
+\item \dn{Stapleton} Orian. Doctor of Philosophy, Biomedical Engineering (2025).
+\item \dn{Ghio}, Caroline. Doctor of Philosophy, Biomedical Engineering (2025 -- Present).
+\item \dn{Wang}, Zhenzhen. Doctor of Philosophy, Biomedical Engineering (2025 -- Present).
+\item \dn{Erdogdu}, Beril. Doctor of Philosophy, Biomedical Engineering (2025 -- Present). 
 \item \dn{Laird}, Jason. Doctor of Philosophy, Environmental Health and Engineering (2025 -- Present). 
 \item \dn{van Ee}, Amy. Doctor of Philosophy, Biomedical Engineering (2025 -- Present). 
 \item \dn{Wang}, An. Doctor of Philosophy, Applied Mathematics and Statistics (2024 -- Present).
@@ -1255,6 +1308,8 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
+\item \dn{Mock}, Andrea. University of Basel, Basel, Switzerland (2025-2026). Co-advisors (Mohamed Bentires-Alj and Michael Stadler). External Expert (Stephanie Hicks). 
+\item \dn{Maan}, Hassaan. University of Toronto, Toronto, Canada (2025). Co-advisors (Kieran Campbell, Bo Wang). External Examiners (Stephanie Hicks). 
 \item \dn{Lee}, Stuart. Monash University, Melbourne, Australia (2020).  Co-advisors (Dianne Cook, Matt Ritchie, Paul Harrison). External Examiners (Stephanie Hicks and Levi Waldron). 
 
 \ee
@@ -1266,6 +1321,8 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
+\item \dn{Kim}, April. Doctor of Philosophy, Computer Science (2025). 
+\item \dn{Rutledge}, Catherine. Doctor of Philosophy, Biomedical Engineering (2025).
 \item \dn{Stapleton} Orian. Doctor of Philosophy, Biomedical Engineering (2025).
 \item \dn{Wang}, An. Doctor of Philosophy, Applied Mathematics and Statistics (2025).
 \item \dn{Hallinan}, Caleb. Doctor of Philosophy, Biomedical Engineering (2025).
@@ -1416,8 +1473,8 @@ $\blacktriangleright$ \url{https://www.edx.org/course/harvardx/harvardx-ph525x-d
 \mydot{0.3em}
 
 \item \href{https://docs.google.com/presentation/d/12JA73ApG0MWTPmb1e37RMOjS3oiA93cR41Sp6_LexFI/edit?usp=sharing}{Addressing Public Health Challenges with Statistics, Genomics \& Data Science}. 2020 Sept 18. Annual presentation on my research interests in ``Current Topics'' courses as part of my participation as a Preceptor in the Department of Biochemistry and Molecular Biology’s NCI-supported PhD training program. 
-% \item \href{https://docs.google.com/presentation/d/1hUyGSuNJB9XHlxiVX2U37UIEfy7AtkF4qfmlO9NEjsI/edit?usp=sharing}{Addressing Public Health Challenges with Statistics, Genomics \& Data Science}. 2020 Oct 12. Annual presentation on my research interests in ``Current Topics'' courses as part of my participation as a faculty member in the Department of Biostatistics at BSPH. 
 
+\ee
 
 % \mylift{-1.5em}
 
@@ -1649,8 +1706,6 @@ Source: NIH/NCI &  \\ % {\bf --- } \\
 \end{tabular}
 
 
-
-
 \ee
 
 \subsection*{ACADEMIC SERVICE}
@@ -1701,9 +1756,6 @@ Source: NIH/NCI &  \\ % {\bf --- } \\
 
 \ee
 
-
-\ee
-
 \subsection*{Whiting School of Engineering}
 
 \mydot{-0.1em}
@@ -1733,9 +1785,14 @@ Source: NIH/NCI &  \\ % {\bf --- } \\
 
 \myben{0.3em}
 
+
+
+\item 
+Invited session on ``Recent Methodological Advances in Spatial Omics in an AI-Augmented Era". \href{https://enar.org/meetings/spring2026/}{ENAR Conference}. 2026 Mar 15-18. Indianapolis, IN. USA. 
 \item EMBL-EBI Industry Programme workshop "Spatial profiling data analysis". 2025 Sept 24-25. Sanofi, Boston, MA. USA.
 \item Panelist, Discussion of K99/R00 awards for statistical genomics and genetics sponsored by the American Statistical Association Section of Statistics in Genomics and Genetics. 2025 Sept 22. Virtual. 
 \item 5th Translational Genomics and Epigenomics Symposium. 2025 Sept 18-19. Roswell Park Comprehensive Cancer. Buffalo, NY. USA.
+\item Friedrich Miescher Institute for Biomedical Research (FMI). 2025 Sept 11. Basel, Switzerland.
 \item BC2 Basel Computational Biology Conference. 2025 Sep 8-10. Basel, Switzerland. 
 \item 
 Invited session on ``Spatial mapping of tissues at single cell resolution: statistical models and computational paradigms". \href{https://www.sph.umn.edu/events-calendar/statgen-2025/}{STATGEN Conference}. 2025 21-23 May. Minneapolis, MN. USA.
@@ -1936,6 +1993,7 @@ from Bulk RNA-seq Data. American College of Neuropsychopharmacology. 2021 Dec 5-
 
 \myben{0.3em}
 
+\item Department of Statistics. Michigan State University. 2026 Feb 12. East Lansing, MI. USA.
 \item Pathology Grand Rounds at Weill Cornell Medical College. 2026 Jan 12. New York City, NY. USA. 
 \item Department of Genetics and Genomic Sciences. Icahn School of Medicine at Mount Sinai. 2025 Jun 4. New York City, NY. USA. 
 \item Inaugural Visiting Professor Seminar Series (nominated and selected by student body at HMS). Department of Biomedical Informatics. Harvard Medical School. 2024 Oct 3. Boston, MA. USA. 
@@ -2024,7 +2082,6 @@ Department of Biology, Brandeis University. 2017 Mar 22. Waltham, MA, USA.
 {\it \href{https://speakerdeck.com/stephaniehicks/why-statistics-matters-in-the-analysis-of-genomics-data}{Why Statistics Matters in the Analysis of Genomics Data}}. \\ 
 Department of Biology, Louisiana State University. 2015 Feb 11. Baton Rouge, LA, USA.
 
-\ee
 
 \ee
 
@@ -2032,7 +2089,6 @@ Department of Biology, Louisiana State University. 2015 Feb 11. Baton Rouge, LA,
 
 \myben{0.3em}
 
-\item EMBL-EBI Industry Programme workshop "Spatial profiling data analysis". 2025 Sept 24-25. Boston, MA. USA. 
 \item CZI Cell Science 2025 Annual Meeting. 2025. 2025 Apr. 
 \item CZI Single-cell Annual Meeting. 2023 Nov. 
 \item NHGRI-NIEHS Workshop on RNomics. 2022 24-26 May. 
