@@ -1,6 +1,7 @@
 Package,total
-STexampleData,7765
-TENxPBMCData,30572
-benchmarkfdrData2019,1614
-bodymapRat,3684
-spatialLIBD,9676
+STexampleData,10063
+TENxPBMCData,35650
+benchmarkfdrData2019,1875
+bodymapRat,4426
+humanHippocampus2024,946
+spatialLIBD,12931
