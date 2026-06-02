@@ -70,17 +70,17 @@ Part I
 
 %
 \begin{tabular}[t]{L{12.5cm}R{5cm}}
-\href{https://www.bme.jhu.edu}{Department of Biomedical Engineering} & email: \href{mailto:shicks19@jhu.edu}{shicks19@jhu.edu} \\
-\href{https://engineering.jhu.edu/}{Johns Hopkins Whiting School of Engineering} (WSE) & pronouns: she/her \\
-3400 N. Charles Street &  \\
-Baltimore, MD 21218 USA & 
+\href{https://publichealth.jhu.edu/departments/biostatistics}{Department of Biostatistics} & email: \href{mailto:shicks19@jhu.edu}{shicks19@jhu.edu} \\
+\href{https://publichealth.jhu.edu}{Johns Hopkins Bloomberg School of Public Health} (BSPH) & linkedin: \href{https://www.linkedin.com/in/hicksstephanie/}{@hicksstephanie} \\
+615 North Wolfe Street & google scholar: \href{https://scholar.google.com/citations?user=4T4qnL4AAAAJ&hl=en}{Stephanie Hicks} \\
+Baltimore, MD 21205 USA & 
 \end{tabular}
 
 \begin{tabular}[t]{L{12.5cm}R{5cm}}
-\href{https://publichealth.jhu.edu/departments/biostatistics}{Department of Biostatistics} &  website: \href{http://www.stephaniehicks.com}{stephaniehicks.com} \\
-\href{https://publichealth.jhu.edu}{Johns Hopkins Bloomberg School of Public Health} (BSPH) & twitter: \href{https://twitter.com/stephaniehicks}{@stephaniehicks}  \\
-615 North Wolfe Street  & github: stephaniehicks  \\ 
-Baltimore, MD 21205 USA & \\ 
+\href{https://www.bme.jhu.edu}{Department of Biomedical Engineering}  &  website: \href{http://www.stephaniehicks.com}{stephaniehicks.com} \\
+\href{https://engineering.jhu.edu/}{Johns Hopkins Whiting School of Engineering} (WSE) & twitter: \href{https://twitter.com/stephaniehicks}{@stephaniehicks}  \\
+3400 N. Charles Street & github: stephaniehicks  \\ 
+Baltimore, MD 21218 USA & \\ 
     
 \end{tabular}
 
@@ -144,6 +144,7 @@ B.S. / 2007 & Mathematics, Louisiana State University, Baton Rouge, LA, USA \\
 
 \mydot{-0.1em}
 
+\item Deputy Director of Educational Programs, Johns Hopkins Data Science and AI Institute (DSAI) (July 2026 -- present).
 \item Faculty member, \href{https://kavlijhu.org/about/kavli-ndi}{Kavli Neuroscience Discovery Institute} (Kavli NDI) (2025 -- present).
 \item Faculty Member, Johns Hopkins Data Science and AI Institute (DSAI) (2024 -- present).
 \item Faculty Member, \href{https://epigenome.jhu.edu/team/}{JHU BDP Epigenome Sciences Cluster} (2023 -- present).
@@ -200,6 +201,9 @@ Teaching Assistant, Department of Statistics, Rice University
 
 \mydot{-0.1em}
 
+\item Past-Chair, \href{https://community.amstat.org/sectiononstatisticsingenomicsandgenetics/home}{ASA Section on Statistics in Genomics and Genetics} (2029).
+\item Chair, \href{https://community.amstat.org/sectiononstatisticsingenomicsandgenetics/home}{ASA Section on Statistics in Genomics and Genetics} (2028).
+\item Chair-Elect, \href{https://community.amstat.org/sectiononstatisticsingenomicsandgenetics/home}{ASA Section on Statistics in Genomics and Genetics} (2027).
 \item Representative, Council of Sections for the \href{https://ww2.amstat.org/sections/officers.cfm?txtComm=SCOMP}{ASA Statistical Computing Section} (2023-2025).
 \item Member, rOpenSci Statistical Software Standards Board (2020 -- 2022). 
 \item Member, \href{https://www.bioconductor.org/about/code-of-conduct/}{Bioconductor Code of Conduct Committee} (2020 -- 2021).
@@ -350,6 +354,11 @@ Reviewer, Site visit to review the Eunice Kennedy Shriver National Institute of 
 
 \myben{0.4em}
 
+\item Ad hoc member, NIH/NIGMS MIRA (MRAA panel) (Jun 2026). 
+\item Ad hoc member, NIH/CSR (F31/F32) SEP (Apr 2026).
+\item Ad hoc member, NSF SCH Panel (Apr 2026).
+\item Ad hoc Member, Simons Foundation Autism Research Initiative (SFARI) Data Analysis 2025 Award (Dec 2025).
+\item Ad hoc Member, Aligning Science Across Parkinson’s (ASAP) Collaborative Research Network Technical Track (Dec 2025).
 \item Ad hoc member, NIH MCST / CSR MIRA panel (Nov 2025). 
 \item Ad hoc member, NIH MCST / CSR MIRA panel (Jul 2025). 
 \item Ad hoc member, NIH NCI (F99/K00) SEP (Mar 2025).
@@ -410,7 +419,7 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 
 \mydot{-0.1em}
 \item Top cited article in 2022-2023 in \textit{Statistics in Medicine}. (Differential expression of single-cell RNA-seq data using Tweedie models. PMID: 35656596). 
-\item Two papers in \href{https://academic.oup.com/journals/pages/Statistics_journals#755e3ccdcb791a41aee3}{top ten most cited} publications in the \textit{Biostatistics} journal  (2019).
+\item Two papers in \href{https://web.archive.org/web/20200830184121/https://academic.oup.com/journals/pages/Statistics_journals#755e3ccdcb791a41aee3}{top ten most cited} publications in the \textit{Biostatistics} journal (2019).
 \item Phi Beta Kappa Society (2007).
 
 \ee
@@ -419,6 +428,8 @@ Ad hoc member, National Science Foundation (NSF) statistical methods panel (Apr 
 
 \mydot{-0.1em}
 
+\item Outstanding Educator Award (Inaugural), Johns Hopkins Bloomberg School of Public Health (2026). 
+\item American Institute for Medical and Biological Engineering (AIMBE) Fellow (2026). 
 \item American Statistical Association (ASA) Fellow (2025). 
 \item \href{https://www.hsph.harvard.edu/biostatistics/myrto-award/}{Myrto Lefkopoulou Distinguished Lectureship}, Harvard T. H. Chan School of Public Health (2023).
 \item Johns Hopkins \href{https://research.jhu.edu/major-initiatives/catalyst-awards/2023-awardees}{Catalyst Award} (2023).
@@ -486,14 +497,28 @@ pubs <- read.csv("scripts/gscholar/pubs.csv")
 
 \myben{0.4em}
 
-\item 
-Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, {\bf Hicks SC}, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2025). Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus. \dg{Accepted in {\it Cell Reports}. Preprint available on {\it bioRxiv}: \url{https://doi.org/10.1101/2024.12.07.627362}}.
-
-\item
-Wang A, {\bf Hicks SC}, Geman D, Younes L. (2025). GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection. \dg{{\it Genome Research}. \dg{{\it Genome Research}. {\bf 35}(12):2744-2755}. PMID: 41224531 PMCID: PMC12667715}.
+\mine % Sept 11
+Ravichandran P$^{*,\dagger}$, Bach SV$^\dagger$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, {\bf Hicks SC}$^\ddagger$, Maynard K$^\ddagger$. (2026). Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens.
+\dg{Accepted in {\it Neuron}. doi: \url{https://doi.org/10.1101/2025.09.10.675374}}.
 
 \mine
-Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV$^{\dagger}$, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$, Costa VD$^{\ddagger}$. (2025). Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates. \dg{{\it Science Advances}. {\bf 11}(38):eadw1029}. PMID: 40961182. PMCID: PMC12442850
+Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, AlGrain HA, Divecha HR, Miller RA, Siewe FRM, Kwon SH, Del Rosario Alvia I, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, {\bf Hicks SC}$^\ddagger$, Martinowich K$^\ddagger$. (2026). Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain. \dg{Accepted in {\it Cell Reports}. doi: \url{https://doi.org/10.1101/2025.07.14.664821}}.
+
+\item 
+Goode TD, Bernstein MX, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer MD, Chung A, Duan X, Macosko E, {\bf Hicks SC}, Zweifel LS, Sahay A. (2026). A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding. \dg{{\it Neuron}. doi: \url{https://doi.org/10.1016/j.neuron.2026.01.025}}.
+
+\mine 
+Chen X$^*$, Totty MS$^*$, {\bf Hicks SC}. (2026). Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem [version 1; peer review: 2 approved with reservations]. \dg{{\it F1000Research}. {\bf 15}(33)}. doi: \url{https://doi.org/10.12688/f1000research.175162.1}.
+
+\item 
+Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, {\bf Hicks SC}, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2026). Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus. \dg{{\it Cell Reports}. {\bf 45}(2):2116877}. PMID: 41615800. PMCID: PMC13003713. 
+
+\item
+Wang A, {\bf Hicks SC}, Geman D, Younes L. (2025). GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection. \dg{{\it Genome Research}. {\bf 35}(12):2744-2755}. PMID: 41224531. PMCID: PMC12667715.
+\gs{$\Sexpr{pubs[pubs[,8] == "XvxMoLDsR5gC",5]}$}. 
+
+\mine
+Totty MS$^{*,\dagger}$, Cervera-Juanes R$^{\dagger}$, Bach SV$^{\dagger}$, Ameur LB, Valentine MR, Simons E, Romac MD, Trinh H, Henderson K, Rosario ID, Tippani M, Miller RA, Kleinman JE, Page SC, Saunders A, Hyde TM, Martinowich K$^{\ddagger}$, \textbf{Hicks SC}$^{\ddagger}$, Costa VD$^{\ddagger}$. (2025). Transcriptomic diversity of amygdalar subdivisions across humans and nonhuman primates. \dg{{\it Science Advances}. {\bf 11}(38):eadw1029}. PMID: 40961182. PMCID: PMC12442850.
 \gs{$\Sexpr{pubs[pubs[,8] == "WZBGuue-350C",5]}$}. 
 
 \mine
@@ -509,8 +534,8 @@ Luecken MD, Gigante S, Burkhardt DB, Cannoodt R, Strobl DC, Markov NS, Zappia L,
 \gs{$\Sexpr{pubs[pubs[,8] == "EYYDruWGBe4C",5]}$}. 
 
 \mine 
-D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2025). Quantifying the Alignment of a Data Analysis Between Analyst and Audience. \dg{{\it Journal of Data Science}. 1-15. doi:10.6339/25-JDS1189}. 
-\gs{$\Sexpr{pubs[pubs[,8] == "4fGpz3EwCPoC",5]}$}. 
+D'Agostino McGowan L, Peng RD, {\bf Hicks SC}. (2025). Quantifying the Alignment of a Data Analysis Between Analyst and Audience. \dg{{\it Journal of Data Science}. {\bf 24}(1):239-253}. 
+\gs{$\Sexpr{pubs[pubs[,8] == "4fGpz3EwCPoC",5]}$}.
 
 \item 
 Totty, MS$^{*}$, {\bf Hicks SC}, Guo, B$^{*}$. (2025). SpotSweeper: spatially-aware quality control for spatial transcriptomics. \dg{{\it Nature Methods}. {\bf 22}(7):1520-1530}. PMID: 40481362. PMCID: PMC12258134. 
@@ -600,7 +625,7 @@ Maden SK$^{*}$, Kwon SH, Huuki-Myers LA, Collado-Torres L, \textbf{Hicks SC}$^{\
 Hippen AA, Omran DK, Weber LM$^{*}$, Jung E, Drapkin R, Doherty JA, {\bf Hicks SC}, Greene CS. (2023). Performance of computational algorithms to deconvolve heterogeneous bulk tumor tissue depends on experimental factors. \dg{{\it Genome Biology}. {\bf 24}:239. PMID: 37864274. PMCID: PMC10588129}.
 \gs{$\Sexpr{pubs[pubs[,8] == "vDijr-p_gm4C",5]}$}.
 \item 
-Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2023). VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data. \dg{{\it Biological Imaging}. {\bf 3}:e23. 38510173. PMCID: PMC10951916}. 
+Tippani M, Divecha HR, Catallini JL, Weber LM$^{*}$, Spangler A, Jaffe AE, {\bf Hicks SC}, Martinowich K, Collado-Torres L, Page SC$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2023). VistoSeg: processing utilities for high-resolution Visium/Visium-IF images for spatial transcriptomics data. \dg{{\it Biological Imaging}. {\bf 3}:e23. PMID: 38510173. PMCID: PMC10951916}. 
 \gs{$\Sexpr{pubs[pubs[,8] == "uWiczbcajpAC",5]}$}.
 \mine % Jul 12 
 Hou W$^{*}$, Ji Z, Chen Z, Wherry EJ, {\bf Hicks SC}$^{\ddagger}$, Ji H$^{\ddagger}$. (2023). A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. \dg{{\it Nature Communications}. {\bf 14}:7286. PMID: 37949861. PMCID: PMC10638410}. 
@@ -721,6 +746,7 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 
 \mycon{0.4em}
 
+\item {\bf Hicks SC}, Korthauer K, Shen X, Yan J, Zhang HH. (2026). Statistical Aspects of Trustworthy Machine Learning. \dg{{\it Journal of Data Science.}. \textbf{24}(1):1-3}.
 \item Wrobel J, Hector EC, Crawford L, D’Agostino McGowan L, da Silva N, Goldsmith J, {\bf Hicks S}, Kane M, Lee Y, Mayrink V, Paciorek CJ, Usher T, Wolfson J. (2024). Partnering with Authors to Enhance Reproducibility at JASA. \dg{{\it Journal of the American Statistical Association}. \textbf{119}(546):795–797}.
 \gs{$\Sexpr{pubs[pubs[,8] == "hMsQuOkrut0C",5]}$}.
 \mine {\bf Hicks SC}. (2017). Greater Data Science Ahead!: A discussion of 50 Years of Data Science by David Donoho. \dg{ {\it Journal of Computational and Graphical Statistics} {\bf 26}(4):770–771.} \gs{$\Sexpr{pubs[pubs[,8] == "a0OBvERweLwC",5]}$}.
@@ -734,6 +760,21 @@ Korthauer K$^{\dagger}$, Kimes PK$^{\dagger}$, Duvallet C, Reyes A, Subramanian 
 \subsection*{Pre-print Articles}
 
 \mycon{0.4em}
+
+\mine % May 15
+He JH$^{*}$, Thompson JR$^{*}$, Totty M$^{*}$, {\bf Hicks SC}. (2026). SpatialArtifacts: a computational framework for tissue artifact detection in spatial transcriptomics data. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.64898/2026.05.15.725260}}.
+
+\mine % Feb 17
+Kwon SH$^\dagger$, Boyi Guo$^{*,\dagger}$, Fang C$^{*}$, Tippani M, Bach SV, Miller RA, Maguire SE, Iatrou A, Pertea G, Eagles NJ, Valentine MR, Oh S, Jajoo A, Balakundi V,  Du Y, Nguyen AB, Zhang R, Kaipa UM, Divecha HR, Lobana JS, Kleinman JE, Han S, Daskalakis NP, Hyde TM, Collado-Torres L, Page SC, Maynard KR$^\ddagger$, {\bf Hicks SC}$^\ddagger$, Martinowich K$^\ddagger$. (2026). Mapping spatially organized molecular and genetic signatures of schizophrenia across multiple scales in human prefrontal cortex. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.64898/2026.02.16.706214}}.
+
+\item % Jan 19
+Ivich A, Grieshober L, Davidson NR, Akatsu GY, Peres LC, {\bf Hicks SC}, Marks JR, Schildkraut JM, Doherty JA$^\ddagger$, Greene CS$^\ddagger$. (2026). Deconvolved tumor adipocyte proportions and high grade serous ovarian carcinoma survival. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.64898/2026.01.14.699527}}.
+
+\mine % Dec 16
+Fang C$^*$, Montgomery KD, Maguire SE, Ramnauth AD, Guo B$^*$, Miller R, Kleinmann JE, Hyde TM, Martinowich K$^\ddagger$, Maynard KR$^\ddagger$, Page SC$^\ddagger$, {\bf Hicks SC}$^\ddagger$. (2025). spaTransfer: transfer learning for single-cell and spatial transcriptomics data using non-negative matrix factorization. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.64898/2025.12.12.694021}}.
+
+\mine % Dec 12
+Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, {\bf Hicks SC}. (2025). BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.64898/2025.12.09.693192}}.
 
 \mine % Dec 2 
 Panwar P, Guo B$^*$, Zhou H$^*$, {\bf Hicks SC}$^\ddagger$, Ghazanfar S$^\ddagger$. (2025). ClustSIGNAL identifies cell types and subtypes using an adaptive smoothing approach for scalable spatial clustering. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.64898/2025.11.30.691081}}.
@@ -750,18 +791,8 @@ Mulvey B$^\dagger$, Divecha HR$^\dagger$, Tippani M, Bach SV, Bharadwaj R, Rosar
 \mine % Sept 15 
 Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2025). Characterizing intra- and inter-tumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2025.09.15.676244}}.
 
-\mine % Sept 11
-Ravichandran P$^{*,\dagger}$, Bach SV$^\dagger$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, {\bf Hicks SC}$^\ddagger$, Maynard K$^\ddagger$. (2025). Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens.
-\dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2025.09.10.675374}}.
-
 \item % Sept 10
 Johnson CM, Li W$^*$, Solhjoo S, Madan V, Ali I, Nash K, {\bf Hicks SC}, Timp W. (2025). Single-cell RNA sequencing identifies subtypes of cancer-associated fibroblasts in early and late stages of mycosis fungoides. \dg{{\it medRXiv}. doi: \url{https://doi.org/10.1101/2025.09.07.25335167}}.
-
-\item % Jul 25
-Goode TD, Bernstein M, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer-Cheren MD, Chung A, Duan X, Macosko E, {\bf Hicks SC}, Zweifel L, Sahay A. (2025). A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2024.08.02.606427}}.
-
-\mine % Jul 17 
-Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, Divecha HR, Miller RA, Kwon SH, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, {\bf Hicks SC}$^\ddagger$, Martinowich K$^\ddagger$. (2025). Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain. \dg{{\it bioRxiv}. doi: \url{https://doi.org/10.1101/2025.07.14.664821}}.
 
 \mine % Sept 17
 Peng RD, {\bf Hicks SC}. (2023). Modeling Data Analytic Iteration With Probabilistic Outcome Sets. \dg{{\it arXiv}. doi: \url{ https://arxiv.org/abs/2309.08494}}.
@@ -883,8 +914,9 @@ Presentation about the Open Case Studies project at the \href{https://americanhe
 
 \myben{0.4em}
 
-\item ``Stephanie Hicks named fellow of the American Statistical Association
-May 6, 2025''. 2025 May 06. [\href{https://www.bme.jhu.edu/news-events/news/stephanie-hicks-named-fellow-of-the-american-statistical-association/}{link}]. 
+\item ``Hicks, Spangler named to AIMBE College of Fellows''. 2026 Apr 13. [\href{https://www.bme.jhu.edu/news-events/news/two-johns-hopkins-bme-faculty-named-to-aimbe-college-of-fellow}{link}]. 
+
+\item ``Stephanie Hicks named fellow of the American Statistical Association''. 2025 May 06. [\href{https://www.bme.jhu.edu/news-events/news/stephanie-hicks-named-fellow-of-the-american-statistical-association/}{link}]. 
 
 \item ``Atlases galore: where to next?''. Marx V. {\it Nature Methods}. 2024 Dec 06. [\href{https://www.nature.com/articles/s41592-024-02536-8}{link}].
 
@@ -927,19 +959,31 @@ data_pkg <- read.csv("scripts/bioconductor/data_pkg.csv")
 
 \myben{0.4em}
 
+\item 
+{\bf SpatialArtifacts} $\blacktriangleright$
+R/Bioconductor package to identify tissue artifacts (such as dry edge effects) based on morphological image processing methods. Preprint in \href{https://doi.org/10.64898/2026.05.15.725260}{He et al. (2026)}. [\href{https://bioconductor.org/packages/SpatialArtifacts}{Available on Bioconductor}].
+
+
+
+\item 
+{\bf BatchSVG} $\blacktriangleright$
+R/Bioconductor package to identify features (such as spatially variable genes) that are associated with a covariate, such as a batch effect. Preprint in \href{https://doi.org/10.64898/2025.12.09.693192}{Shah and Hou et al. (2025)}. [\href{https://bioconductor.org/packages/BatchSVG}{Available on Bioconductor}].
 
 \item 
 {\bf spoon} $\blacktriangleright$
-Methodology and R/Bioconductor package that addresses the mean-variance relationship in spatially resolved transcriptomics data. Preprint in \href{https://doi.org/10.1101/2024.11.04.621867}{Shah et al. (2025)}.  [\href{https://bioconductor.org/packages/spoon}{Available on Bioconductor}].
+Methodology and R/Bioconductor package that addresses the mean-variance relationship in spatially resolved transcriptomics data. Published in \href{https://doi.org/10.1093/biostatistics/kxaf012}{Shah et al. (2025)}. [\href{https://bioconductor.org/packages/spoon}{Available on Bioconductor}].
 \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "spoon",2]}$}.
+
 \item 
 {\bf SpotSweeper} $\blacktriangleright$
-Methodology and R/Bioconductor package that provides spatially-aware quality control metrics for spatial transcriptomics data. Preprint in \href{https://doi.org/10.1038/s41592-025-02713-3}{Totty et al. (2025)}. [\href{https://bioconductor.org/packages/SpotSweeper}{Available on Bioconductor}].
+Methodology and R/Bioconductor package that provides spatially-aware quality control metrics for spatial transcriptomics data. Published in \href{https://doi.org/10.1038/s41592-025-02713-3}{Totty et al. (2025)}. [\href{https://bioconductor.org/packages/SpotSweeper}{Available on Bioconductor}].
 \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "SpotSweeper",2]}$}.
+
 \item 
 {\bf HuBMAPR} $\blacktriangleright$
 R client to programmatically interface with Human BioMolecular Atlas Program (HuBMAP) to discover and retrieve HuBMAP data more easily and quickly. Published in \href{https://doi.org/10.1093/bioadv/vbaf048}{Hou et al. (2025)}.  [\href{https://bioconductor.org/packages/HuBMAPR}{Available on Bioconductor}].
 \dl{$\Sexpr{soft_pkg[soft_pkg$Package == "HuBMAPR",2]}$}.
+
 \item 
 {\bf escheR} $\blacktriangleright$
 R package built off of ggplot2 and the Gestalt principles to visualize multi-dimensional data in the 2D space (e.g. embedding or spatial visualizations). Published in \href{https://doi.org/10.1093/bioadv/vbad179}{Guo et al. (2023)}. [\href{https://bioconductor.org/packages/escheR}{Available on Bioconductor}]. 
@@ -1013,7 +1057,7 @@ R/Bioconductor data package that contains a set of \texttt{SingleCellExperiment}
 \ee
 
 
-\subsubsection*{R/CRAN software packages}
+\subsubsection*{CRAN software packages}
 
 \myben{0.4em}
 
@@ -1028,6 +1072,7 @@ R/CRAN package provides functions to access and download data from the \href{htt
 \item 
 {\bf glmpca} $\blacktriangleright$
 R/CRAN package that implements a generalized version of principal components analysis (GLM-PCA) for dimension reduction of non-normally distributed data such as counts or binary matrices. The methodology and software was developed in collaboration with F. William Townes, Martin Aryee and Rafael Irizarry at Dana-Farber Cancer Institute. Published in \href{https://doi.org/10.1186/s13059-019-1861-6}{Townes et al. (2019)}. [\href{https://cran.r-project.org/web/packages/glmpca}{glmpca is available on CRAN}] and [\href{https://bioconductor.org/packages/release/bioc/html/scry.html}{scry is available on Bioconductor}].
+
 \ee
 
 
@@ -1035,12 +1080,11 @@ R/CRAN package that implements a generalized version of principal components ana
 
 \myben{0.4em}
 
-\item {\bf visiumhd-utls}
+\item {\bf PyPI/visiumhd-utls}
 (\href{https://pypi.org/project/visiumhd-utils}{https://pypi.org/project/visiumhd-utils}).
 
-\item {\bf spotsweeper}
+\item {\bf PyPI/spotsweeper}
 (\href{https://pypi.org/project/spotsweeper}{https://pypi.org/project/spotsweeper}).
-
 
 \item 
 {\bf Python/samui} $\blacktriangleright$
@@ -1050,6 +1094,20 @@ Published in \href{https://doi.org/10.1017/S2633903X2300017X}{Sriworarat et al. 
 \item 
 {\bf Python/minicore} $\blacktriangleright$
 Python package that provides fast, generic library for constructing and clustering coresets on graphs, in metric spaces and under non-metric dissimilarity measures for count data and probability distributions. It includes methods for constant-factor and bicriteria approximation solutions, as well as coreset sampling algorithms. Published in \href{https://pubmed.ncbi.nlm.nih.gov/34778889}{Baker et al. (2021)}. [\href{https://github.com/dnbaker/minicore}{Available on GitHub}].
+
+\ee
+
+\subsubsection*{Github software packages}
+
+\myben{0.4em}
+
+\item
+{\bf R/spaTransfer} $\blacktriangleright$
+Transfer learning for single-cell and spatial transcriptomics data using non-negative matrix factorization. Preprint in \href{https://doi.org/10.64898/2025.12.12.694021}{Fang et al. (2025)}. [\href{https://github.com/cindyfang70/spaTransfer}{Available on GitHub}].
+
+\item
+{\bf R/spatialMNN} $\blacktriangleright$
+Spatially aware unsupervised clustering for spatial omics data. Published in \href{https://doi.org/10.1093/bioinformatics/btaf403}{Zhou et al. (2025)}. [\href{https://github.com/Pixel-Dream/spatialMNN}{Available on GitHub}].
 
 \item
 {\bf R/quantroSim} $\blacktriangleright$
@@ -1139,7 +1197,7 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 \item Columbus, Alyssa. Doctor of Philosophy, Biostatistics (2023 -- Present).
 \item Fang, Xin Zhi (Cindy). Doctor of Philosophy, Biostatistics (2022 -- Present). 
 \item Parthiban, Sowmya. Doctor of Philosophy, Biostatistics (2022 -- Present). 
-\item Shah, Kinnary. Doctor of Philosophy, Biostatistics (2021 -- Present). 
+\item Shah, Kinnary. Doctor of Philosophy, Biostatistics (2021 -- 2026). 
 \item Nelson, Erik*. Doctor of Philosophy, Cellular and Molecular Medicine (2020 -- 2024).
 % \begin{enumerate}[(a)] 
 % \item Submitted a NIH/NIDA \href{https://researchtraining.nih.gov/programs/fellowships/F31}{F31 Ruth L. Kirschstein Predoctoral Individual National Research Service Award} (2021).
@@ -1157,8 +1215,9 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
-\item Li, Shengyi. ScM, Biostatistics (2025 -- Present).
-\item Gui, Guan. ScM, Biostatistics (2024 -- Present). Awarded the Kocherlakota award for best performance by a master’s student on the Biostatistics first-year comprehensive examination. 
+\item Chen, Tingjun. ScM, Biostatistics (2025 -- Present).
+\item Li, Shengyi. ScM, Biostatistics (2025 -- 2026).
+\item Gui, Guan. ScM, Biostatistics (2024 -- 2026). Awarded the Kocherlakota award for best performance by a master’s student on the Biostatistics first-year comprehensive examination. 
 \item Luan, Shu. ScM, Biostatistics (2024 -- 2025).
 \item Hou, Christine. ScM, Biostatistics (2024 -- 2025).
 \item Li, Weishan. ScM, Biostatistics (2022 -- 2024).
@@ -1180,7 +1239,7 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
-\item He, Harriet (Jiali). Masters (MSE), Biomedical Engineering (2025 -- Present). 
+\item He, Harriet (Jiali). Masters (MSE), Biomedical Engineering (2025 -- 2026). 
 \item Parthiban, Sowmya. Masters (MSE), Biomedical Engineering (2021 -- 2022).
 
 \ee
@@ -1219,7 +1278,7 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 \item Yao, Jianing. PhD, Biostatistics (2023 -- Present).
 \item Parthiban, Sowmya. PhD, Biostatistics (2022 -- Present).
 \item Fang, Xin Zhi (Cindy). PhD, Biostatistics (2022 -- Present).
-\item Shah, Kinnary. PhD, Biostatistics (2021 -- Present).
+\item Shah, Kinnary. PhD, Biostatistics (2021 -- 2026).
 \item Zhang, Jingning. PhD, Biostatistics (2018 -- 2019).
 
 \ee
@@ -1298,17 +1357,17 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 \item \dn{Dias}, Shaquielle. Doctor of Philosophy, Biomedical Engineering (2025 -- Present).
 \item \dn{Stapleton} Orian. Doctor of Philosophy, Biomedical Engineering (2025 -- Present).
 \item \dn{Ghio}, Caroline. Doctor of Philosophy, Biomedical Engineering (2025 -- Present).
-\item \dn{Wang}, Zhenzhen. Doctor of Philosophy, Biomedical Engineering (2025 -- Present). Chair.
-\item \dn{Erdogdu}, Beril. Doctor of Philosophy, Biomedical Engineering (2025 -- Present). 
-\item \dn{Laird}, Jason. Doctor of Philosophy, Environmental Health and Engineering (2025 -- Present). 
-\item \dn{van Ee}, Amy. Doctor of Philosophy, Biomedical Engineering (2025 -- Present). 
+\item \dn{Wang}, Zhenzhen. Doctor of Philosophy, Biomedical Engineering (2025 -- 2026). Chair.
+\item \dn{Erdogdu}, Beril. Doctor of Philosophy, Biomedical Engineering (2025 -- 2026). 
+\item \dn{Laird}, Jason. Doctor of Philosophy, Environmental Health and Engineering (2025 -- 2026). Chair. 
+\item \dn{van Ee}, Amy. Doctor of Philosophy, Biomedical Engineering (2025 -- 2026). 
 \item \dn{Wang}, An. Doctor of Philosophy, Applied Mathematics and Statistics (2024 -- Present).
 \item \dn{Ottaway}, Caitlin. Doctor of Philosophy, Washington State University (2024 -- Present). 
-\item \dn{Clifton}, Kalen. Doctor of Philosophy, Biomedical Engineering (2024 -- Present).
+\item \dn{Clifton}, Kalen. Doctor of Philosophy, Biomedical Engineering (2024 -- 2026).
 \item \dn{Ravichandran}, Prashanthi. Doctor of Philosophy, Biomedical Engineering (2024 -- 2026). Chair.
-\item Salisbury, Aaron. Doctor of Philosophy, Neuroscience (2023 -- Present). 
+\item Salisbury, Aaron. Doctor of Philosophy, Neuroscience (2023 -- 2026). 
 \item \dn{Giles}, Hunter. Doctor of Philosophy, Human Genetics (2023 -- Present). Chair.
-\item \dn{Duque}, Carolina. MD/PhD Candidate,  Johns Hopkins University SOM (2023 -- Present).
+\item \dn{Duque}, Carolina. MD/PhD Candidate,  Johns Hopkins University SOM (2023 -- 2026).
 \item \dn{Jangi}, Radhika. Doctor of Philosophy, CMDB (2022 -- Present).
 \item \dn{Atta}, Lyla. Doctor of Philosophy, Biomedical Engineering (2022 -- 2025). Chair.
 \item \dn{Popp}, Joshua. Doctor of Philosophy, Biomedical Engineering (2022 -- 2024).
@@ -1363,6 +1422,11 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \myben{-0.1em}
 
+\item \dn{Xian}, Julie. Doctor of Philosophy, Biomedical Engineering (2026). 
+\item \dn{Landeros}, Kevin Meza. Doctor of Philosophy, Biomedical Engineering (2026). 
+\item \dn{Rudnick}, Zoe. Doctor of Philosophy, Biomedical Engineering (2026).
+\item \dn{Sweeten}, Alex. Doctor of Philosophy, Computer Science (2026). 
+\item \dn{Zavras}, Jason. Doctor of Philosophy, Biomedical Engineering (2026).
 \item \dn{Ji}, Hyun Joo (Hayden). Doctor of Philosophy, Biomedical Engineering (2026). Alternate member.
 \item \dn{Kim}, April. Doctor of Philosophy, Computer Science (2025). 
 \item \dn{Rutledge}, Catherine. Doctor of Philosophy, Biomedical Engineering (2025).
@@ -1402,18 +1466,8 @@ Awarded the \href{https://researchsymbionts.org}{Early Career Research Symbiont 
 
 \ee
 
-% \mylift{-0.5em}
-% \subsection*{Classroom Instruction - Principal Instructor}
-% \mydot{-0.1em}
-
-% \item 140.615 Statistics for Laboratory Scientists I (2007 -- 2018).
-% \item 140.616 Statistics for Laboratory Scientists II (2002, 2007 -- 2018).
-% \ee
-
 \mylift{-1.5em}
 \subsection*{Classroom Instruction}
-
-### 
 
 \subsubsection*{Johns Hopkins Whiting School of Engineering}
 
@@ -1558,7 +1612,7 @@ $\blacktriangleright$
 \smallskip
 
 % \subsection*{Funding Summary}
-% \begin{itemize}
+% \begin{itemize}[nosep]
 %     \item 19 total grants (11 active): 7 PI; 4 Co-PI; 8 Co-I  
 %     \item Total amount awarded to Hicks Lab: \$6.8M
 % \end{itemize}
@@ -1567,6 +1621,15 @@ $\blacktriangleright$
 \subsection*{Ongoing Research Support}
 
 \mydot{0.3em}
+
+\item[$\bullet$]
+\begin{tabular}[t]{L{15cm}R{3cm}}
+\textbf{R01 DA065276} & 03/2026 -- 02/2029\\
+Source: NIH/NIDA  &  \\ % {\bf \$} \\
+\dn{Role:} MPI (Contact PI: Keri Martinowich) &  \\
+{\bf Cellular resolution spatio-molecular expression across the anterior-posterior axis of the nucleus accumbens in the human brain} & 
+\end{tabular}
+
 
 \item[$\bullet$]
 \begin{tabular}[t]{L{15cm}R{3cm}}
@@ -1592,23 +1655,26 @@ Source: Johns Hopkins University Provost &  \\ %{\bf \$75,000} \\
 {\bf Deep contrastive learning to predict domains for spatial transcriptomics data with multiple samples}  & 
 \end{tabular}
 
-
-\item[$\bullet$]
-\begin{tabular}[t]{L{15cm}R{3cm}}
-\textbf{2023-323340} & 05/2023 - 10/2025 \\
-Source: Silicon Valley Community Foundation &  \\ %{\bf \$199,767} \\
-\dn{Role:} Contact Co-PI (Co-PI: Shila Ghazanfar) &  \\
-{\bf Multi-sample clustering for large atlas-scale spatial data} & 
-\end{tabular}
-
-
-
 \item
 \begin{tabular}[t]{L{15cm}R{3cm}}
 \textbf{R01 DA053581} & 09/2021 -- 07/2026\\
 Source: NIH/NIDA &  \\ % {\bf \$460,891} \\
 \dn{Role:} Co-I (PI: Keri Martinowich) &  \\
 {\bf Registration of spatial gene expression in key nodes of reward-related circuitry in the human brain}  & 
+\end{tabular}
+
+\ee
+
+\subsection*{Completed Research Support}
+
+\mydot{0.3em}
+
+\item[$\bullet$]
+\begin{tabular}[t]{L{15cm}R{3cm}}
+\textbf{2023-323340} & 05/2023 - 04/2026 \\
+Source: Silicon Valley Community Foundation &  \\ %{\bf \$199,767} \\
+\dn{Role:} Contact Co-PI (Co-PI: Shila Ghazanfar) &  \\
+{\bf Multi-sample clustering for large atlas-scale spatial data} & 
 \end{tabular}
 
 \item
@@ -1620,19 +1686,6 @@ Source: NIH/NIMH &  \\ %{\bf \$844,856} \\
 \end{tabular}
 
 
-\item
-\begin{tabular}[t]{L{15cm}R{3cm}}
-\textbf{R01 CA237170} & 04/2019 -- 02/2026\\
-Source: NIH/NCI  & \\ % {\bf \$384,281} \\
-\dn{Role:} Co-I (Contact PI: Casey Greene, Jennifer Doherty) &  \\
-{\bf Characterization of high-grade serous ovarian cancer subtypes via single-cell profiling} & 
-\end{tabular}
-
-\ee
-
-\subsection*{Completed Research Support}
-
-\mydot{0.3em}
 
 \item[$\bullet$]
 \begin{tabular}[t]{L{15cm}R{3cm}}
@@ -1666,15 +1719,6 @@ Source: NIH/NIMH &  \\ %{\bf \$102,023} \\
 {\bf Spatial registration of gene expression in the human brain}  & 
 \end{tabular}
 
-\item[$\bullet$]
-\begin{tabular}[t]{L{15cm}R{3cm}}
-\textbf{356-01/473-01} & 07/2019 - 12/2023 \\
-Source: Chan Zuckerberg Initiative & \\ % {\bf \$404,902} \\
-\dn{Role:} Co-PI (Contact PI: Martin Morgan) &  \\
-{\bf Enabling Analysis and Comprehension of Human Cell Atlas through R / Bioconductor} & 
-\end{tabular}
-
-
 \item
 \begin{tabular}[t]{L{15cm}R{3cm}}
 \textbf{R01 DA055823} & 07/2022 -- 08/2023\\
@@ -1705,6 +1749,22 @@ Source: NIH/NIDD  & \\ % {\bf \$52,979} \\
 Source: Bloomberg Philanthropies  & \\ % {\bf \$250,000} \\
 \dn{Role:} PI &  \\
 {\bf Hands-On Data Science Education for Thousands of Students in Tackling Public Health Challenges} & 
+\end{tabular}
+
+\item[$\bullet$]
+\begin{tabular}[t]{L{15cm}R{3cm}}
+\textbf{356-01/473-01} & 07/2019 - 12/2023 \\
+Source: Chan Zuckerberg Initiative & \\ % {\bf \$404,902} \\
+\dn{Role:} Co-PI (Contact PI: Martin Morgan) &  \\
+{\bf Enabling Analysis and Comprehension of Human Cell Atlas through R / Bioconductor} & 
+\end{tabular}
+
+\item
+\begin{tabular}[t]{L{15cm}R{3cm}}
+\textbf{R01 CA237170} & 04/2019 -- 02/2026\\
+Source: NIH/NCI  & \\ % {\bf \$384,281} \\
+\dn{Role:} Co-I (Contact PI: Casey Greene, Jennifer Doherty) &  \\
+{\bf Characterization of high-grade serous ovarian cancer subtypes via single-cell profiling} & 
 \end{tabular}
 
 \item[$\bullet$]
@@ -1808,6 +1868,7 @@ Source: NIH/NCI &  \\ % {\bf --- } \\
 
 \mydot{-0.1em}
 
+\item Chair, DSAI Postdoctoral Fellowship Program Search Committee (2026).
 \item Reviewer, DSAI Postdoctoral Fellowship Program (2025).
 \item Member, Mount Washington Transportation committee, Data Science and AI Institute (2023--Present).
 \item Member, Diversity and Equity Committee, Data Science and AI Institute (2023--Present).
@@ -1834,7 +1895,7 @@ Source: NIH/NCI &  \\ % {\bf --- } \\
 \myben{0.3em}
 
 
-\item Invited session on ``Advancing computational approaches for long-read RNA-sequencing: from methods to applications". Joint Statistical Meetings. 2025 Aug 1-6. Boston, MA. USA.
+\item Invited session on ``Advancing computational approaches for long-read RNA-sequencing: from methods to applications". Joint Statistical Meetings. 2026 Aug 1-6. Boston, MA. USA.
 
 \item Invited session on ``Recent Methodological Advances in Spatial Omics in an AI-Augmented Era". ENAR Conference. 2026 Mar 15-18. Indianapolis, IN. USA. 
 
@@ -1973,7 +2034,7 @@ Bioinformatics Meeting, Division of Immunology, Harvard Medical School. 2014 Sep
 \href{http://bioc2019.bioconductor.org}{Bioconductor Conference}. 2019 Jul 24-27. New York City, NY, USA.
 \item 
 {\it Open challenges in Single-Cell RNA-Sequencing}. \\
-\href{https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215111}{Joint Statistical Meeings}. 2018 Jul 29-Aug 2. Vancouver, CA.
+\href{https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215111}{Joint Statistical Meeings}. 2018 Jul 29-Aug 2. Vancouver, BC. Canada.
 \item 
 {\it Missing Data and Technical Variability in Single-Cell RNA-Sequencing Experiments}. \\
 \href{https://ww2.amstat.org/meetings/jsm/2017/}{Joint Statistical Meetings}. 2017 Jul 29-Aug 3. Baltimore, MD, USA.
@@ -2015,6 +2076,7 @@ AACR 103rd Annual Meeting. 2012 Mar 31-Apr 4. Chicago, IL.
 \myben{0.3em}
 
 \item Totty, MS, {\bf Hicks SC}, Guo, B. (2024). SpotSweeper: spatially-aware quality control for spatial transcriptomics. CSHL Biological Data Science. 2024 Nov 13-16. 
+
 \item Popescu A, Ford K, Muheim C, Medina E, Schoch H, Singletary K, \textbf{Hicks S}, Risso D, Peixoto L. Transcriptional dynamics of sleep deprivation and subsequent recovery sleep in the murine cortex. RegSys COSI. ISMB 2022. 
 \item Huuki-Myers LA, Maynard KM, {\bf Hicks SC}, Zandi P, Kleinman JE, Hyde TM, Goes FS, Collado-Torres L. Deconvolving Cell Type Proportions in Human Postmortem Brain Tissue
 from Bulk RNA-seq Data. American College of Neuropsychopharmacology. 2021 Dec 5-8. San Juan Convention Center, San Juan, PR.
@@ -2042,8 +2104,10 @@ from Bulk RNA-seq Data. American College of Neuropsychopharmacology. 2021 Dec 5-
 
 \myben{0.3em}
 
+\item Department of Statistics. University of British Columbia. 2026 Jun 8. Vancouver, BC. Canada. 
 \item UCLA Computational and Systems Biology Seminar Series. 2026 Apr 20. Los Angeles, CA. USA.
 \item Department of Statistics. Michigan State University. 2026 Feb 12. East Lansing, MI. USA.
+\item Department of Genetic Medicine. Johns Hopkins University. 2026 Feb 4. Baltimore, MD. USA. 
 \item Pathology Grand Rounds at Weill Cornell Medical College. 2026 Jan 12. New York City, NY. USA. 
 \item Department of Genetics and Genomic Sciences. Icahn School of Medicine at Mount Sinai. 2025 Jun 4. New York City, NY. USA. 
 \item Inaugural Visiting Professor Seminar Series (nominated and selected by student body at HMS). Department of Biomedical Informatics. Harvard Medical School. 2024 Oct 3. Boston, MA. USA. 
