@@ -11,9 +11,14 @@ software_pkgs <- pkgs %>%
                         "mbkmeans", "scry", "spqn", "bluster",
                         "SpatialExperiment","miQC", "TREG", 
                         "nnSVG", "escheR", "spoon", 
-                        "SpotSweeper", "HuBMAPR")) %>% 
+                        "SpotSweeper", "HuBMAPR", "BatchSVG", 
+                        "SpatialArtifacts")) %>% 
   group_by(Package) %>% 
   summarize(total=sum(Nb_of_distinct_IPs))
+# > date()
+# [1] "Mon Jun  1 21:36:05 2026"
+# > sum(software_pkgs$total)
+# [1] 756115
 readr::write_csv(software_pkgs, 
                  file = here("scripts", "bioconductor", "software_pkg.csv"))
 
