@@ -514,27 +514,33 @@ Kim J, {\bf Hicks SC}, Maynard K, Pavlidis P$\ddagger$, Ciernia AV$\ddagger$. (2
 \item
 Mulvey B$^\dagger$, Divecha HR$^\dagger$, Tippani M, Bach SV, Bharadwaj R, Rosario ID,  Maguire SE, Miller RA, Salisbury AJ, Chandra A, Oster BA, Montgomery KD, Kwon SH, Algrain HA, Papariello AR, Huuki-Myers LA, Kleinman JE, Collado-Torres L, Hyde TM, Han S, {\bf Hicks SC}, Weinberger DR$^\ddagger$, Page SC, Maynard KR, Martinowich K$^\ddagger$. (2026). Molecular programs in human locus coeruleus link APOE and neuromelanin to Alzheimer’s vulnerability.  \dg{{\it Acta Neuropathologica}. {\bf 152}(32)}. doi: \url{https://doi.org/10.1007/s00401-026-03073-8}.
 
-\mine
-Ravichandran P$^{*,\dagger}$, Bach SV$^\dagger$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Grain HA, Maguire SE, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, {\bf Hicks SC}$^\ddagger$, Maynard K$^\ddagger$. (2026). Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens.
-\dg{Accepted in {\it Neuron}. doi: \url{https://doi.org/10.1016/j.neuron.2026.06.002}}.
-
 \mine 
 Chen X$^*$, Totty MS$^*$, {\bf Hicks SC}. (2026). Spotsweeper-py: spatially-aware quality control metrics for spatial omics data in the Python ecosystem [version 1; peer review: 2 approved with reservations]. \dg{{\it F1000Research}. {\bf 15}(33)}. doi: \url{https://doi.org/10.12688/f1000research.175162.1}.
 
+\mine
+Ravichandran P$^{*,\dagger}$, Bach SV$^\dagger$, Phillips RA$^{*}$, Valentine MR, Eagles NJ, Du Y, Rosario ID, Grain HA, Maguire SE, Miller RA, Divecha HR, Tippani M, Montgomery KD, Kleinman JE, Han S, Page SC, Hyde TM, Collado-Torres L Battle A, Martinowich K, {\bf Hicks SC}$^\ddagger$, Maynard K$^\ddagger$. (2026). Spatiomolecular mapping reveals anatomical organization of heterogeneous cell types in the human nucleus accumbens.
+\dg{Accepted in {\it Neuron}. doi: \url{https://doi.org/10.1016/j.neuron.2026.06.002}}.
+\gs{$\Sexpr{pubs[pubs[,8] == "0izLItjtcgwC",5]}$}.
+
 \mine 
 Li W$^*$, Grieshober L, Gertz J, Ivich A, Doherty JA, Greene CS$^{\ddagger}$, {\bf Hicks SC}$^{\ddagger}$. (2026). Characterizing intra- and intertumor heterogeneity in ovarian high-grade serous carcinoma subtypes using single-cell and spatial transcriptomics. \dg{{\it Genome Research}. {\bf 36}(10):2011-2026}. PMID: 42608147. PMCID: PMC13629689. 
+\gs{$\Sexpr{pubs[pubs[,8] == "NXb4pA-qfm4C",5]}$}.
 
 \mine 
 Shah K$^{*,\dagger}$, Hou C$^{*,\dagger}$, Thompson JR$^*$, {\bf Hicks SC}. (2026). BatchSVG: identifying batch-biased genes in the application of spatially variable gene detection. \dg{{\it Bioinformatics}. {\bf 42}(7):btag522}. PMID: 42461016. PMCID: PMC13412158. 
+\gs{$\Sexpr{pubs[pubs[,8] == "WJVC3Jt7v1AC",5]}$}.
 
 \mine
 Shah K$^*$, Totty MS$^*$, Bach SV, Valentine MR, Chandra A, AlGrain HA, Divecha HR, Miller RA, Siewe FRM, Kwon SH, Del Rosario Alvia I, Ramnauth AD, Tippani M, Tyagi S, Kleinman JE, Collado-Torres L, Han S, Hyde TM, Page SC, Maynard KR, {\bf Hicks SC}$^\ddagger$, Martinowich K$^\ddagger$. (2026). Spatio-molecular gene expression reflects dorsal anterior cingulate cortex structure and function in the human brain. \dg{{\it Cell Reports}. {\bf 45}(6):117500}. PMID: 42241279. PMCID: PMC13359017. 
+\gs{$\Sexpr{pubs[pubs[,8] == "FAceZFleit8C",5]}$}.
 
 \item 
 Mulvey B, Wang Y, Divecha HR, Bach SV, Montgomery KD, Cinquemani S, Chandra A, Du Y, Miller RA, Kleinman JE, Page SC, Hyde TM, Martinowich K, {\bf Hicks SC}, Hansen KD$^{\ddagger}$, Maynard KR$^{\ddagger}$. (2026). Spatially-resolved molecular sex differences at single cell resolution in the adult human hypothalamus. \dg{{\it Cell Reports}. {\bf 45}(2):2116877}. PMID: 41615800. PMCID: PMC13003713. 
+\gs{$\Sexpr{pubs[pubs[,8] == "S16KYo8Pm5AC",5]}$}.
 
 \item 
-Goode TD, Bernstein MX, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer MD, Chung A, Duan X, Macosko E, {\bf Hicks SC}, Zweifel LS, Sahay A. (2026). A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding. \dg{{\it Neuron}. {\bf 114}(11):2050-2072.e14}. PMID: 41687615. PMCID: PMC13288035. \gs{$\Sexpr{pubs[pubs[,8] == "9c2xU6iGI7YC",5]}$}.
+Goode TD, Bernstein MX, Totty MS$^*$, Alipio JB, Vicidomini C, Pathak D, Besnard A, Chizari D, Sachdev N, Kritzer MD, Chung A, Duan X, Macosko E, {\bf Hicks SC}, Zweifel LS, Sahay A. (2026). A dorsal hippocampus-prodynorphinergic dorsolateral septum-to-lateral hypothalamus circuit mediates contextual gating of feeding. \dg{{\it Neuron}. {\bf 114}(11):2050-2072.e14}. PMID: 41687615. PMCID: PMC13288035. 
+\gs{$\Sexpr{pubs[pubs[,8] == "9c2xU6iGI7YC",5]}$}.
 
 \item
 Wang A, {\bf Hicks SC}, Geman D, Younes L. (2025). GeneCover: A Combinatorial Approach for Label-free Marker Gene Selection. \dg{{\it Genome Research}. {\bf 35}(12):2744-2755}. PMID: 41224531. PMCID: PMC12667715.
@@ -609,7 +615,8 @@ Shah K$^{*}$, Guo B$^{*}$, {\bf Hicks SC}. (2025). Addressing the mean-variance 
 \gs{$\Sexpr{pubs[pubs[,8] == "e_rmSamDkqQC",5]}$}
 
 \mine 
-Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, {\bf Hicks SC}. (2024). Open Case Studies: Statistics and Data Science Education through Real-World Applications. \dg{{\it Journal of Statistics and Data Science Education}. {\bf 32}(4):331–344}. PMID: 40241937. PMCID: PMC12002412. \gs{$\Sexpr{pubs[pubs[,8] == "2KloaMYe4IUC",5]}$}.
+Wright C, Meng Q, Breshock MR, Atta L, Taub MA, Jager LR, Muschelli J, {\bf Hicks SC}. (2024). Open Case Studies: Statistics and Data Science Education through Real-World Applications. \dg{{\it Journal of Statistics and Data Science Education}. {\bf 32}(4):331–344}. PMID: 40241937. PMCID: PMC12002412. 
+\gs{$\Sexpr{pubs[pubs[,8] == "2KloaMYe4IUC",5]}$}.
 
 \item 
 Ford K, Zuin E, Righelli D, Medina E, Schoch H, Singletary K, Muheim C, Frank MG, {\bf Hicks SC}, Risso D, Peixoto L. (2024). A global transcriptional atlas of the effect of sleep deprivation in the mouse frontal cortex. \dg{{\it iScience}. {\bf 27}(9):110752. PMID: 39280614.  PMCID: PMC11402219}.

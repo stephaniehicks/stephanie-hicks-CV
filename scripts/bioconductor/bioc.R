@@ -16,9 +16,9 @@ software_pkgs <- pkgs %>%
   group_by(Package) %>% 
   summarize(total=sum(Nb_of_distinct_IPs))
 # > date()
-# [1] "Mon Jun  1 21:36:05 2026"
+# [1] "Wed Nov  4 23:38:17 2026"
 # > sum(software_pkgs$total)
-# [1] 756115
+# [1] 1016477
 readr::write_csv(software_pkgs, 
                  file = here("scripts", "bioconductor", "software_pkg.csv"))
 
